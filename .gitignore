@@ -1,8 +1,8 @@
-.csv
-.sqlite
-.json
-.jsonl
-.env
+*.csv
+*.sqlite
+*.json
+*.jsonl
+*.env
 .venv/
 
 # Byte-compiled / optimized / DLL files
