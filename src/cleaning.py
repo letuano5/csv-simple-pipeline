@@ -563,7 +563,8 @@ def _whitespace_cleanup(grid: list[list[Any]]) -> list[list[Any]]:
   for r in range(len(grid)):
     for c in range(len(grid[r])):
       if isinstance(grid[r][c], str):
-        s = re.sub(r"\s+", " ", grid[r][c]).strip()
+        s = grid[r][c].strip()
+        # s = re.sub(r"\s+", " ", grid[r][c]).strip()
         grid[r][c] = s if s else None
   return grid
 

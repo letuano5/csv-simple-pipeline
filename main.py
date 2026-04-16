@@ -174,9 +174,18 @@ def cmd_eval(args: argparse.Namespace) -> None:
       for d in pred_errors[:5]:
         log.warning("  %s: %s", d["instance_id"], d["error"])
     if wrong_no_error:
-      log.info("[%s] First 3 wrong (no error):", model)
-      for d in wrong_no_error[:3]:
-        log.info("  %s", d["instance_id"])
+      pred_map = {p["instance_id"]: p for p in predictions}
+      gold_map = {g["instance_id"]: g for g in gold_list}
+      log.info("[%s] First 5 wrong (no error):", model)
+      for d in wrong_no_error[:5]:
+        iid = d["instance_id"]
+        pred_entry = pred_map.get(iid, {})
+        gold_entry = gold_map.get(iid, {})
+        log.info("  [%s]", iid)
+        log.info("    SQL   : %s", pred_entry.get("sql_answer", "<missing>"))
+        log.info("    SQLG  : %s", pred_entry.get("sql", "<missing>"))
+        # log.info("    Pred  : %s", pred_entry.get("exec_answer"))
+        # log.info("    Gold  : %s", gold_entry.get("exec_answer"))
 
     print(
       f"[{model}] Execution Accuracy: {result['score']:.4f} "
