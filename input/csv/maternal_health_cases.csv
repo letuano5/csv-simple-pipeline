@@ -1,0 +1,796 @@
+,MABN,Nam_Sinh,KhuVuc,Nghe_Nghiep,Dan_Toc,Ton_Giao,Trinh_Do_Hoc_Van,Tinh_Trang_hon_nhan,CoBenh,So_Lan_Mang_Thai,So_Lan_Sinh_Con,Tien_Su_Tranh_Thai,Tien_Su_Gia_Dinh,Tien_Su_MangThai
+312,1,1973,an hanh tay,noi tro,kinh,luong,THPT,Da Ket Hon,Y,3,3,Co Dung Thuoc Tranh Thai,2,2
+313,2,1983,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,1,1
+314,3,1993,an hanh tay,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+315,4,1978,an hanh tay,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+316,5,1971,an hanh tay,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+317,6,1964,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,4,4,Khong Dung Thuoc Tranh Thai,2,2
+318,7,1974,an hanh tay,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+319,8,1967,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,4,4,Khong Dung Thuoc Tranh Thai,2,2
+320,9,1975,an hanh tay,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+321,10,1978,an hanh tay,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+322,11,1967,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+323,12,1976,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,2,2,Co Dung Thuoc Tranh Thai,2,2
+324,12,1966,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+325,14,1973,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+326,15,1976,an hanh tay,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Co Dung Thuoc Tranh Thai,2,2
+327,16,1974,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,2,2,Co Dung Thuoc Tranh Thai,2,2
+328,17,1986,an hanh tay,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+329,18,1980,an hanh tay,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+330,19,1981,an hanh tay,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Co Dung Thuoc Tranh Thai,2,2
+331,20,1979,an hanh tay,can bo sinh vien,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+332,21,1989,an hanh tay,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Co Dung Thuoc Tranh Thai,2,2
+333,22,1966,an hanh tay,buon ban,kinh,luong,THPT,Da Ket Hon,N,2,2,Co Dung Thuoc Tranh Thai,2,2
+334,23,1969,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,4,4,Khong Dung Thuoc Tranh Thai,2,2
+335,24,1981,an hanh tay,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Chua Ket Hon,N,0,0,Khong Dung Thuoc Tranh Thai,2,2
+336,25,1969,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+337,26,1980,an hanh tay,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+338,27,1977,an hanh tay,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,3,3,Co Dung Thuoc Tranh Thai,2,2
+339,28,1972,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+340,29,1983,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+341,30,1989,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+342,31,1982,an hanh tay,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+343,32,1983,an hanh tay,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+344,33,1969,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+345,34,1966,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+346,35,1965,an hanh tay,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,3,3,Khong Dung Thuoc Tranh Thai,2,2
+347,36,1965,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+348,37,1978,an hanh tay,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,3,3,Co Dung Thuoc Tranh Thai,2,2
+349,38,1983,an hanh tay,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+350,39,1982,an hanh tay,can bo sinh vien,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+351,40,1983,an hanh tay,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+352,41,1978,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+353,42,1970,an hanh tay,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+354,43,1973,an hanh tay,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Co Dung Thuoc Tranh Thai,2,2
+355,44,1964,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,4,4,Khong Dung Thuoc Tranh Thai,2,2
+356,45,1975,an hanh tay,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Co Dung Thuoc Tranh Thai,2,2
+357,46,1991,an hanh tay,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Co Dung Thuoc Tranh Thai,2,2
+358,47,1972,an hanh tay,can bo sinh vien,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+359,48,1992,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,1
+360,49,1978,an hanh tay,cong nhan,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,1
+361,50,1984,an hanh tay,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Co Dung Thuoc Tranh Thai,2,2
+362,51,1992,an hanh tay,can bo sinh vien,kinh,luong,Dai Hoc Tro Len,Chua Ket Hon,N,0,0,Khong Dung Thuoc Tranh Thai,2,2
+363,52,1993,an hanh tay,noi tro,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+364,53,1993,an hanh tay,cong nhan,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,0,0,Khong Dung Thuoc Tranh Thai,2,2
+365,54,1990,an hanh tay,noi tro,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+366,55,1967,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,4,4,Co Dung Thuoc Tranh Thai,2,1
+367,56,1978,an hanh tay,can bo sinh vien,kinh,luong,6,Da Ket Hon,N,2,2,Co Dung Thuoc Tranh Thai,1,2
+368,57,1984,an hanh tay,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+369,58,1993,an hanh tay,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,0,0,Khong Dung Thuoc Tranh Thai,2,2
+370,59,1984,an hanh tay,can bo sinh vien,kinh,luong,6,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+371,60,1988,an hanh tay,can bo sinh vien,kinh,luong,6,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+372,61,1990,an hanh tay,cong nhan,kinh,luong,6,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+373,62,1973,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,3,3,Co Dung Thuoc Tranh Thai,2,2
+374,63,1983,an hanh tay,can bo sinh vien,kinh,luong,6,Da Ket Hon,N,1,1,Co Dung Thuoc Tranh Thai,2,2
+375,64,1966,an hanh tay,can bo sinh vien,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Co Dung Thuoc Tranh Thai,2,2
+376,65,1976,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,3,3,Co Dung Thuoc Tranh Thai,2,2
+377,66,1985,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,2,2,Co Dung Thuoc Tranh Thai,2,2
+378,67,1967,an hanh tay,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,3,3,Khong Dung Thuoc Tranh Thai,2,2
+379,68,1985,an hanh tay,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+380,69,1993,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+381,70,1967,an hanh tay,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+382,71,1981,an hanh tay,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+383,72,1977,an hanh tay,buon ban,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+384,73,1963,an hanh tay,can bo sinh vien,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+385,74,1989,an hanh tay,noi tro,kinh,luong,THPT,Da Ket Hon,N,0,0,Khong Dung Thuoc Tranh Thai,2,2
+386,75,1992,an hanh tay,noi tro,kinh,luong,THPT,Chua Ket Hon,N,0,0,Khong Dung Thuoc Tranh Thai,2,2
+387,76,1975,an hanh tay,buon ban,kinh,luong,THPT,Da Ket Hon,N,3,3,Khong Dung Thuoc Tranh Thai,2,2
+388,77,1982,an hanh tay,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+389,78,1970,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+390,79,1987,an hanh tay,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+391,80,1973,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+392,81,1971,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,3,3,Khong Dung Thuoc Tranh Thai,1,2
+393,82,1966,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,0,0,Khong Dung Thuoc Tranh Thai,2,2
+394,83,1974,an hanh tay,buon ban,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+395,84,1989,an hanh tay,cong nhan,kinh,luong,THPT,Da Ket Hon,N,1,1,Co Dung Thuoc Tranh Thai,2,2
+396,85,1983,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+397,86,1968,an hanh tay,nong dan va chan nuoi,kinh,luong,THCS,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+398,87,1997,an hanh tay,noi tro,kinh,luong,THPT,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+399,88,1964,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,4,4,Khong Dung Thuoc Tranh Thai,2,2
+400,89,1964,an hanh tay,nong dan va chan nuoi,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,4,4,Co Dung Thuoc Tranh Thai,1,2
+401,90,1994,an hanh tay,buon ban,kinh,luong,THPT,Da Ket Hon,N,1,1,Co Dung Thuoc Tranh Thai,1,2
+402,91,1986,an hanh tay,noi tro,kinh,luong,THPT,Da Ket Hon,N,3,3,Khong Dung Thuoc Tranh Thai,2,2
+403,92,1979,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,1
+404,93,1989,an hanh tay,cong nhan,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+405,94,1973,an hanh tay,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,5,5,Co Dung Thuoc Tranh Thai,2,1
+406,95,1972,an hanh tay,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,3,3,Co Dung Thuoc Tranh Thai,1,2
+407,96,1974,an hanh tay,cong nhan,kinh,luong,THPT,Da Ket Hon,Y,1,1,Khong Dung Thuoc Tranh Thai,2,2
+408,97,1970,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+409,98,1983,an hanh tay,noi tro,kinh,luong,THPT,Da Ket Hon,Y,2,2,Co Dung Thuoc Tranh Thai,2,2
+410,99,1976,an hanh tay,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Co Dung Thuoc Tranh Thai,2,2
+411,100,1980,an hanh tay,can bo sinh vien,kinh,luong,6,Chua Ket Hon,Y,0,0,Khong Dung Thuoc Tranh Thai,2,2
+412,101,1980,an hanh tay,cong nhan,kinh,luong,THPT,Da Ket Hon,Y,2,2,Co Dung Thuoc Tranh Thai,2,2
+413,102,1967,an hanh tay,noi tro,kinh,luong,THCS,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,1,2
+414,103,1978,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,Y,1,1,Khong Dung Thuoc Tranh Thai,1,1
+415,104,1978,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,Y,5,5,Co Dung Thuoc Tranh Thai,1,2
+416,105,1976,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,Y,3,3,Khong Dung Thuoc Tranh Thai,2,1
+417,106,1984,an hanh tay,noi tro,kinh,luong,THPT,Da Ket Hon,N,0,0,Khong Dung Thuoc Tranh Thai,2,2
+418,107,1983,an hanh tay,noi tro,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+419,108,1987,an hanh tay,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+420,109,1970,an hanh tay,noi tro,kinh,luong,THPT,Da Ket Hon,N,2,2,Co Dung Thuoc Tranh Thai,2,2
+421,110,1995,an hanh tay,noi tro,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+422,111,1983,an hanh tay,can bo sinh vien,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,2,2,Co Dung Thuoc Tranh Thai,2,2
+423,112,1965,an hanh tay,can bo sinh vien,kinh,luong,6,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+424,113,1965,an hanh tay,can bo sinh vien,kinh,luong,6,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+425,114,1974,an hanh tay,noi tro,kinh,luong,THPT,Da Ket Hon,N,5,5,Co Dung Thuoc Tranh Thai,2,2
+426,115,1967,an hanh tay,noi tro,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+427,116,1985,an hanh tay,noi tro,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+428,117,1976,an hanh tay,noi tro,kinh,luong,THPT,Da Ket Hon,N,3,3,Khong Dung Thuoc Tranh Thai,2,2
+429,118,1984,an hanh tay,can bo sinh vien,kinh,luong,6,Da Ket Hon,N,1,1,Co Dung Thuoc Tranh Thai,2,2
+430,119,1988,an hanh tay,noi tro,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,1,2
+431,120,1975,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,1
+432,121,1970,an hanh tay,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+433,122,1985,an hanh tay,buon ban,kinh,luong,THPT,Da Ket Hon,N,3,3,Co Dung Thuoc Tranh Thai,2,2
+434,123,1979,an hanh tay,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,3,3,Co Dung Thuoc Tranh Thai,2,2
+435,124,1972,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,4,4,Khong Dung Thuoc Tranh Thai,2,2
+436,125,1983,an hanh tay,noi tro,kinh,luong,THPT,Da Ket Hon,N,0,0,Co Dung Thuoc Tranh Thai,2,2
+437,126,1985,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Chua Ket Hon,N,0,0,Khong Dung Thuoc Tranh Thai,2,2
+438,127,1987,an hanh tay,noi tro,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+439,128,1985,an hanh tay,noi tro,kinh,luong,THPT,Da Ket Hon,N,2,2,Co Dung Thuoc Tranh Thai,2,2
+440,129,1969,an hanh tay,noi tro,kinh,luong,THPT,Da Ket Hon,N,3,3,Co Dung Thuoc Tranh Thai,2,2
+441,130,1989,an hanh tay,can bo sinh vien,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+442,131,1996,an hanh tay,buon ban,kinh,luong,Dai Hoc Tro Len,Chua Ket Hon,N,0,0,Khong Dung Thuoc Tranh Thai,2,2
+443,131,1966,an hanh tay,buon ban,kinh,luong,THPT,Da Ket Hon,N,3,3,Co Dung Thuoc Tranh Thai,2,2
+444,132,1976,an hanh tay,noi tro,kinh,luong,THPT,Da Ket Hon,N,3,3,Co Dung Thuoc Tranh Thai,2,2
+445,134,1969,an hanh tay,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,4,4,Khong Dung Thuoc Tranh Thai,1,1
+446,135,1970,an hanh tay,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,3,3,Khong Dung Thuoc Tranh Thai,2,2
+447,136,1971,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,3,3,Co Dung Thuoc Tranh Thai,2,2
+448,137,1971,an hanh tay,buon ban,kinh,luong,THPT,Da Ket Hon,N,3,3,Co Dung Thuoc Tranh Thai,2,2
+449,138,1985,an hanh tay,noi tro,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+450,139,1979,an hanh tay,noi tro,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,3,3,Khong Dung Thuoc Tranh Thai,2,2
+451,140,1977,an hanh tay,noi tro,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+452,141,1977,an hanh tay,noi tro,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+453,142,1983,an hanh tay,buon ban,kinh,luong,THPT,Da Ket Hon,N,2,2,Co Dung Thuoc Tranh Thai,2,2
+454,143,1995,an hanh tay,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+455,144,1971,an hanh tay,noi tro,kinh,luong,THPT,Da Ket Hon,N,3,3,Co Dung Thuoc Tranh Thai,2,2
+456,145,1992,an hanh tay,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+457,146,1996,an hanh tay,nong dan va chan nuoi,kinh,luong,THCS,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+458,147,1984,an hanh tay,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,3,3,Co Dung Thuoc Tranh Thai,2,2
+459,148,1970,an hanh tay,can bo sinh vien,kinh,luong,THPT,Da Ket Hon,N,3,3,Khong Dung Thuoc Tranh Thai,2,2
+460,149,1977,an hanh tay,noi tro,kinh,luong,THPT,Da Ket Hon,N,2,2,Co Dung Thuoc Tranh Thai,2,2
+461,150,1967,an hanh tay,noi tro,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+462,151,1988,an hanh tay,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+463,152,1978,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,1,2
+464,152,1991,an hanh tay,cong nhan,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+465,154,1975,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,4,4,Co Dung Thuoc Tranh Thai,2,2
+466,155,1966,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,3,3,Khong Dung Thuoc Tranh Thai,2,2
+467,156,1972,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,3,3,Co Dung Thuoc Tranh Thai,2,2
+468,158,1987,an hanh tay,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+469,159,1981,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,3,3,Khong Dung Thuoc Tranh Thai,2,2
+470,160,1975,an hanh tay,buon ban,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,2,2,Co Dung Thuoc Tranh Thai,2,2
+471,161,1975,an hanh tay,buon ban,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,1,1
+472,162,1990,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+473,163,1969,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+474,164,1976,an hanh tay,can bo sinh vien,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+475,165,1983,an hanh tay,nong dan va chan nuoi,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,2,2,Co Dung Thuoc Tranh Thai,2,2
+476,166,1980,an hanh tay,can bo sinh vien,kinh,luong,THPT,Da Ket Hon,N,2,2,Co Dung Thuoc Tranh Thai,2,2
+477,167,1977,an hanh tay,noi tro,kinh,luong,THPT,Da Ket Hon,N,3,3,Co Dung Thuoc Tranh Thai,2,2
+478,167,1970,an hanh tay,nong dan va chan nuoi,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,4,4,Khong Dung Thuoc Tranh Thai,2,2
+479,168,1983,an hanh tay,can bo sinh vien,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,2,2,Co Dung Thuoc Tranh Thai,2,2
+480,169,1968,an hanh tay,buon ban,kinh,luong,THPT,Da Ket Hon,N,4,4,Khong Dung Thuoc Tranh Thai,2,2
+481,170,1977,an hanh tay,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+482,171,1970,an hanh tay,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,4,4,Co Dung Thuoc Tranh Thai,2,2
+483,172,1969,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Chua Ket Hon,N,0,0,Khong Dung Thuoc Tranh Thai,2,2
+484,173,1976,an hanh tay,buon ban,kinh,luong,THPT,Da Ket Hon,N,3,3,Khong Dung Thuoc Tranh Thai,2,2
+485,174,1967,an hanh tay,buon ban,kinh,luong,THPT,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+486,175,1969,an hanh tay,can bo sinh vien,kinh,luong,6,Chua Ket Hon,N,0,0,Khong Dung Thuoc Tranh Thai,2,2
+487,176,1979,an hanh tay,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+488,177,1987,an hanh tay,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+489,178,1979,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+490,179,1975,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,3,3,Khong Dung Thuoc Tranh Thai,1,2
+491,180,1983,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,2,2,Co Dung Thuoc Tranh Thai,2,2
+492,181,1993,an hanh tay,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,1,2
+493,182,1971,an hanh tay,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+494,183,1972,an hanh tay,can bo sinh vien,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+495,184,1973,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+496,185,1984,an hanh tay,noi tro,kinh,luong,"Trung cap, cao Dang",Chua Ket Hon,N,0,0,Khong Dung Thuoc Tranh Thai,2,2
+497,186,1981,an hanh tay,can bo sinh vien,kinh,luong,6,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,1
+498,187,1983,an hanh tay,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+499,188,1998,an hanh tay,noi tro,kinh,luong,THPT,Chua Ket Hon,N,0,0,Khong Dung Thuoc Tranh Thai,2,2
+500,189,1982,an hanh tay,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+501,190,1988,an hanh tay,buon ban,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+502,191,1985,an hanh tay,buon ban,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+503,192,1984,an hanh tay,cong nhan,kinh,luong,THPT,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+504,193,1972,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+505,194,1991,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,2,2,Co Dung Thuoc Tranh Thai,2,2
+506,195,1995,an hanh tay,noi tro,kinh,luong,THPT,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+507,196,1977,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,4,4,Khong Dung Thuoc Tranh Thai,1,1
+508,197,1982,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+509,198,1990,an hanh tay,noi tro,kinh,luong,THPT,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+510,198,1969,an hanh tay,buon ban,kinh,luong,THPT,Da Ket Hon,N,3,3,Khong Dung Thuoc Tranh Thai,2,2
+511,200,1983,an hanh tay,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+512,201,1976,an hanh tay,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+513,202,1978,an hanh tay,buon ban,kinh,luong,THPT,Da Ket Hon,N,3,3,Khong Dung Thuoc Tranh Thai,2,2
+514,203,1968,an hanh tay,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+515,204,1983,an hanh tay,noi tro,kinh,luong,THPT,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+516,205,1996,an hanh tay,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+517,206,1974,an hanh tay,noi tro,kinh,luong,THPT,Da Ket Hon,N,1,1,Co Dung Thuoc Tranh Thai,2,2
+518,207,1967,an hanh tay,noi tro,kinh,luong,THPT,Da Ket Hon,N,2,2,Co Dung Thuoc Tranh Thai,2,2
+519,208,1974,an hanh tay,noi tro,kinh,luong,THPT,Da Ket Hon,N,2,2,Co Dung Thuoc Tranh Thai,2,2
+520,209,1967,an hanh tay,noi tro,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,3,3,Khong Dung Thuoc Tranh Thai,2,2
+521,210,1976,an hanh tay,noi tro,kinh,luong,THPT,Da Ket Hon,N,2,2,Co Dung Thuoc Tranh Thai,2,2
+522,211,1979,an hanh tay,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,3,3,Khong Dung Thuoc Tranh Thai,2,2
+523,212,1964,an hanh tay,can bo sinh vien,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+524,213,1979,an hanh tay,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Co Dung Thuoc Tranh Thai,2,2
+525,214,1977,an hanh tay,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+526,215,1966,an hanh tay,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+527,216,1976,an hanh tay,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+528,217,1990,an hanh tay,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Co Dung Thuoc Tranh Thai,2,2
+529,218,1990,an hanh tay,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+530,219,1970,an hanh tay,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,4,4,Khong Dung Thuoc Tranh Thai,2,2
+531,220,1990,an hanh tay,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Co Dung Thuoc Tranh Thai,2,2
+532,221,1976,an hanh tay,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Chua Ket Hon,N,0,0,Khong Dung Thuoc Tranh Thai,2,2
+661,222,1973,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+662,223,1978,an phu,cong nhan,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,1
+663,224,1983,an phu,buon ban,kinh,luong,THCS,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+664,225,1978,an phu,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,1
+665,226,1972,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,3,3,Khong Dung Thuoc Tranh Thai,2,2
+666,227,1971,an phu,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,3,3,Khong Dung Thuoc Tranh Thai,2,2
+667,228,1987,an phu,can bo sinh vien,kinh,luong,Dai Hoc Tro Len,Chua Ket Hon,N,0,0,Khong Dung Thuoc Tranh Thai,2,2
+668,229,1962,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+669,230,1987,an phu,can bo sinh vien,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+670,231,1979,an phu,cong nhan,kinh,luong,THPT,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+671,232,1984,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+672,233,1975,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+673,234,1968,an phu,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+674,235,1972,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,3,3,Khong Dung Thuoc Tranh Thai,2,2
+675,236,1967,an phu,noi tro,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+676,237,1963,an phu,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+677,238,1965,an phu,buon ban,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,1
+678,239,1969,an phu,cong nhan,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+679,240,1975,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+680,241,1974,an phu,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+681,242,1993,an phu,cong nhan,kinh,luong,"Trung cap, cao Dang",Chua Ket Hon,N,0,0,Khong Dung Thuoc Tranh Thai,2,2
+682,243,1983,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,3,3,Khong Dung Thuoc Tranh Thai,2,1
+683,244,1980,an phu,cong nhan,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,2,2,Co Dung Thuoc Tranh Thai,2,1
+684,245,1978,an phu,can bo sinh vien,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+685,246,1971,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,1
+686,247,1984,an phu,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+687,248,1982,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Co Dung Thuoc Tranh Thai,2,2
+688,249,1979,an phu,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+689,250,1962,an phu,can bo sinh vien,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+690,251,1988,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Co Dung Thuoc Tranh Thai,2,2
+691,252,1973,an phu,noi tro,kinh,luong,"Trung cap, cao Dang",Chua Ket Hon,N,0,0,Khong Dung Thuoc Tranh Thai,2,2
+692,253,1972,an phu,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+693,254,1985,an phu,can bo sinh vien,kinh,luong,6,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+694,255,1988,an phu,can bo sinh vien,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+695,256,1983,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Co Dung Thuoc Tranh Thai,2,1
+696,257,1985,an phu,can bo sinh vien,kinh,luong,Dai Hoc Tro Len,Chua Ket Hon,N,0,0,Khong Dung Thuoc Tranh Thai,2,2
+697,258,1982,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,1,1,Co Dung Thuoc Tranh Thai,2,2
+698,259,1974,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,3,3,Khong Dung Thuoc Tranh Thai,2,2
+699,260,1973,an phu,buon ban,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,2,2,Co Dung Thuoc Tranh Thai,2,2
+700,261,1990,an phu,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+701,262,1972,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,3,3,Khong Dung Thuoc Tranh Thai,2,2
+702,263,1987,an phu,cong nhan,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+703,264,1995,an phu,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,0,0,Khong Dung Thuoc Tranh Thai,2,2
+704,265,1968,an phu,buon ban,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+705,266,1968,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,3,3,Co Dung Thuoc Tranh Thai,2,2
+706,267,1978,an phu,buon ban,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+707,268,1979,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Chua Ket Hon,N,0,0,Khong Dung Thuoc Tranh Thai,2,2
+708,269,1973,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Co Dung Thuoc Tranh Thai,2,2
+709,270,1989,an phu,can bo sinh vien,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+710,271,1977,an phu,noi tro,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+711,272,1988,an phu,cong nhan,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,1
+712,273,1968,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+713,274,1982,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+714,275,1982,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+715,276,1982,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+716,277,1980,an phu,cong nhan,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,3,3,Khong Dung Thuoc Tranh Thai,2,1
+717,278,1998,an phu,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Chua Ket Hon,N,0,0,Khong Dung Thuoc Tranh Thai,2,2
+718,279,1965,an phu,noi tro,kinh,luong,"Trung cap, cao Dang",Chua Ket Hon,N,0,0,Khong Dung Thuoc Tranh Thai,2,2
+719,280,1967,an phu,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+720,281,1980,an phu,noi tro,kinh,luong,THPT,Chua Ket Hon,N,0,0,Khong Dung Thuoc Tranh Thai,2,2
+721,282,1986,an phu,cong nhan,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+722,283,1976,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+723,284,1991,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Chua Ket Hon,N,0,0,Khong Dung Thuoc Tranh Thai,2,2
+724,285,1964,an phu,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+725,286,1990,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+726,287,1971,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,3,3,Khong Dung Thuoc Tranh Thai,2,2
+727,288,1985,an phu,can bo sinh vien,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+728,289,1974,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,3,3,Khong Dung Thuoc Tranh Thai,2,2
+729,290,1973,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Chua Ket Hon,N,0,0,Khong Dung Thuoc Tranh Thai,2,2
+730,291,1971,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,3,3,Khong Dung Thuoc Tranh Thai,2,2
+731,292,1978,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+732,293,1973,an phu,buon ban,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+733,294,1983,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+734,295,1986,an phu,can bo sinh vien,kinh,luong,6,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+735,296,1983,an phu,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+736,297,1977,an phu,can bo sinh vien,kinh,luong,Dai Hoc Tro Len,Chua Ket Hon,N,0,0,Khong Dung Thuoc Tranh Thai,2,2
+737,298,1962,an phu,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,5,4,Khong Dung Thuoc Tranh Thai,2,2
+738,299,1980,an phu,noi tro,kinh,luong,THPT,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+739,300,1979,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+740,301,1974,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+741,302,1965,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,4,4,Khong Dung Thuoc Tranh Thai,2,2
+742,303,1967,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+743,304,1988,an phu,nong dan va chan nuoi,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+744,305,1962,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+745,306,1991,an phu,nong dan va chan nuoi,kinh,luong,THPT,Chua Ket Hon,N,0,0,Khong Dung Thuoc Tranh Thai,2,2
+746,307,1986,an phu,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+747,308,1967,an phu,cong nhan,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,1
+748,309,1980,an phu,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+749,310,1973,an phu,cong nhan,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+750,311,1998,an phu,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Chua Ket Hon,N,0,0,Khong Dung Thuoc Tranh Thai,2,2
+751,312,1969,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Chua Ket Hon,N,0,0,Khong Dung Thuoc Tranh Thai,2,2
+752,313,1973,an phu,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+753,314,1992,an phu,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+754,315,1989,an phu,noi tro,kinh,luong,THPT,Chua Ket Hon,N,0,0,Khong Dung Thuoc Tranh Thai,2,2
+755,316,1964,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Co Dung Thuoc Tranh Thai,2,2
+756,317,1982,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Co Dung Thuoc Tranh Thai,2,2
+757,318,1973,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+758,319,1984,an phu,buon ban,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,Y,1,1,Khong Dung Thuoc Tranh Thai,2,2
+759,320,1966,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+760,321,1982,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,1,1,Khong Dung Thuoc Tranh Thai,2,2
+761,322,1975,an phu,buon ban,kinh,luong,THPT,Chua Ket Hon,Y,0,0,Khong Dung Thuoc Tranh Thai,2,2
+762,323,1988,an phu,cong nhan,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,Y,1,1,Khong Dung Thuoc Tranh Thai,2,2
+763,324,1982,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+764,325,1979,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+765,326,1968,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+766,327,1977,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+767,328,1962,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,1,1,Khong Dung Thuoc Tranh Thai,2,2
+768,329,1981,an phu,cong nhan,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+769,330,1975,an phu,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+770,331,1969,an phu,buon ban,kinh,phat,THPT,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+771,332,1971,an phu,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Co Dung Thuoc Tranh Thai,2,1
+772,333,1972,an phu,buon ban,kinh,thien chua,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+773,334,1977,an phu,cong nhan,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+774,335,1990,an phu,buon ban,kinh,luong,THPT,Chua Ket Hon,Y,1,1,Khong Dung Thuoc Tranh Thai,2,2
+775,336,1963,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+776,337,1973,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Chua Ket Hon,Y,0,0,Khong Dung Thuoc Tranh Thai,2,2
+777,338,1994,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,1,1,Khong Dung Thuoc Tranh Thai,2,2
+778,339,1970,an phu,can bo sinh vien,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+779,340,1967,an phu,cong nhan,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,1
+780,341,1970,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+781,342,1965,an phu,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,3,3,Khong Dung Thuoc Tranh Thai,2,2
+782,343,1969,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,3,3,Khong Dung Thuoc Tranh Thai,2,2
+783,344,1967,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,3,3,Khong Dung Thuoc Tranh Thai,2,2
+784,345,1974,an phu,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,1,1,Khong Dung Thuoc Tranh Thai,2,2
+785,346,1965,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+786,347,1971,an phu,can bo sinh vien,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,Y,2,2,Co Dung Thuoc Tranh Thai,2,1
+787,348,1984,an phu,cong nhan,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,3,3,Co Dung Thuoc Tranh Thai,2,2
+788,349,1977,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+789,350,1974,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+790,351,1973,an phu,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Co Dung Thuoc Tranh Thai,2,2
+791,352,1962,an phu,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,1
+792,353,1967,an phu,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,3,3,Khong Dung Thuoc Tranh Thai,2,1
+793,354,1964,an phu,buon ban,kinh,phat,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+533,355,1985,an hanh tay,buon ban,kinh,luong,THPT,Da Ket Hon,Y,2,2,Co Dung Thuoc Tranh Thai,2,1
+534,356,1969,an hanh tay,noi tro,kinh,luong,THPT,Da Ket Hon,Y,2,2,Co Dung Thuoc Tranh Thai,2,2
+535,357,1977,an hanh tay,noi tro,kinh,luong,Mu Chu,Da Ket Hon,Y,2,2,Co Dung Thuoc Tranh Thai,2,2
+536,358,1982,an hanh tay,buon ban,kinh,luong,THPT,Da Ket Hon,Y,2,2,Co Dung Thuoc Tranh Thai,2,2
+537,359,1969,an hanh tay,buon ban,kinh,luong,THPT,Chua Ket Hon,Y,0,0,Khong Dung Thuoc Tranh Thai,1,2
+538,360,1987,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,Y,3,3,Khong Dung Thuoc Tranh Thai,2,2
+539,361,1985,an hanh tay,nong dan va chan nuoi,kinh,luong,THCS,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+540,362,1976,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,Y,3,3,Co Dung Thuoc Tranh Thai,2,2
+541,363,1974,an hanh tay,noi tro,kinh,luong,THPT,Chua Ket Hon,Y,0,0,Khong Dung Thuoc Tranh Thai,2,2
+542,364,1973,an hanh tay,nong dan va chan nuoi,kinh,luong,THCS,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,1,2
+543,365,1979,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,Y,3,3,Co Dung Thuoc Tranh Thai,1,1
+544,366,1983,an hanh tay,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,1,2
+545,367,1985,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,Y,3,3,Khong Dung Thuoc Tranh Thai,2,1
+546,368,1976,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,Y,3,3,Khong Dung Thuoc Tranh Thai,2,2
+547,369,1978,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,Y,3,3,Khong Dung Thuoc Tranh Thai,1,2
+548,370,1983,an hanh tay,buon ban,kinh,luong,THPT,Da Ket Hon,Y,3,3,Co Dung Thuoc Tranh Thai,2,2
+549,371,1969,an hanh tay,noi tro,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,Y,2,2,Co Dung Thuoc Tranh Thai,2,2
+550,371,1985,an hanh tay,noi tro,kinh,luong,THPT,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+551,373,1990,an hanh tay,buon ban,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+552,374,1985,an hanh tay,cong nhan,kinh,luong,THCS,Da Ket Hon,Y,2,2,Co Dung Thuoc Tranh Thai,1,2
+553,375,1983,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,Y,3,3,Co Dung Thuoc Tranh Thai,1,1
+554,376,1986,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,Y,1,1,Khong Dung Thuoc Tranh Thai,2,1
+555,377,1983,an hanh tay,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Co Dung Thuoc Tranh Thai,2,2
+556,378,1981,an hanh tay,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+557,379,1977,an hanh tay,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,3,3,Co Dung Thuoc Tranh Thai,2,2
+558,380,1977,an hanh tay,noi tro,kinh,luong,THPT,Da Ket Hon,Y,3,3,Co Dung Thuoc Tranh Thai,2,2
+559,381,1978,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,Y,0,0,Khong Dung Thuoc Tranh Thai,2,2
+560,382,1976,an hanh tay,cong nhan,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,3,3,Co Dung Thuoc Tranh Thai,2,2
+561,383,1975,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,1,2
+562,384,1974,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,Y,3,3,Co Dung Thuoc Tranh Thai,2,2
+563,385,1975,an hanh tay,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+564,386,1974,an hanh tay,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+565,387,1974,an hanh tay,buon ban,kinh,luong,THPT,Da Ket Hon,Y,3,3,Co Dung Thuoc Tranh Thai,2,2
+566,388,1971,an hanh tay,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,4,4,Khong Dung Thuoc Tranh Thai,2,2
+567,389,1971,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,Y,3,3,Khong Dung Thuoc Tranh Thai,2,2
+568,390,1968,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,Y,2,2,Co Dung Thuoc Tranh Thai,2,2
+569,391,1965,an hanh tay,buon ban,kinh,luong,THPT,Chua Ket Hon,Y,0,0,Co Dung Thuoc Tranh Thai,2,2
+570,392,1966,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,Y,4,4,Khong Dung Thuoc Tranh Thai,1,2
+571,393,1987,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,1,1
+572,394,1967,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,Y,2,2,Co Dung Thuoc Tranh Thai,2,2
+573,395,1974,an hanh tay,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Co Dung Thuoc Tranh Thai,2,2
+574,396,1962,an hanh tay,noi tro,kinh,luong,THCS,Chua Ket Hon,Y,0,0,Khong Dung Thuoc Tranh Thai,1,2
+575,397,1973,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,Y,3,3,Khong Dung Thuoc Tranh Thai,2,2
+576,398,1977,an hanh tay,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,1
+577,399,1978,an hanh tay,cong nhan,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+578,400,1975,an ninh,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+579,401,1994,an ninh,can bo sinh vien,kinh,luong,6,Chua Ket Hon,N,0,0,Khong Dung Thuoc Tranh Thai,2,2
+580,402,1980,an ninh,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+581,403,1990,an ninh,noi tro,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+582,404,1980,an ninh,buon ban,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+583,405,1981,an ninh,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+584,406,1981,an ninh,can bo sinh vien,kinh,luong,6,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+585,407,1997,an ninh,can bo sinh vien,kinh,luong,6,Chua Ket Hon,N,0,0,Khong Dung Thuoc Tranh Thai,2,2
+586,408,1984,an ninh,can bo sinh vien,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+587,409,1977,an ninh,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+588,410,1962,an ninh,can bo sinh vien,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+589,411,1975,an ninh,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+590,412,1989,an ninh,buon ban,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+591,413,1976,an ninh,can bo sinh vien,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,3,3,Khong Dung Thuoc Tranh Thai,2,2
+592,414,1983,an ninh,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+593,415,1981,an ninh,can bo sinh vien,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+594,416,1984,an ninh,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+595,417,1985,an ninh,can bo sinh vien,kinh,luong,6,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+596,418,1987,an ninh,cong nhan,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+597,419,1972,an ninh,can bo sinh vien,kinh,luong,6,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+598,420,1975,an ninh,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,3,3,Khong Dung Thuoc Tranh Thai,2,2
+599,421,1988,an ninh,noi tro,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+600,422,1990,an ninh,noi tro,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+601,423,1980,an ninh,can bo sinh vien,kinh,luong,6,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+602,424,1992,an ninh,can bo sinh vien,kinh,luong,6,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+603,425,1975,an ninh,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,4,4,Khong Dung Thuoc Tranh Thai,2,2
+604,426,1984,an ninh,can bo sinh vien,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+605,427,1975,an ninh,can bo sinh vien,kinh,luong,6,Da Ket Hon,N,2,2,Co Dung Thuoc Tranh Thai,1,1
+606,428,1975,an ninh,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,4,4,Khong Dung Thuoc Tranh Thai,2,2
+607,429,1992,an ninh,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+608,430,1990,an ninh,noi tro,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+609,431,1995,an ninh,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+610,432,1978,an ninh,can bo sinh vien,kinh,luong,6,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+611,433,1982,an ninh,can bo sinh vien,kinh,luong,6,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+612,434,1990,an ninh,can bo sinh vien,kinh,luong,6,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+613,435,1994,an ninh,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+614,436,1984,an ninh,can bo sinh vien,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+615,437,1978,an ninh,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+616,438,1983,an ninh,can bo sinh vien,kinh,luong,6,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+617,439,1966,an ninh,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+618,440,1989,an ninh,can bo sinh vien,kinh,luong,6,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+619,441,1989,an ninh,can bo sinh vien,kinh,luong,6,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+620,442,1979,an ninh,can bo sinh vien,kinh,luong,6,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+621,443,1986,an ninh,can bo sinh vien,kinh,luong,6,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+622,444,1987,an ninh,can bo sinh vien,kinh,luong,6,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+623,445,1969,an ninh,buon ban,kinh,luong,THPT,Da Ket Hon,N,3,3,Khong Dung Thuoc Tranh Thai,2,2
+624,446,1984,an ninh,cong nhan,kinh,thien chua,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+625,447,1986,an ninh,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+626,448,1988,an ninh,noi tro,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+627,449,1979,an ninh,can bo sinh vien,kinh,luong,6,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+628,450,1986,an ninh,can bo sinh vien,kinh,luong,6,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+629,451,1990,an ninh,noi tro,kinh,luong,6,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+630,452,1977,an ninh,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,4,4,Khong Dung Thuoc Tranh Thai,2,2
+631,453,1985,an ninh,noi tro,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,0,0,Khong Dung Thuoc Tranh Thai,2,2
+632,454,1977,an ninh,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+633,455,1987,an ninh,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,3,Khong Dung Thuoc Tranh Thai,2,2
+634,456,1974,an ninh,buon ban,kinh,luong,THPT,Da Ket Hon,N,2,2,Co Dung Thuoc Tranh Thai,1,1
+635,457,1982,an ninh,can bo sinh vien,kinh,luong,6,Da Ket Hon,N,2,2,Co Dung Thuoc Tranh Thai,1,1
+636,458,1988,an ninh,can bo sinh vien,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+637,459,1990,an ninh,noi tro,kinh,luong,Dai Hoc Tro Len,Chua Ket Hon,N,0,0,Khong Dung Thuoc Tranh Thai,2,2
+638,460,1964,an ninh,can bo sinh vien,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+639,461,1962,an ninh,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,3,3,Khong Dung Thuoc Tranh Thai,2,2
+640,462,1963,an ninh,buon ban,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+641,463,1979,an ninh,can bo sinh vien,kinh,luong,6,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+642,464,1970,an ninh,buon ban,kinh,luong,THPT,Da Ket Hon,N,1,1,Co Dung Thuoc Tranh Thai,1,2
+643,465,1990,an ninh,can bo sinh vien,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+644,466,1974,an ninh,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+645,467,1991,an ninh,can bo sinh vien,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+646,468,1988,an ninh,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+647,469,1989,an ninh,can bo sinh vien,kinh,luong,6,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+648,470,1985,an ninh,can bo sinh vien,kinh,luong,6,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+649,471,1985,an ninh,can bo sinh vien,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+650,472,1974,an ninh,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,3,3,Khong Dung Thuoc Tranh Thai,2,2
+651,473,1978,an ninh,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Co Dung Thuoc Tranh Thai,1,2
+652,474,1975,an ninh,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Co Dung Thuoc Tranh Thai,1,1
+653,475,1990,an ninh,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Co Dung Thuoc Tranh Thai,1,2
+654,476,1973,an ninh,buon ban,kinh,luong,THPT,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+655,477,1976,an ninh,buon ban,khac,luong,THPT,Da Ket Hon,Y,1,1,Co Dung Thuoc Tranh Thai,2,2
+656,478,1983,an ninh,can bo sinh vien,kinh,luong,6,Da Ket Hon,Y,1,1,Co Dung Thuoc Tranh Thai,2,2
+657,479,1978,an ninh,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,4,4,Co Dung Thuoc Tranh Thai,1,1
+658,480,1981,an ninh,can bo sinh vien,kinh,luong,6,Da Ket Hon,Y,1,1,Co Dung Thuoc Tranh Thai,1,1
+659,481,1973,an ninh,noi tro,kinh,luong,THPT,Da Ket Hon,Y,1,1,Khong Dung Thuoc Tranh Thai,1,2
+660,482,1974,an ninh,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Co Dung Thuoc Tranh Thai,1,2
+180,483,1973,an khuong,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+181,484,1980,an khuong,can bo sinh vien,kinh,luong,6,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+182,485,1973,an khuong,noi tro,kinh,luong,THPT,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+183,486,1987,an khuong,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+184,487,1986,an khuong,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+185,488,1992,an khuong,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+186,489,1990,an khuong,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+187,490,1990,an khuong,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+188,491,1982,an khuong,can bo sinh vien,kinh,luong,6,Da Ket Hon,N,3,3,Khong Dung Thuoc Tranh Thai,2,2
+189,492,1978,an khuong,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,3,3,Khong Dung Thuoc Tranh Thai,2,2
+190,493,1982,an khuong,can bo sinh vien,kinh,luong,6,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,1
+191,494,1990,an khuong,noi tro,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+192,495,1983,an khuong,buon ban,kinh,luong,THPT,Da Ket Hon,N,3,3,Khong Dung Thuoc Tranh Thai,2,2
+193,496,1981,an khuong,can bo sinh vien,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,2,2,Co Dung Thuoc Tranh Thai,1,2
+194,497,1988,an khuong,can bo sinh vien,kinh,luong,6,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+195,498,1979,an khuong,can bo sinh vien,kinh,phat,6,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+196,499,1963,an khuong,can bo sinh vien,kinh,luong,6,Da Ket Hon,N,3,2,Khong Dung Thuoc Tranh Thai,2,2
+197,500,1978,an khuong,can bo sinh vien,kinh,luong,6,Da Ket Hon,N,1,0,Khong Dung Thuoc Tranh Thai,2,2
+198,501,1981,an khuong,can bo sinh vien,kinh,luong,6,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+199,502,1986,an khuong,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+200,503,1970,an khuong,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+201,504,1979,an khuong,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,3,3,Khong Dung Thuoc Tranh Thai,2,2
+202,505,1976,an khuong,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+203,506,1982,an khuong,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+204,507,1989,an khuong,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,3,3,Khong Dung Thuoc Tranh Thai,2,2
+205,508,1986,an khuong,can bo sinh vien,kinh,luong,6,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+206,509,1993,an khuong,buon ban,kinh,luong,THPT,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+207,510,1975,an khuong,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+208,511,1982,an khuong,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+209,512,1978,an khuong,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,3,2,Khong Dung Thuoc Tranh Thai,2,2
+210,513,1990,an khuong,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+211,514,1994,an khuong,buon ban,kinh,luong,THPT,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+212,515,1991,an khuong,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+213,516,1990,an khuong,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+214,517,1987,an khuong,noi tro,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+215,518,1989,an khuong,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+216,519,1989,an khuong,can bo sinh vien,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+217,520,1980,an khuong,buon ban,kinh,luong,THPT,Da Ket Hon,N,3,3,Khong Dung Thuoc Tranh Thai,2,2
+218,521,1985,an khuong,noi tro,kinh,luong,THPT,Da Ket Hon,N,1,1,Co Dung Thuoc Tranh Thai,2,2
+219,522,1991,an khuong,can bo sinh vien,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+220,523,1990,an khuong,buon ban,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+221,524,1989,an khuong,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+222,525,1980,an khuong,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,3,3,Co Dung Thuoc Tranh Thai,2,2
+223,526,1986,an khuong,noi tro,kinh,luong,THPT,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+224,527,1986,an khuong,can bo sinh vien,kinh,luong,6,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+225,528,1990,an khuong,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+226,529,1989,an khuong,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Co Dung Thuoc Tranh Thai,2,2
+227,530,1983,an khuong,can bo sinh vien,kinh,luong,6,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,1,2
+228,531,1982,an khuong,can bo sinh vien,kinh,luong,6,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+229,532,1983,an khuong,noi tro,kinh,phat,6,Da Ket Hon,N,4,2,Khong Dung Thuoc Tranh Thai,2,2
+230,533,1968,an khuong,buon ban,kinh,phat,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Co Dung Thuoc Tranh Thai,2,2
+231,534,1996,an khuong,noi tro,kinh,luong,"Trung cap, cao Dang",Chua Ket Hon,N,0,0,Khong Dung Thuoc Tranh Thai,1,2
+232,535,1974,an khuong,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,3,3,Khong Dung Thuoc Tranh Thai,2,2
+233,536,1988,an khuong,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+234,537,1986,an khuong,buon ban,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+235,538,1987,an khuong,can bo sinh vien,kinh,luong,6,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+236,539,1980,an khuong,noi tro,kinh,luong,THPT,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+237,540,1985,an khuong,can bo sinh vien,kinh,luong,6,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+238,541,1989,an khuong,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Co Dung Thuoc Tranh Thai,2,2
+239,542,1980,an khuong,can bo sinh vien,kinh,luong,6,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+240,543,1980,an khuong,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,3,3,Khong Dung Thuoc Tranh Thai,2,1
+241,544,1974,an khuong,noi tro,kinh,phat,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Co Dung Thuoc Tranh Thai,2,2
+242,545,1979,an khuong,can bo sinh vien,kinh,luong,6,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,1
+243,546,1980,an khuong,noi tro,kinh,luong,THPT,Chua Ket Hon,Y,0,0,Khong Dung Thuoc Tranh Thai,2,2
+244,547,1976,an khuong,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+245,548,1970,an khuong,buon ban,kinh,luong,THPT,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+246,549,1986,an khuong,noi tro,kinh,phat,"Trung cap, cao Dang",Da Ket Hon,Y,1,1,Khong Dung Thuoc Tranh Thai,2,1
+247,550,1970,an khuong,noi tro,kinh,phat,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+248,551,1980,an khuong,buon ban,kinh,phat,THPT,Da Ket Hon,Y,3,3,Khong Dung Thuoc Tranh Thai,2,1
+249,552,1974,an khuong,can bo sinh vien,kinh,luong,6,Da Ket Hon,Y,1,1,Khong Dung Thuoc Tranh Thai,2,1
+250,553,1986,an khuong,buon ban,kinh,phat,THPT,Da Ket Hon,Y,3,3,Khong Dung Thuoc Tranh Thai,2,2
+251,554,1974,an khuong,buon ban,kinh,phat,"Trung cap, cao Dang",Da Ket Hon,Y,3,3,Co Dung Thuoc Tranh Thai,2,2
+252,555,1964,an khuong,buon ban,kinh,phat,THPT,Da Ket Hon,Y,2,2,Co Dung Thuoc Tranh Thai,2,2
+253,556,1998,an khuong,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,1,1,Khong Dung Thuoc Tranh Thai,1,1
+254,557,1990,an khuong,buon ban,kinh,luong,THPT,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,1,2
+255,558,1972,an khuong,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+256,559,1962,an khuong,cong nhan,kinh,luong,THPT,Da Ket Hon,Y,3,3,Khong Dung Thuoc Tranh Thai,2,1
+257,560,1973,an khuong,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+258,561,1978,an khuong,cong nhan,kinh,luong,THPT,Da Ket Hon,Y,1,1,Khong Dung Thuoc Tranh Thai,2,2
+259,562,1998,an khuong,noi tro,kinh,luong,"Trung cap, cao Dang",Chua Ket Hon,Y,0,0,Khong Dung Thuoc Tranh Thai,2,2
+260,563,1978,an khuong,can bo sinh vien,kinh,phat,6,Da Ket Hon,Y,2,2,Co Dung Thuoc Tranh Thai,2,2
+261,564,1989,an khuong,noi tro,kinh,phat,"Trung cap, cao Dang",Da Ket Hon,Y,1,1,Khong Dung Thuoc Tranh Thai,1,2
+262,565,1991,an khuong,buon ban,kinh,phat,"Trung cap, cao Dang",Da Ket Hon,Y,1,1,Co Dung Thuoc Tranh Thai,1,2
+263,566,1966,an khuong,buon ban,kinh,phat,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+264,567,1984,an khuong,buon ban,kinh,luong,THPT,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+265,568,1968,an khuong,buon ban,kinh,luong,THPT,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+266,569,1965,an khuong,buon ban,kinh,luong,THPT,Da Ket Hon,Y,3,3,Khong Dung Thuoc Tranh Thai,2,2
+267,570,1968,an khuong,buon ban,kinh,luong,THPT,Da Ket Hon,Y,1,1,Khong Dung Thuoc Tranh Thai,2,2
+268,571,1964,an khuong,buon ban,kinh,luong,THPT,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+269,572,1984,an khuong,can bo sinh vien,kinh,luong,6,Da Ket Hon,Y,2,2,Co Dung Thuoc Tranh Thai,2,1
+270,573,1977,an khuong,buon ban,kinh,luong,THPT,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,1,1
+271,575,1988,an khuong,can bo sinh vien,kinh,luong,6,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+272,575,1975,an khuong,cong nhan,kinh,luong,THPT,Da Ket Hon,Y,2,2,Co Dung Thuoc Tranh Thai,2,2
+273,576,1973,an khuong,can bo sinh vien,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,1
+274,577,1992,an khuong,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,1,1,Khong Dung Thuoc Tranh Thai,2,2
+275,578,1988,an khuong,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+276,579,1986,an khuong,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+277,580,1981,an khuong,can bo sinh vien,kinh,luong,6,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+278,581,1980,an khuong,can bo sinh vien,kinh,luong,6,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+279,582,1988,an khuong,cong nhan,kinh,luong,THPT,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+280,583,1984,an khuong,noi tro,kinh,phat,THPT,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,1
+281,584,1984,an khuong,noi tro,kinh,luong,THPT,Da Ket Hon,Y,3,2,Khong Dung Thuoc Tranh Thai,2,1
+282,585,1989,an khuong,can bo sinh vien,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,Y,1,1,Khong Dung Thuoc Tranh Thai,2,2
+283,586,1984,an khuong,can bo sinh vien,kinh,luong,6,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+284,587,1984,an khuong,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+285,588,1982,an khuong,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,Y,1,1,Khong Dung Thuoc Tranh Thai,2,2
+286,589,1980,an khuong,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+287,590,1988,an khuong,can bo sinh vien,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,Y,1,1,Khong Dung Thuoc Tranh Thai,2,2
+288,591,1982,an khuong,noi tro,kinh,luong,THPT,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+289,592,1987,an khuong,buon ban,kinh,luong,THPT,Da Ket Hon,Y,3,3,Khong Dung Thuoc Tranh Thai,2,2
+290,593,1980,an khuong,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+291,594,1989,an khuong,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,Y,3,1,Khong Dung Thuoc Tranh Thai,2,2
+292,595,1986,an khuong,can bo sinh vien,kinh,luong,6,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+293,596,1982,an khuong,can bo sinh vien,kinh,luong,6,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+294,597,1985,an khuong,noi tro,kinh,luong,THPT,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+295,598,1977,an khuong,can bo sinh vien,kinh,luong,6,Chua Ket Hon,Y,0,0,Khong Dung Thuoc Tranh Thai,2,2
+296,599,1973,an khuong,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+297,600,1979,an khuong,can bo sinh vien,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+298,601,1972,an khuong,buon ban,kinh,luong,THPT,Da Ket Hon,Y,3,3,Co Dung Thuoc Tranh Thai,2,1
+299,602,1975,an khuong,noi tro,kinh,thien chua,"Trung cap, cao Dang",Da Ket Hon,Y,3,3,Khong Dung Thuoc Tranh Thai,2,2
+300,603,1978,an khuong,buon ban,kinh,luong,THPT,Da Ket Hon,Y,3,3,Khong Dung Thuoc Tranh Thai,2,2
+301,604,1978,an khuong,noi tro,kinh,luong,THPT,Da Ket Hon,Y,3,3,Khong Dung Thuoc Tranh Thai,2,2
+302,605,1977,an khuong,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+303,606,1978,an khuong,buon ban,kinh,luong,THPT,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+304,607,1975,an khuong,buon ban,kinh,luong,THPT,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+305,608,1968,an khuong,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,1,1,Khong Dung Thuoc Tranh Thai,2,2
+306,609,1965,an khuong,buon ban,kinh,luong,THPT,Da Ket Hon,Y,4,4,Khong Dung Thuoc Tranh Thai,2,2
+307,610,1966,an khuong,noi tro,kinh,luong,THPT,Da Ket Hon,Y,3,3,Co Dung Thuoc Tranh Thai,1,2
+308,611,1965,an khuong,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+309,612,1967,an khuong,nong dan va chan nuoi,kinh,phat,THPT,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+310,613,1979,an khuong,can bo sinh vien,kinh,thien chua,Dai Hoc Tro Len,Da Ket Hon,Y,3,3,Khong Dung Thuoc Tranh Thai,2,2
+0,614,1976,an hoa,noi tro,kinh,phat,THPT,Da Ket Hon,Y,3,3,Co Dung Thuoc Tranh Thai,2,2
+1,615,1972,an hoa,noi tro,kinh,luong,THPT,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+2,616,1982,an hoa,noi tro,kinh,luong,THPT,Da Ket Hon,Y,3,3,Khong Dung Thuoc Tranh Thai,2,2
+3,617,1973,an hoa,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,3,3,Co Dung Thuoc Tranh Thai,2,2
+4,618,1978,an hoa,nong dan va chan nuoi,kinh,luong,THCS,Da Ket Hon,Y,4,4,Khong Dung Thuoc Tranh Thai,2,2
+5,619,1972,an hoa,buon ban,kinh,luong,THPT,Da Ket Hon,Y,2,2,Co Dung Thuoc Tranh Thai,2,2
+6,620,1979,an hoa,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,3,3,Khong Dung Thuoc Tranh Thai,2,2
+7,621,1981,an hoa,noi tro,kinh,luong,THPT,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+8,622,1984,an hoa,buon ban,kinh,luong,THPT,Da Ket Hon,Y,2,2,Co Dung Thuoc Tranh Thai,1,2
+9,623,1976,an hoa,noi tro,kinh,luong,THPT,Da Ket Hon,Y,1,1,Khong Dung Thuoc Tranh Thai,2,2
+10,624,1975,an hoa,noi tro,kinh,luong,THPT,Da Ket Hon,Y,2,2,Co Dung Thuoc Tranh Thai,2,2
+11,625,1967,an hoa,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,3,3,Co Dung Thuoc Tranh Thai,2,2
+12,626,1984,an hoa,can bo sinh vien,kinh,phat,Dai Hoc Tro Len,Da Ket Hon,Y,2,2,Co Dung Thuoc Tranh Thai,2,2
+13,627,1983,an hoa,noi tro,kinh,luong,THPT,Da Ket Hon,Y,2,2,Co Dung Thuoc Tranh Thai,2,2
+14,628,1983,an hoa,noi tro,kinh,luong,THPT,Da Ket Hon,Y,2,2,Co Dung Thuoc Tranh Thai,2,2
+15,629,1978,an hoa,noi tro,kinh,luong,THPT,Da Ket Hon,Y,2,2,Co Dung Thuoc Tranh Thai,2,2
+16,630,1968,an hoa,nong dan va chan nuoi,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Co Dung Thuoc Tranh Thai,2,2
+17,631,1989,an hoa,nong dan va chan nuoi,kinh,luong,THCS,Da Ket Hon,Y,3,2,Co Dung Thuoc Tranh Thai,2,2
+18,632,1983,an hoa,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,Y,1,1,Khong Dung Thuoc Tranh Thai,2,2
+19,633,1980,an hoa,noi tro,kinh,luong,THPT,Da Ket Hon,Y,3,3,Co Dung Thuoc Tranh Thai,2,2
+20,634,1976,an hoa,noi tro,kinh,phat,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Co Dung Thuoc Tranh Thai,2,2
+794,635,1966,an phu,noi tro,kinh,luong,THPT,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+21,636,1981,an hoa,buon ban,kinh,luong,THPT,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+22,637,1976,an hoa,buon ban,kinh,luong,THPT,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+23,638,1971,an hoa,nong dan va chan nuoi,kinh,luong,THCS,Da Ket Hon,Y,2,2,Co Dung Thuoc Tranh Thai,2,1
+24,639,1966,an hoa,noi tro,kinh,phat,THPT,Chua Ket Hon,Y,0,0,Khong Dung Thuoc Tranh Thai,2,2
+25,640,1970,an hoa,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,Y,1,1,Khong Dung Thuoc Tranh Thai,2,2
+26,641,1988,an hoa,noi tro,kinh,luong,THPT,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+27,642,1985,an hoa,buon ban,kinh,luong,Mu Chu,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+28,643,1976,an hoa,noi tro,kinh,luong,THCS,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+29,644,1978,an hoa,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+30,645,1977,an hoa,buon ban,kinh,luong,THPT,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+31,646,1969,an hoa,buon ban,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+32,647,1974,an hoa,can bo sinh vien,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,Y,1,1,Khong Dung Thuoc Tranh Thai,2,2
+33,648,1982,an hoa,nong dan va chan nuoi,kinh,phat,THPT,Da Ket Hon,Y,4,4,Co Dung Thuoc Tranh Thai,2,2
+34,649,1970,an hoa,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,Y,4,4,Khong Dung Thuoc Tranh Thai,2,2
+35,650,1978,an hoa,nong dan va chan nuoi,kinh,phat,THPT,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+36,651,1976,an hoa,noi tro,kinh,luong,THPT,Da Ket Hon,Y,1,1,Khong Dung Thuoc Tranh Thai,2,2
+37,652,1988,an hoa,noi tro,kinh,phat,THPT,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+38,653,1993,an hoa,noi tro,kinh,luong,THPT,Da Ket Hon,Y,2,2,Co Dung Thuoc Tranh Thai,2,2
+39,654,1965,an hoa,can bo sinh vien,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+40,655,1978,an hoa,buon ban,kinh,luong,THPT,Da Ket Hon,Y,1,1,Khong Dung Thuoc Tranh Thai,2,2
+41,656,1964,an hoa,buon ban,kinh,luong,THCS,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+42,657,1995,an hoa,can bo sinh vien,kinh,phat,Dai Hoc Tro Len,Chua Ket Hon,Y,0,0,Khong Dung Thuoc Tranh Thai,2,2
+43,658,1983,an hoa,can bo sinh vien,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,Y,2,2,Khong Dung Thuoc Tranh Thai,2,2
+44,659,1990,an hoa,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Co Dung Thuoc Tranh Thai,2,2
+45,660,1968,an hoa,buon ban,kinh,thien chua,THPT,Da Ket Hon,Y,2,2,Co Dung Thuoc Tranh Thai,2,2
+46,661,1985,an hoa,nong dan va chan nuoi,kinh,phat,THPT,Da Ket Hon,Y,2,2,Co Dung Thuoc Tranh Thai,2,2
+47,662,1987,an hoa,noi tro,kinh,luong,THPT,Da Ket Hon,Y,2,2,Co Dung Thuoc Tranh Thai,2,2
+48,663,1971,an hoa,noi tro,kinh,phat,"Trung cap, cao Dang",Da Ket Hon,Y,2,2,Co Dung Thuoc Tranh Thai,2,2
+49,664,1968,an hoa,cong nhan,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,Y,3,3,Co Dung Thuoc Tranh Thai,2,2
+50,665,1985,an hoa,noi tro,kinh,luong,THPT,Da Ket Hon,Y,3,3,Co Dung Thuoc Tranh Thai,2,2
+51,666,1986,an hoa,noi tro,kinh,luong,THPT,Da Ket Hon,Y,3,3,Co Dung Thuoc Tranh Thai,2,2
+52,667,1982,an hoa,noi tro,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+53,668,1972,an hoa,can bo sinh vien,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+54,669,1968,an hoa,buon ban,kinh,luong,THPT,Da Ket Hon,N,3,3,Khong Dung Thuoc Tranh Thai,2,2
+55,670,1973,an hoa,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+56,671,1972,an hoa,cong nhan,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+57,672,1968,an hoa,buon ban,kinh,luong,THPT,Da Ket Hon,N,3,3,Khong Dung Thuoc Tranh Thai,2,2
+58,673,1990,an hoa,can bo sinh vien,kinh,phat,Dai Hoc Tro Len,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+59,674,1985,an hoa,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,0,0,Khong Dung Thuoc Tranh Thai,2,2
+60,675,1985,an hoa,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+61,676,1996,an hoa,noi tro,kinh,luong,THPT,Chua Ket Hon,N,0,0,Khong Dung Thuoc Tranh Thai,2,2
+62,677,1973,an hoa,noi tro,kinh,luong,THPT,Da Ket Hon,N,3,3,Co Dung Thuoc Tranh Thai,2,2
+311,678,1978,an khuong,noi tro,kinh,phat,"Trung cap, cao Dang",Da Ket Hon,N,3,3,Co Dung Thuoc Tranh Thai,2,2
+63,679,1991,an hoa,can bo sinh vien,kinh,luong,Dai Hoc Tro Len,Chua Ket Hon,N,0,0,Khong Dung Thuoc Tranh Thai,2,2
+64,680,1973,an hoa,buon ban,kinh,luong,THPT,Da Ket Hon,N,3,3,Khong Dung Thuoc Tranh Thai,2,2
+65,681,1974,an hoa,buon ban,kinh,luong,THPT,Da Ket Hon,N,3,3,Khong Dung Thuoc Tranh Thai,2,2
+66,682,1971,an hoa,buon ban,kinh,luong,THCS,Da Ket Hon,N,5,5,Khong Dung Thuoc Tranh Thai,2,2
+67,683,1992,an hoa,buon ban,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+68,684,1985,an hoa,can bo sinh vien,kinh,luong,6,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+69,685,1985,an hoa,can bo sinh vien,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+70,686,1967,an hoa,buon ban,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+71,687,1974,an hoa,nong dan va chan nuoi,kinh,luong,THCS,Da Ket Hon,N,4,4,Khong Dung Thuoc Tranh Thai,2,2
+72,688,1978,an hoa,buon ban,kinh,luong,THCS,Da Ket Hon,N,3,3,Khong Dung Thuoc Tranh Thai,2,2
+73,689,1972,an hoa,buon ban,kinh,luong,THPT,Da Ket Hon,N,0,0,Co Dung Thuoc Tranh Thai,2,2
+74,690,1988,an hoa,cong nhan,kinh,phat,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+75,691,1990,an hoa,cong nhan,kinh,phat,"Trung cap, cao Dang",Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+76,692,1987,an hoa,buon ban,kinh,luong,THPT,Da Ket Hon,N,2,2,Co Dung Thuoc Tranh Thai,2,2
+77,693,1987,an hoa,cong nhan,kinh,phat,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+78,694,1986,an hoa,can bo sinh vien,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+79,695,1971,an hoa,noi tro,kinh,luong,THPT,Da Ket Hon,N,0,0,Khong Dung Thuoc Tranh Thai,2,2
+80,696,1979,an hoa,cong nhan,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+81,697,1985,an hoa,buon ban,kinh,luong,THPT,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+82,698,1993,an hoa,can bo sinh vien,kinh,luong,Dai Hoc Tro Len,Chua Ket Hon,N,0,0,Khong Dung Thuoc Tranh Thai,2,2
+83,699,1965,an hoa,nong dan va chan nuoi,kinh,luong,Mu Chu,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+84,700,1965,an hoa,noi tro,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+85,701,1989,an hoa,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+86,702,1972,an hoa,buon ban,kinh,luong,THPT,Da Ket Hon,N,2,2,Co Dung Thuoc Tranh Thai,2,2
+87,703,1979,an hoa,can bo sinh vien,kinh,luong,Dai Hoc Tro Len,Chua Ket Hon,N,0,0,Khong Dung Thuoc Tranh Thai,2,2
+88,704,1988,an hoa,noi tro,kinh,luong,Dai Hoc Tro Len,Chua Ket Hon,N,0,0,Khong Dung Thuoc Tranh Thai,2,2
+89,705,1989,an hoa,noi tro,kinh,phat,THPT,Da Ket Hon,N,2,2,Co Dung Thuoc Tranh Thai,2,2
+90,706,1994,an hoa,buon ban,kinh,phat,"Trung cap, cao Dang",Chua Ket Hon,N,0,0,Khong Dung Thuoc Tranh Thai,2,2
+91,707,1970,an hoa,noi tro,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+92,708,1971,an hoa,buon ban,kinh,luong,THCS,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+93,709,1993,an hoa,noi tro,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+94,710,1983,an hoa,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+95,711,1984,an hoa,noi tro,kinh,luong,THPT,Da Ket Hon,N,1,1,Co Dung Thuoc Tranh Thai,1,2
+96,712,1968,an hoa,buon ban,kinh,phat,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+97,713,1970,an hoa,buon ban,kinh,phat,THPT,Da Ket Hon,N,3,3,Co Dung Thuoc Tranh Thai,2,2
+98,714,1991,an hoa,noi tro,kinh,luong,THPT,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+99,715,1973,an hoa,noi tro,kinh,luong,THCS,Da Ket Hon,N,4,4,Khong Dung Thuoc Tranh Thai,2,2
+100,716,1990,an hoa,noi tro,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+101,717,1990,an hoa,cong nhan,kinh,luong,THPT,Da Ket Hon,N,0,0,Khong Dung Thuoc Tranh Thai,2,2
+102,718,1965,an hoa,can bo sinh vien,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+103,719,1992,an hoa,noi tro,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+104,720,1982,an hoa,noi tro,kinh,luong,"Trung cap, cao Dang",Chua Ket Hon,N,0,0,Khong Dung Thuoc Tranh Thai,2,2
+105,721,1982,an hoa,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Co Dung Thuoc Tranh Thai,2,2
+106,722,1967,an hoa,noi tro,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+107,723,1992,an hoa,cong nhan,kinh,luong,THPT,Da Ket Hon,N,1,0,Khong Dung Thuoc Tranh Thai,2,2
+108,724,1987,an hoa,can bo sinh vien,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+109,725,1990,an hoa,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+110,726,1981,an hoa,buon ban,kinh,luong,THPT,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+111,727,1982,an hoa,cong nhan,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+112,728,1979,an hoa,can bo sinh vien,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+113,729,1976,an hoa,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+114,730,1972,an hoa,noi tro,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+115,731,1993,an hoa,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+116,732,1972,an hoa,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+117,733,1966,an hoa,can bo sinh vien,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+118,734,1962,an hoa,nong dan va chan nuoi,kinh,phat,THPT,Da Ket Hon,N,3,3,Khong Dung Thuoc Tranh Thai,2,2
+119,735,1964,an hoa,nong dan va chan nuoi,kinh,phat,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+120,736,1970,an hoa,can bo sinh vien,kinh,phat,Dai Hoc Tro Len,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+121,737,1979,an hoa,buon ban,kinh,luong,THPT,Chua Ket Hon,N,0,0,Khong Dung Thuoc Tranh Thai,2,2
+122,738,1990,an hoa,noi tro,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+123,739,1968,an hoa,can bo sinh vien,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,2,2,Co Dung Thuoc Tranh Thai,2,2
+124,740,1974,an hoa,buon ban,kinh,phat,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+125,741,1966,an hoa,can bo sinh vien,kinh,phat,Dai Hoc Tro Len,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+126,742,1970,an hoa,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Co Dung Thuoc Tranh Thai,2,2
+127,743,1989,an hoa,noi tro,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+128,744,1985,an hoa,cong nhan,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+129,745,1982,an hoa,noi tro,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+130,746,1989,an hoa,noi tro,kinh,luong,THPT,Da Ket Hon,N,3,3,Khong Dung Thuoc Tranh Thai,2,2
+131,747,1966,an hoa,buon ban,kinh,luong,THPT,Da Ket Hon,N,3,3,Co Dung Thuoc Tranh Thai,2,2
+132,748,1968,an hoa,buon ban,kinh,phat,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+133,749,1971,an hoa,noi tro,kinh,luong,THPT,Da Ket Hon,N,3,3,Khong Dung Thuoc Tranh Thai,2,2
+134,750,1977,an hoa,buon ban,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+135,751,1982,an hoa,nong dan va chan nuoi,kinh,phat,THPT,Da Ket Hon,N,2,2,Co Dung Thuoc Tranh Thai,2,2
+136,752,1996,an hoa,noi tro,kinh,luong,THPT,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+137,753,1979,an hoa,buon ban,kinh,phat,THPT,Da Ket Hon,N,2,2,Co Dung Thuoc Tranh Thai,2,2
+138,754,1984,an hoa,buon ban,kinh,phat,"Trung cap, cao Dang",Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+139,755,1970,an hoa,buon ban,kinh,phat,THPT,Da Ket Hon,N,2,2,Co Dung Thuoc Tranh Thai,2,1
+140,756,1967,an hoa,buon ban,kinh,thien chua,THPT,Da Ket Hon,N,3,3,Khong Dung Thuoc Tranh Thai,2,1
+141,757,1967,an hoa,nong dan va chan nuoi,kinh,phat,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+142,758,1979,an hoa,buon ban,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+143,759,1978,an hoa,noi tro,kinh,phat,THPT,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+144,760,1993,an hoa,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+145,761,1989,an hoa,can bo sinh vien,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+146,762,1992,an hoa,can bo sinh vien,kinh,phat,Dai Hoc Tro Len,Chua Ket Hon,N,0,0,Khong Dung Thuoc Tranh Thai,2,2
+147,763,1985,an hoa,noi tro,kinh,phat,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+148,764,1982,an hoa,noi tro,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+149,765,1975,an hoa,cong nhan,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+150,766,1979,an hoa,noi tro,kinh,phat,THPT,Da Ket Hon,N,3,3,Khong Dung Thuoc Tranh Thai,2,2
+151,767,1978,an hoa,cong nhan,kinh,luong,THPT,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+152,768,1988,an hoa,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+153,769,1988,an hoa,buon ban,kinh,phat,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+154,770,1991,an hoa,noi tro,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,1,0,Khong Dung Thuoc Tranh Thai,2,2
+155,771,1993,an hoa,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+156,772,1969,an hoa,noi tro,kinh,luong,THPT,Da Ket Hon,N,3,3,Khong Dung Thuoc Tranh Thai,2,2
+157,773,1985,an hoa,noi tro,kinh,luong,THPT,Da Ket Hon,N,2,2,Co Dung Thuoc Tranh Thai,2,1
+158,774,1962,an hoa,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,3,2,Khong Dung Thuoc Tranh Thai,2,1
+159,775,1993,an hoa,noi tro,kinh,luong,THPT,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+160,776,1966,an hoa,noi tro,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,1
+161,777,1994,an hoa,noi tro,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+162,778,1980,an hoa,noi tro,kinh,luong,THPT,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+163,779,1987,an hoa,can bo sinh vien,kinh,luong,Dai Hoc Tro Len,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+164,780,1982,an hoa,cong nhan,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+165,781,1971,an hoa,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+166,782,1988,an hoa,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+167,783,1994,an hoa,nong dan va chan nuoi,kinh,luong,THPT,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+168,784,1982,an hoa,noi tro,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+169,785,1995,an hoa,cong nhan,kinh,luong,"Trung cap, cao Dang",Chua Ket Hon,N,0,0,Khong Dung Thuoc Tranh Thai,2,2
+170,786,1985,an hoa,noi tro,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+171,787,1991,an hoa,noi tro,kinh,phat,"Trung cap, cao Dang",Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+172,788,1992,an hoa,noi tro,kinh,luong,THPT,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+173,789,1995,an hoa,noi tro,kinh,luong,"Trung cap, cao Dang",Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+174,790,1987,an hoa,buon ban,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+175,791,1972,an hoa,buon ban,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+176,792,1970,an hoa,buon ban,kinh,phat,THPT,Da Ket Hon,N,5,3,Khong Dung Thuoc Tranh Thai,2,2
+177,793,1966,an hoa,noi tro,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2
+178,794,1975,an hoa,noi tro,kinh,luong,THPT,Da Ket Hon,N,1,1,Khong Dung Thuoc Tranh Thai,2,2
+179,795,1989,an hoa,noi tro,kinh,luong,THPT,Da Ket Hon,N,2,2,Khong Dung Thuoc Tranh Thai,2,2

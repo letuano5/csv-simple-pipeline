@@ -1,0 +1,1596 @@
+﻿STT;Mã;Tên công ty;Sàn;Phân ngành - L1;Phân ngành - L2;Phân ngành - L3;Phân ngành - L4;Phân ngành - L5;"Vốn hóa
+(tỷ VNĐ)"
+1;MWG;Thế giới di động;HOSE;Dịch vụ Tiêu dùng;Bán lẻ;Bán lẻ;Phân phối hàng chuyên dụng;Phân phối hàng chuyên dụng;95.755
+2;FRT;Bán lẻ FPT;HOSE;Dịch vụ Tiêu dùng;Bán lẻ;Bán lẻ;Phân phối hàng chuyên dụng;Phân phối hàng chuyên dụng;22.957
+3;DGW;Thế Giới Số;HOSE;Dịch vụ Tiêu dùng;Bán lẻ;Bán lẻ;Phân phối hàng chuyên dụng;Phân phối hàng chuyên dụng;9.241
+4;DHT;Dược phẩm Hà Tây;HNX;Dịch vụ Tiêu dùng;Bán lẻ;Phân phối thực phẩm & dược phẩm;Phân phối dược phẩm;Phân phối dược phẩm;5.780
+5;SAS;DV Hàng không sân bay TSN;UPCoM;Dịch vụ Tiêu dùng;Bán lẻ;Bán lẻ;Phân phối hàng chuyên dụng;Phân phối hàng chuyên dụng;4.130
+6;PET;Dịch vụ Tổng hợp Dầu khí;HOSE;Dịch vụ Tiêu dùng;Bán lẻ;Bán lẻ;Phân phối hàng chuyên dụng;Phân phối hàng chuyên dụng;2.812
+7;AST;Dịch vụ Hàng không Taseco;HOSE;Dịch vụ Tiêu dùng;Bán lẻ;Bán lẻ;Phân phối hàng chuyên dụng;Phân phối hàng chuyên dụng;2.498
+8;HTM;Thương mại Hà Nội - Hapro;UPCoM;Dịch vụ Tiêu dùng;Bán lẻ;Bán lẻ;Bán lẻ phức hợp;Các dịch vụ kinh doanh bán lẻ khác;2.335
+9;AGX;Nông sản Xuất khẩu Sài Gòn;UPCoM;Dịch vụ Tiêu dùng;Bán lẻ;Phân phối thực phẩm & dược phẩm;Phân phối thực phẩm;Phân phối thực phẩm;879
+10;PSD;Phân phối Tổng hợp Dầu khí;HNX;Dịch vụ Tiêu dùng;Bán lẻ;Bán lẻ;Phân phối hàng chuyên dụng;Phân phối hàng chuyên dụng;679
+11;BTT;TM - DV Bến Thành;HOSE;Dịch vụ Tiêu dùng;Bán lẻ;Bán lẻ;Bán lẻ phức hợp;Đại siêu thị;489
+12;COM;Vật tư Xăng dầu;HOSE;Dịch vụ Tiêu dùng;Bán lẻ;Bán lẻ;Phân phối hàng chuyên dụng;Phân phối hàng chuyên dụng;409
+13;SBV;Siam Brothers Việt Nam;HOSE;Dịch vụ Tiêu dùng;Bán lẻ;Bán lẻ;Phân phối hàng chuyên dụng;Phân phối hàng chuyên dụng;281
+14;AFX;Xuất Nhập khẩu Nông sản Thực phẩm An Giang;UPCoM;Dịch vụ Tiêu dùng;Bán lẻ;Phân phối thực phẩm & dược phẩm;Phân phối thực phẩm;Phân phối thực phẩm;261
+15;KGM;XNK Kiên Giang;UPCoM;Dịch vụ Tiêu dùng;Bán lẻ;Bán lẻ;Bán lẻ phức hợp;Cửa hàng tiện dụng;177
+16;CMV;Thương nghiệp Cà Mau;HOSE;Dịch vụ Tiêu dùng;Bán lẻ;Bán lẻ;Bán lẻ phức hợp;Siêu thị;163
+17;PNG;Thương Mại Phú Nhuận;UPCoM;Dịch vụ Tiêu dùng;Bán lẻ;Bán lẻ;Bán lẻ phức hợp;Các dịch vụ kinh doanh bán lẻ khác;158
+18;PIT;XNK PETROLIMEX;HOSE;Dịch vụ Tiêu dùng;Bán lẻ;Bán lẻ;Bán lẻ phức hợp;Các dịch vụ kinh doanh bán lẻ khác;72
+19;CEN;CENCON Việt Nam;UPCoM;Dịch vụ Tiêu dùng;Bán lẻ;Bán lẻ;Bán lẻ phức hợp;Các dịch vụ kinh doanh bán lẻ khác;47
+20;BSC;Dịch vụ Bến Thành;HNX;Dịch vụ Tiêu dùng;Bán lẻ;Bán lẻ;Phân phối hàng chuyên dụng;Phân phối hàng chuyên dụng;46
+21;TH1;XNK Tổng hợp 1;UPCoM;Dịch vụ Tiêu dùng;Bán lẻ;Phân phối thực phẩm & dược phẩm;Phân phối thực phẩm;Phân phối thực phẩm;43
+22;FHN;XNK lương thực Hà Nội;UPCoM;Dịch vụ Tiêu dùng;Bán lẻ;Phân phối thực phẩm & dược phẩm;Phân phối thực phẩm;Phân phối thực phẩm;42
+23;THS;Thanh Hoa Sông Đà;HNX;Dịch vụ Tiêu dùng;Bán lẻ;Bán lẻ;Bán lẻ phức hợp;Siêu thị;39
+24;HTT;Thương mại Hà Tây;UPCoM;Dịch vụ Tiêu dùng;Bán lẻ;Bán lẻ;Bán lẻ phức hợp;Các dịch vụ kinh doanh bán lẻ khác;28
+25;TOP;Phân phối Top One;UPCoM;Dịch vụ Tiêu dùng;Bán lẻ;Bán lẻ;Bán lẻ phức hợp;Siêu thị;28
+26;TV6;TM ĐT xây lắp điện Thịnh Vượng;UPCoM;Dịch vụ Tiêu dùng;Bán lẻ;Bán lẻ;Phân phối hàng chuyên dụng;Phân phối hàng chuyên dụng;21
+27;HFX;XNK Thanh Hà;UPCoM;Dịch vụ Tiêu dùng;Bán lẻ;Bán lẻ;Bán lẻ phức hợp;Online;9
+28;DKC;Chợ Lạng Sơn;UPCoM;Dịch vụ Tiêu dùng;Bán lẻ;Bán lẻ;Bán lẻ phức hợp;Đại siêu thị;2
+29;CPH;PV mai táng Hải Phòng;UPCoM;Dịch vụ Tiêu dùng;Bán lẻ;Bán lẻ;Dịch vụ tiêu dùng chuyên ngành;Dịch vụ tiêu dùng chuyên ngành;1
+30;BVH;Tập đoàn Bảo Việt;HOSE;Tài chính;Bảo hiểm;Bảo hiểm nhân thọ;Bảo hiểm nhân thọ;Bảo hiểm nhân thọ;32.180
+31;PVI;Bảo hiểm PVI;HNX;Tài chính;Bảo hiểm;Bảo hiểm phi nhân thọ;Bảo hiểm phi nhân thọ;Bảo hiểm phi nhân thọ;11.126
+32;VNR;Tái bảo hiểm Quốc gia;HNX;Tài chính;Bảo hiểm;Bảo hiểm phi nhân thọ;Tái bảo hiểm;Tái bảo hiểm;3.797
+33;BIC;Bảo hiểm BIDV;HOSE;Tài chính;Bảo hiểm;Bảo hiểm phi nhân thọ;Bảo hiểm phi nhân thọ;Bảo hiểm phi nhân thọ;3.677
+34;MIG;Bảo hiểm Quân đội;HOSE;Tài chính;Bảo hiểm;Bảo hiểm phi nhân thọ;Bảo hiểm phi nhân thọ;Bảo hiểm phi nhân thọ;2.849
+35;BMI;Bảo hiểm Bảo Minh;HOSE;Tài chính;Bảo hiểm;Bảo hiểm phi nhân thọ;Bảo hiểm phi nhân thọ;Bảo hiểm phi nhân thọ;2.653
+36;PTI;Bảo hiểm Bưu điện;HNX;Tài chính;Bảo hiểm;Bảo hiểm phi nhân thọ;Bảo hiểm phi nhân thọ;Bảo hiểm phi nhân thọ;2.532
+37;PGI;Bảo hiểm PJICO;HOSE;Tài chính;Bảo hiểm;Bảo hiểm phi nhân thọ;Bảo hiểm phi nhân thọ;Bảo hiểm phi nhân thọ;2.490
+38;PRE;Tái bảo hiểm PVI;HNX;Tài chính;Bảo hiểm;Bảo hiểm phi nhân thọ;Tái bảo hiểm;Tái bảo hiểm;1.942
+39;ABI;BH NH Nông Nghiệp;UPCoM;Tài chính;Bảo hiểm;Bảo hiểm phi nhân thọ;Bảo hiểm phi nhân thọ;Bảo hiểm phi nhân thọ;1.781
+40;AIC;Bảo hiểm Hàng không;UPCoM;Tài chính;Bảo hiểm;Bảo hiểm phi nhân thọ;Bảo hiểm phi nhân thọ;Bảo hiểm phi nhân thọ;1.100
+41;BHI;Bảo hiểm Sài Gòn - Hà Nội;UPCoM;Tài chính;Bảo hiểm;Bảo hiểm phi nhân thọ;Bảo hiểm phi nhân thọ;Bảo hiểm phi nhân thọ;1.060
+42;BLI;Bảo hiểm Nhà Rồng;UPCoM;Tài chính;Bảo hiểm;Bảo hiểm phi nhân thọ;Bảo hiểm phi nhân thọ;Bảo hiểm phi nhân thọ;564
+43;VHM;Vinhomes;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;190.939
+44;VIC;VinGroup;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;158.873
+45;BCM;Becamex IDC;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản công nghiệp;67.896
+46;VRE;Vincom Retail;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Phát triển & vận hành Bất động sản khác;41.243
+47;KDH;Nhà Khang Điền;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;33.519
+48;SSH;Phát triển Sunshine Homes;UPCoM;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;25.200
+49;NVL;Novaland;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;19.891
+50;KBC;TCT Đô thị Kinh Bắc;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản công nghiệp;19.881
+51;PDR;BĐS Phát Đạt;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;18.903
+52;IDC;IDICO;HNX;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản công nghiệp;17.457
+53;VPI;Đầu tư Văn Phú - Invest;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;16.640
+54;NLG;BĐS Nam Long;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;14.910
+55;SIP;Đầu tư Sài Gòn VRG;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản công nghiệp;14.758
+56;THD;Công ty Thaiholdings;HNX;Tài chính;Bất động sản;Bất động sản;Tư Vấn, Định giá, Môi giới Bất động sản;Dịch vụ Bất động sản thương mại;13.475
+57;DIG;DIC Corp;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;12.837
+58;KSF;Tập đoàn Sunshine;HNX;Tài chính;Bất động sản;Bất động sản;Bất động sản;Phát triển & vận hành Bất động sản khác;12.150
+59;DXG;Địa ốc Đất Xanh;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;11.964
+60;TCH;ĐT DV Tài chính Hoàng Huy;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;10.424
+61;HDG;Tập đoàn Hà Đô;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;8.946
+62;KOS;Công ty KOSY;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;8.324
+63;CEO;Tập đoàn CEO;HNX;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;8.322
+64;SJS;SJ Group;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;7.460
+65;SZC;Sonadezi Châu Đức;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản công nghiệp;6.902
+66;TAL;Đầu Tư Bất Động Sản Taseco;UPCoM;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản công nghiệp;5.346
+67;VCR;Vinaconex - ITC;UPCoM;Tài chính;Bất động sản;Bất động sản;Bất động sản;Phát triển & vận hành Bất động sản khác;5.103
+68;IJC;Becamex IJC;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Văn phòng cho thuê;5.062
+69;HDC;Phát triển Nhà BR-VT;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;4.851
+70;TID;Tổng Công ty Tín Nghĩa;UPCoM;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản công nghiệp;4.737
+71;NTC;KCN Nam Tân Uyên;UPCoM;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản công nghiệp;4.619
+72;VC3;Tập đoàn Nam Mê Kông;HNX;Tài chính;Bất động sản;Bất động sản;Tư Vấn, Định giá, Môi giới Bất động sản;Dịch vụ Bất động sản dân cư;3.542
+73;DXS;Dịch vụ BĐS Đất Xanh;HOSE;Tài chính;Bất động sản;Bất động sản;Tư Vấn, Định giá, Môi giới Bất động sản;Dịch vụ Bất động sản bán lẻ;3.411
+74;CRE;Bất động sản Thế Kỷ;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;3.199
+75;QCG;Quốc Cường Gia Lai;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;2.999
+76;NTL;Đô thị Từ Liêm;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;2.610
+77;TIG;Tập đoàn Đầu tư Thăng Long;HNX;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;2.517
+78;FLC;Tập đoàn FLC;UPCoM;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;2.485
+79;AGG;Bất động sản An Gia;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;2.454
+80;SGR;Địa ốc Sài Gòn;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;2.454
+81;KHG;Tập đoàn Khải Hoàn Land;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;2.355
+82;NBB;577 CORP;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;2.349
+83;CKG;Xây dựng Kiên Giang;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;2.339
+84;ITA;Đầu tư CN Tân Tạo;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản công nghiệp;2.205
+85;SCR;TTC Land;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;2.109
+86;SZG;Sonadezi Giang Điền;UPCoM;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản công nghiệp;1.845
+87;HQC;Địa ốc Hoàng Quân;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;1.816
+88;LHG;KCN Long Hậu;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản công nghiệp;1.773
+89;TIP;PT KCN Tín Nghĩa;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản công nghiệp;1.450
+90;DTD;Đầu tư Phát triển Thành Đạt;HNX;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản công nghiệp;1.414
+91;HPX;Đầu tư Hải Phát;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;1.369
+92;IDV;PT Hạ tầng Vĩnh Phúc;HNX;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản công nghiệp;1.345
+93;SZB;Sonadezi Long Bình;HNX;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản công nghiệp;1.233
+94;SID;Đầu tư PT Sài Gòn Co.op;UPCoM;Tài chính;Bất động sản;Bất động sản;Bất động sản;Văn phòng cho thuê;1.200
+95;SZL;Sonadezi Long Thành;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản công nghiệp;1.148
+96;PXL;KCN Dầu khí Long Sơn;UPCoM;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản công nghiệp;1.148
+97;VGV;Tư vấn Xây dựng Việt Nam;UPCoM;Tài chính;Bất động sản;Bất động sản;Bất động sản;Phát triển & vận hành Bất động sản khác;1.059
+98;IDJ;Đầu tư IDJ Việt Nam;HNX;Tài chính;Bất động sản;Bất động sản;Bất động sản;Văn phòng cho thuê;1.058
+99;ITC;Đầu tư kinh doanh Nhà;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;1.041
+100;TEG;TECGROUP;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;1.039
+101;TDC;Becamex TDC;HOSE;Tài chính;Bất động sản;Bất động sản;Tư Vấn, Định giá, Môi giới Bất động sản;Dịch vụ Bất động sản dân cư;992
+102;TIX;TANIMEX;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản công nghiệp;990
+103;D2D;Phát triển Đô thị số 2;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;973
+104;BVL;BV Land;UPCoM;Tài chính;Bất động sản;Bất động sản;Tư Vấn, Định giá, Môi giới Bất động sản;Dịch vụ Bất động sản thương mại;911
+105;LSG;BĐS Sài Gòn Vina;UPCoM;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;897
+106;HPI;Khu công nghiệp Hiệp Phước;UPCoM;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản công nghiệp;888
+107;MH3;KCN Cao su Bình Long;UPCoM;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản công nghiệp;792
+108;VPH;Vạn Phát Hưng;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;763
+109;NVT;Ninh Vân Bay;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Văn phòng cho thuê;723
+110;HTN;Hưng Thịnh Incons;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;674
+111;API;Đầu tư Châu Á - Thái Bình Dương;HNX;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;647
+112;NDN;PT Nhà Đà Nẵng;HNX;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;645
+113;FDC;FIDECO;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Văn phòng cho thuê;618
+114;VRG;PT Đô thị và KCN Cao su VN;UPCoM;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản công nghiệp;604
+115;TN1;Rox Key Holdings;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Phát triển & vận hành Bất động sản khác;587
+116;VHD;PT Nhà và Đô thị Vinaconex;UPCoM;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;566
+117;HLD;Bất động sản HUDLAND;HNX;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;534
+118;KAC;Địa ốc Khang An;UPCoM;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;504
+119;LDG;Đầu tư LDG;HOSE;Tài chính;Bất động sản;Bất động sản;Tư Vấn, Định giá, Môi giới Bất động sản;Dịch vụ Bất động sản dân cư;487
+120;CCL;ĐT & PT Đô thị Dầu khí Cửu Long;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;486
+121;TLD;ĐT XD và PT Đô thị Thăng Long;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;435
+122;XDH;Đầu tư XD Dân dụng Hà Nội;UPCoM;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;419
+123;HRB;Harec Đầu tư và Thương Mại;UPCoM;Tài chính;Bất động sản;Bất động sản;Bất động sản;Văn phòng cho thuê;390
+124;VRC;Bất động sản và Đầu tư VRC;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;388
+125;AAV;Việt Tiên Sơn Địa ốc;HNX;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;379
+126;FIR;Địa ốc First Real;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;375
+127;NRC;Tập đoàn Danh Khôi;HNX;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;352
+128;C21;Thế kỷ 21;UPCoM;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;341
+129;HAR;BĐS An Dương Thảo Điền;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;326
+130;TDH;Thủ Đức House;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;284
+131;MA1;MACHINCO1;UPCoM;Tài chính;Bất động sản;Bất động sản;Bất động sản;Văn phòng cho thuê;277
+132;PTL;Victory Capital;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;251
+133;VSI;Đầu tư và Xây dựng Cấp thoát nước;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Văn phòng cho thuê;238
+134;DRH;DRH Holdings;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;235
+135;HD6;Phát triển nhà số 6 Hà Nội;UPCoM;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;214
+136;PVL;Đầu tư Nhà Đất Việt;UPCoM;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;194
+137;AMD;FLC Stone;UPCoM;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;180
+138;HD2;Đầu tư phát triển nhà HUD 2;UPCoM;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;171
+139;RCL;Địa Ốc Chợ Lớn;HNX;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;166
+140;LEC;BĐS Điện lực Miền Trung;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;151
+141;LGL;Long Giang Land;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản công nghiệp;128
+142;MGR;Tập đoàn MGROUP;UPCoM;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;94
+143;VNI;ĐT BĐS Việt Nam;UPCoM;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;91
+144;HD8;PT Nhà và Đô thị HUD8;UPCoM;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;85
+145;PV2;Đầu tư PV2;HNX;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;85
+146;D11;Địa ốc 11;HNX;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;79
+147;V21;Vinaconex 21;HNX;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;73
+148;DTA;BĐS Đệ Tam;HOSE;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;72
+149;TBR;Địa ốc Tân Bình;UPCoM;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;56
+150;PIV;PIV JSC;UPCoM;Tài chính;Bất động sản;Bất động sản;Tư Vấn, Định giá, Môi giới Bất động sản;Dịch vụ Bất động sản Công nghiệp;56
+151;PVR;Đầu tư PVR Hà Nội;UPCoM;Tài chính;Bất động sản;Bất động sản;Bất động sản;Phát triển & vận hành Bất động sản khác;52
+152;PLA;Đầu tư và Dịch vụ hạ tầng Xăng dầu (PLAND);UPCoM;Tài chính;Bất động sản;Bất động sản;Bất động sản;Văn phòng cho thuê;43
+153;BII;Đầu tư và Phát triển Công nghiệp Bảo Thư;UPCoM;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản công nghiệp;42
+154;PWA;Bất động sản dầu khí;UPCoM;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;40
+155;HU6;PT Nhà và Đô thị HUD6;UPCoM;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;40
+156;BIG;BIG Invest Group;UPCoM;Tài chính;Bất động sản;Bất động sản;Tư Vấn, Định giá, Môi giới Bất động sản;Dịch vụ Bất động sản khác;39
+157;FID;Đầu tư và PT doanh nghiệp VN;HNX;Tài chính;Bất động sản;Bất động sản;Tư Vấn, Định giá, Môi giới Bất động sản;Dịch vụ Bất động sản dân cư;30
+158;LMH;Quoc te Holding;UPCoM;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;28
+159;DCH;Địa chính Hà Nội;UPCoM;Tài chính;Bất động sản;Bất động sản;Tư Vấn, Định giá, Môi giới Bất động sản;Dịch vụ Bất động sản khác;27
+160;EFI;Tài chính giáo dục;UPCoM;Tài chính;Bất động sản;Bất động sản;Bất động sản;Phát triển & vận hành Bất động sản khác;19
+161;PPI;BĐS Thái Bình Dương;UPCoM;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;19
+162;PXA;Đầu tư và Thương mại Dầu khí Nghệ An;UPCoM;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản công nghiệp;17
+163;NTB;Công trình giao thông 584;UPCoM;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;16
+164;PXC;Phát triển Đô thị Dầu khí;UPCoM;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;14
+165;CK8;Cơ khí 120;UPCoM;Tài chính;Bất động sản;Bất động sản;Bất động sản;Văn phòng cho thuê;11
+166;CLG;Cotec Land;UPCoM;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;11
+167;V11;VINACONEX No11;UPCoM;Tài chính;Bất động sản;Bất động sản;Bất động sản;Bất động sản dân cư;4
+168;FPT;FPT Corp;HOSE;Công nghệ Thông tin;Công nghệ Thông tin;Phần mềm & Dịch vụ Máy tính;Phần mềm;Phần mềm;197.123
+169;CMG;Tập đoàn Công nghệ CMC;HOSE;Công nghệ Thông tin;Công nghệ Thông tin;Phần mềm & Dịch vụ Máy tính;Dịch vụ Máy tính;Dịch vụ Máy tính;9.653
+170;SAM;SAM Holdings;HOSE;Công nghệ Thông tin;Công nghệ Thông tin;Thiết bị và Phần cứng;Thiết bị viễn thông;Thiết bị viễn thông;2.458
+171;SGT;Sài Gòn Telecom;HOSE;Công nghệ Thông tin;Công nghệ Thông tin;Phần mềm & Dịch vụ Máy tính;Internet;Internet;2.235
+172;ELC;ELCOM;HOSE;Công nghệ Thông tin;Công nghệ Thông tin;Thiết bị và Phần cứng;Thiết bị viễn thông;Thiết bị viễn thông;1.986
+173;ICT;Viễn thông - Tin học Bưu điện;HOSE;Công nghệ Thông tin;Công nghệ Thông tin;Phần mềm & Dịch vụ Máy tính;Phần mềm;Phần mềm;402
+174;VEC;Điện tử và Tin học VN;UPCoM;Công nghệ Thông tin;Công nghệ Thông tin;Thiết bị và Phần cứng;Phần cứng;Phần cứng;346
+175;ITD;Công nghệ Tiên Phong;HOSE;Công nghệ Thông tin;Công nghệ Thông tin;Phần mềm & Dịch vụ Máy tính;Phần mềm;Phần mềm;340
+176;POT;Thiết bị Bưu điện Postef;HNX;Công nghệ Thông tin;Công nghệ Thông tin;Thiết bị và Phần cứng;Phần cứng;Phần cứng;315
+177;HPT;DV Công nghệ Tin học HPT;UPCoM;Công nghệ Thông tin;Công nghệ Thông tin;Phần mềm & Dịch vụ Máy tính;Phần mềm;Phần mềm;249
+178;HIG;Tập đoàn HIPT;UPCoM;Công nghệ Thông tin;Công nghệ Thông tin;Phần mềm & Dịch vụ Máy tính;Phần mềm;Phần mềm;241
+179;ST8;Tập đoàn ST8;HOSE;Công nghệ Thông tin;Công nghệ Thông tin;Thiết bị và Phần cứng;Thiết bị văn phòng;Thiết bị văn phòng;193
+180;SRA;SARA Việt Nam;HNX;Công nghệ Thông tin;Công nghệ Thông tin;Phần mềm & Dịch vụ Máy tính;Phần mềm;Phần mềm;121
+181;UNI;Đầu tư và Phát triển Sao Mai Việt;HNX;Công nghệ Thông tin;Công nghệ Thông tin;Phần mềm & Dịch vụ Máy tính;Dịch vụ Máy tính;Dịch vụ Máy tính;108
+182;SBD;Công nghệ Sao Bắc Đẩu;UPCoM;Công nghệ Thông tin;Công nghệ Thông tin;Phần mềm & Dịch vụ Máy tính;Phần mềm;Phần mềm;96
+183;CMT;CN mạng và Truyền thông;UPCoM;Công nghệ Thông tin;Công nghệ Thông tin;Phần mềm & Dịch vụ Máy tính;Phần mềm;Phần mềm;96
+184;VTE;VINACAP Kim Long;UPCoM;Công nghệ Thông tin;Công nghệ Thông tin;Thiết bị và Phần cứng;Thiết bị viễn thông;Thiết bị viễn thông;81
+185;KST;KASATI;HNX;Công nghệ Thông tin;Công nghệ Thông tin;Thiết bị và Phần cứng;Thiết bị viễn thông;Thiết bị viễn thông;73
+186;VLA;PT Công nghệ Văn Lang;HNX;Công nghệ Thông tin;Công nghệ Thông tin;Phần mềm & Dịch vụ Máy tính;Phần mềm;Phần mềm;60
+187;CKV;CokyVina;HNX;Công nghệ Thông tin;Công nghệ Thông tin;Thiết bị và Phần cứng;Thiết bị viễn thông;Thiết bị viễn thông;48
+188;PMT;Telvina Việt Nam;UPCoM;Công nghệ Thông tin;Công nghệ Thông tin;Thiết bị và Phần cứng;Thiết bị viễn thông;Thiết bị viễn thông;40
+189;ONE;Truyền thông Số 1;HNX;Công nghệ Thông tin;Công nghệ Thông tin;Thiết bị và Phần cứng;Phần cứng;Phần cứng;39
+190;VTC;Viễn thông VTC;HNX;Công nghệ Thông tin;Công nghệ Thông tin;Thiết bị và Phần cứng;Thiết bị viễn thông;Thiết bị viễn thông;38
+191;VIE;CN Viễn thông VI TE CO;UPCoM;Công nghệ Thông tin;Công nghệ Thông tin;Thiết bị và Phần cứng;Thiết bị viễn thông;Thiết bị viễn thông;33
+192;PMJ;Vật tư Bưu điện;UPCoM;Công nghệ Thông tin;Công nghệ Thông tin;Thiết bị và Phần cứng;Thiết bị viễn thông;Thiết bị viễn thông;32
+193;SMT;SAMETEL;HNX;Công nghệ Thông tin;Công nghệ Thông tin;Thiết bị và Phần cứng;Thiết bị viễn thông;Thiết bị viễn thông;31
+194;TST;Dịch vụ KT Viễn Thông;UPCoM;Công nghệ Thông tin;Công nghệ Thông tin;Phần mềm & Dịch vụ Máy tính;Dịch vụ Máy tính;Dịch vụ Máy tính;19
+195;SRB;SARA;UPCoM;Công nghệ Thông tin;Công nghệ Thông tin;Phần mềm & Dịch vụ Máy tính;Phần mềm;Phần mềm;16
+196;LTC;Điện nhẹ Viễn thông;UPCoM;Công nghệ Thông tin;Công nghệ Thông tin;Thiết bị và Phần cứng;Phần cứng;Phần cứng;11
+197;BSR;BSR;UPCoM;Dầu khí;Dầu khí;Sản xuất Dầu khí;Sản xuất và Khai thác dầu khí;Sản xuất và Khai thác dầu khí;66.307
+198;PLX;Petrolimex;HOSE;Dầu khí;Dầu khí;Sản xuất Dầu khí;Sản xuất và Khai thác dầu khí;Sản xuất và Khai thác dầu khí;52.793
+199;PVS;DVKT Dầu khí PTSC;HNX;Dầu khí;Dầu khí;Thiết bị, Dịch vụ và Phân phối Dầu khí;Thiết bị và Dịch vụ Dầu khí;Thiết bị và Dịch vụ Dầu khí;18.067
+200;PVD;Khoan Dầu khí PVDrilling;HOSE;Dầu khí;Dầu khí;Thiết bị, Dịch vụ và Phân phối Dầu khí;Thiết bị và Dịch vụ Dầu khí;Thiết bị và Dịch vụ Dầu khí;14.258
+201;OIL;PV Oil;UPCoM;Dầu khí;Dầu khí;Sản xuất Dầu khí;Sản xuất và Khai thác dầu khí;Sản xuất và Khai thác dầu khí;12.140
+202;TOS;Dịch vụ biển Tân Cảng;UPCoM;Dầu khí;Dầu khí;Thiết bị, Dịch vụ và Phân phối Dầu khí;Thiết bị và Dịch vụ Dầu khí;Thiết bị và Dịch vụ Dầu khí;1.814
+203;PVC;Hóa chất và Dịch vụ Dầu khí;HNX;Dầu khí;Dầu khí;Thiết bị, Dịch vụ và Phân phối Dầu khí;Thiết bị và Dịch vụ Dầu khí;Thiết bị và Dịch vụ Dầu khí;1.007
+204;POS;Bảo dưỡng công trình DK biển;UPCoM;Dầu khí;Dầu khí;Thiết bị, Dịch vụ và Phân phối Dầu khí;Thiết bị và Dịch vụ Dầu khí;Thiết bị và Dịch vụ Dầu khí;840
+205;PVB;Bọc ống Dầu khí Việt Nam;HNX;Dầu khí;Dầu khí;Thiết bị, Dịch vụ và Phân phối Dầu khí;Thiết bị và Dịch vụ Dầu khí;Thiết bị và Dịch vụ Dầu khí;590
+206;PEQ;Thiết bị xăng dầu Petrolimex;UPCoM;Dầu khí;Dầu khí;Thiết bị, Dịch vụ và Phân phối Dầu khí;Thiết bị và Dịch vụ Dầu khí;Thiết bị và Dịch vụ Dầu khí;198
+207;PTV;Thương mại dầu khí;UPCoM;Dầu khí;Dầu khí;Thiết bị, Dịch vụ và Phân phối Dầu khí;Thiết bị và Dịch vụ Dầu khí;Thiết bị và Dịch vụ Dầu khí;84
+208;PVE;Tư vấn Dầu khí;UPCoM;Dầu khí;Dầu khí;Thiết bị, Dịch vụ và Phân phối Dầu khí;Thiết bị và Dịch vụ Dầu khí;Thiết bị và Dịch vụ Dầu khí;48
+209;SSI;Chứng khoán SSI;HOSE;Tài chính;Dịch vụ tài chính;Dịch vụ tài chính;Môi giới chứng khoán;Môi giới chứng khoán;52.387
+210;VND;Chứng khoán VNDIRECT;HOSE;Tài chính;Dịch vụ tài chính;Dịch vụ tài chính;Môi giới chứng khoán;Môi giới chứng khoán;21.769
+211;HCM;Chứng khoán HSC;HOSE;Tài chính;Dịch vụ tài chính;Dịch vụ tài chính;Môi giới chứng khoán;Môi giới chứng khoán;20.375
+212;VCI;Chứng khoán Vietcap;HOSE;Tài chính;Dịch vụ tài chính;Dịch vụ tài chính;Môi giới chứng khoán;Môi giới chứng khoán;19.819
+213;VIX;Chứng khoán VIX;HOSE;Tài chính;Dịch vụ tài chính;Dịch vụ tài chính;Môi giới chứng khoán;Môi giới chứng khoán;16.189
+214;MBS;Chứng khoán MB;HNX;Tài chính;Dịch vụ tài chính;Dịch vụ tài chính;Môi giới chứng khoán;Môi giới chứng khoán;15.536
+215;FUEVFVND;Quỹ ETF DCVFMVN DIAMOND;HOSE;Tài chính;Dịch vụ tài chính;Quỹ đầu tư;Quỹ đầu tư;Quỹ đầu tư;12.766
+216;FTS;Chứng khoán FPT;HOSE;Tài chính;Dịch vụ tài chính;Dịch vụ tài chính;Môi giới chứng khoán;Môi giới chứng khoán;12.497
+217;SHS;Chứng khoán SG - HN;HNX;Tài chính;Dịch vụ tài chính;Dịch vụ tài chính;Môi giới chứng khoán;Môi giới chứng khoán;11.547
+218;BSI;Chứng khoán BIDV;HOSE;Tài chính;Dịch vụ tài chính;Dịch vụ tài chính;Môi giới chứng khoán;Môi giới chứng khoán;10.484
+219;EVF;Tài chính Điện lực;HOSE;Tài chính;Dịch vụ tài chính;Dịch vụ tài chính;Tài chính cá nhân;Tài chính cá nhân;8.214
+220;DSE;Chứng Khoán DNSE;HOSE;Tài chính;Dịch vụ tài chính;Dịch vụ tài chính;Môi giới chứng khoán;Môi giới chứng khoán;8.151
+221;E1VFVN30;Quỹ ETF DCVFMVN30;HOSE;Tài chính;Dịch vụ tài chính;Quỹ đầu tư;Quỹ đầu tư;Quỹ đầu tư;7.091
+222;CTS;Chứng khoán Vietinbank;HOSE;Tài chính;Dịch vụ tài chính;Dịch vụ tài chính;Môi giới chứng khoán;Môi giới chứng khoán;5.481
+223;BCG;Bamboo Capital;HOSE;Tài chính;Dịch vụ tài chính;Dịch vụ tài chính;Tài chính đặc biệt;Tài chính đặc biệt;5.449
+224;VDS;Chứng khoán Rồng Việt;HOSE;Tài chính;Dịch vụ tài chính;Dịch vụ tài chính;Môi giới chứng khoán;Môi giới chứng khoán;4.824
+225;ORS;Chứng khoán Tiên Phong;HOSE;Tài chính;Dịch vụ tài chính;Dịch vụ tài chính;Môi giới chứng khoán;Môi giới chứng khoán;4.754
+226;DSC;Chứng khoán DSC;HOSE;Tài chính;Dịch vụ tài chính;Dịch vụ tài chính;Môi giới chứng khoán;Môi giới chứng khoán;4.660
+227;AGR;Agriseco;HOSE;Tài chính;Dịch vụ tài chính;Dịch vụ tài chính;Môi giới chứng khoán;Môi giới chứng khoán;3.791
+228;TVS;Chứng khoán Thiên Việt;HOSE;Tài chính;Dịch vụ tài chính;Dịch vụ tài chính;Môi giới chứng khoán;Môi giới chứng khoán;3.632
+229;BVS;Chứng khoán Bảo Việt;HNX;Tài chính;Dịch vụ tài chính;Dịch vụ tài chính;Môi giới chứng khoán;Môi giới chứng khoán;2.874
+230;APG;Chứng khoán APG;HOSE;Tài chính;Dịch vụ tài chính;Dịch vụ tài chính;Môi giới chứng khoán;Môi giới chứng khoán;2.102
+231;VFS;Chứng khoán Nhất Việt;HNX;Tài chính;Dịch vụ tài chính;Dịch vụ tài chính;Môi giới chứng khoán;Môi giới chứng khoán;1.800
+232;FUEKIV30;KIM GROWTH VN30 ETF;HOSE;Tài chính;Dịch vụ tài chính;Quỹ đầu tư;Quỹ đầu tư;Quỹ đầu tư;1.727
+233;PHS;Chứng khoán Phú Hưng;UPCoM;Tài chính;Dịch vụ tài chính;Dịch vụ tài chính;Môi giới chứng khoán;Môi giới chứng khoán;1.725
+234;AAS;Chứng khoán SmartInvest;UPCoM;Tài chính;Dịch vụ tài chính;Dịch vụ tài chính;Môi giới chứng khoán;Môi giới chứng khoán;1.572
+235;FIT;Tập đoàn F.I.T;HOSE;Tài chính;Dịch vụ tài chính;Dịch vụ tài chính;Tài chính đặc biệt;Tài chính đặc biệt;1.458
+236;OGC;Tập đoàn Đại Dương;HOSE;Tài chính;Dịch vụ tài chính;Dịch vụ tài chính;Tài chính đặc biệt;Tài chính đặc biệt;1.218
+237;TVC;Tập đoàn Trí Việt;HNX;Tài chính;Dịch vụ tài chính;Dịch vụ tài chính;Tài chính đặc biệt;Tài chính đặc biệt;1.162
+238;TVB;Chứng khoán Trí Việt;HOSE;Tài chính;Dịch vụ tài chính;Dịch vụ tài chính;Môi giới chứng khoán;Môi giới chứng khoán;993
+239;TCI;Chứng khoán Thành Công;HOSE;Tài chính;Dịch vụ tài chính;Dịch vụ tài chính;Môi giới chứng khoán;Môi giới chứng khoán;963
+240;TIN;Tài chính Cổ phần Tín Việt;UPCoM;Tài chính;Dịch vụ tài chính;Dịch vụ tài chính;Quản lý tài sản;Quản lý tài sản;950
+241;EVS;Chứng khoán Everest;HNX;Tài chính;Dịch vụ tài chính;Dịch vụ tài chính;Môi giới chứng khoán;Môi giới chứng khoán;923
+242;ABW;Chứng khoán An Bình;UPCoM;Tài chính;Dịch vụ tài chính;Dịch vụ tài chính;Môi giới chứng khoán;Môi giới chứng khoán;883
+243;SBS;Chứng khoán Sacombank;UPCoM;Tài chính;Dịch vụ tài chính;Dịch vụ tài chính;Môi giới chứng khoán;Môi giới chứng khoán;733
+244;IVS;Chứng khoán Guotai Junan (Việt Nam);HNX;Tài chính;Dịch vụ tài chính;Dịch vụ tài chính;Môi giới chứng khoán;Môi giới chứng khoán;666
+245;BMS;Chứng khoán Bảo Minh;UPCoM;Tài chính;Dịch vụ tài chính;Dịch vụ tài chính;Môi giới chứng khoán;Môi giới chứng khoán;658
+246;APS;CK Châu Á - TBD;HNX;Tài chính;Dịch vụ tài chính;Dịch vụ tài chính;Môi giới chứng khoán;Môi giới chứng khoán;556
+247;FUEVN100;Quỹ ETF VINACAPITAL VN100;HOSE;Tài chính;Dịch vụ tài chính;Quỹ đầu tư;Quỹ đầu tư;Quỹ đầu tư;520
+248;CSI;Chứng khoán Kiến thiết VN;UPCoM;Tài chính;Dịch vụ tài chính;Dịch vụ tài chính;Môi giới chứng khoán;Môi giới chứng khoán;507
+249;FUESSVFL;Quỹ ETF SSIAM VNFIN LEAD;HOSE;Tài chính;Dịch vụ tài chính;Quỹ đầu tư;Quỹ đầu tư;Quỹ đầu tư;464
+250;FUEMAVND;Quỹ ETF MAFM VNDIAMOND;HOSE;Tài chính;Dịch vụ tài chính;Quỹ đầu tư;Quỹ đầu tư;Quỹ đầu tư;436
+251;PSI;Chứng khoán Dầu khí;HNX;Tài chính;Dịch vụ tài chính;Dịch vụ tài chính;Môi giới chứng khoán;Môi giới chứng khoán;425
+252;VUA;Chứng khoán Stanley Brothers;UPCoM;Tài chính;Dịch vụ tài chính;Dịch vụ tài chính;Môi giới chứng khoán;Môi giới chứng khoán;424
+253;FUEMAV30;Quỹ ETF MAFM VN30;HOSE;Tài chính;Dịch vụ tài chính;Quỹ đầu tư;Quỹ đầu tư;Quỹ đầu tư;385
+254;HAC;Chứng khoán Hải Phòng;UPCoM;Tài chính;Dịch vụ tài chính;Dịch vụ tài chính;Môi giới chứng khoán;Môi giới chứng khoán;357
+255;FUEDCMID;Quỹ ETF DCVFMVNMIDCAP;HOSE;Tài chính;Dịch vụ tài chính;Quỹ đầu tư;Quỹ đầu tư;Quỹ đầu tư;356
+256;FUEKIVFS;KIM GROWTH VNFINSELECT ETF;HOSE;Tài chính;Dịch vụ tài chính;Quỹ đầu tư;Quỹ đầu tư;Quỹ đầu tư;313
+257;FUCTVGF4;Quỹ Đầu tư Tăng trưởng Thiên Việt 4;HOSE;Tài chính;Dịch vụ tài chính;Quỹ đầu tư;Quỹ đầu tư;Quỹ đầu tư;303
+258;FUCTVGF3;Quỹ Đầu tư Tăng trưởng Thiên Việt 3;HOSE;Tài chính;Dịch vụ tài chính;Quỹ đầu tư;Quỹ đầu tư;Quỹ đầu tư;302
+259;VIG;Chứng khoán Đầu tư Tài chính Việt Nam;HNX;Tài chính;Dịch vụ tài chính;Dịch vụ tài chính;Môi giới chứng khoán;Môi giới chứng khoán;280
+260;HBS;Chứng khoán Hòa Bình;HNX;Tài chính;Dịch vụ tài chính;Dịch vụ tài chính;Môi giới chứng khoán;Môi giới chứng khoán;254
+261;WSS;Chứng khoán Phố Wall;HNX;Tài chính;Dịch vụ tài chính;Dịch vụ tài chính;Môi giới chứng khoán;Môi giới chứng khoán;246
+262;FUCTVGF5;Quỹ Đầu tư Tăng trưởng Thiên Việt 5;HOSE;Tài chính;Dịch vụ tài chính;Quỹ đầu tư;Quỹ đầu tư;Quỹ đầu tư;187
+263;FUESSV30;Quỹ ETF SSIAM VN30;HOSE;Tài chính;Dịch vụ tài chính;Quỹ đầu tư;Quỹ đầu tư;Quỹ đầu tư;170
+264;IBC;Đầu tư APAX Holdings;UPCoM;Tài chính;Dịch vụ tài chính;Dịch vụ tài chính;Tài chính đặc biệt;Tài chính đặc biệt;141
+265;FUESSV50;Quỹ ETF SSIAM VNX50;HOSE;Tài chính;Dịch vụ tài chính;Quỹ đầu tư;Quỹ đầu tư;Quỹ đầu tư;127
+266;ART;Chứng khoán BOS;UPCoM;Tài chính;Dịch vụ tài chính;Dịch vụ tài chính;Môi giới chứng khoán;Môi giới chứng khoán;126
+267;FUEKIVND;Quỹ ETF KIM GROWTH VN DIAMOND;HOSE;Tài chính;Dịch vụ tài chính;Quỹ đầu tư;Quỹ đầu tư;Quỹ đầu tư;104
+268;FUEFCV50;Quỹ ETF FPT CAPITAL VNX50;HOSE;Tài chính;Dịch vụ tài chính;Quỹ đầu tư;Quỹ đầu tư;Quỹ đầu tư;67
+269;FUEABVND;Quỹ ETF ABFVN DIAMOND;HOSE;Tài chính;Dịch vụ tài chính;Quỹ đầu tư;Quỹ đầu tư;Quỹ đầu tư;55
+270;FUEBFVND;ETF BVFVN DIAMOND;HOSE;Tài chính;Dịch vụ tài chính;Quỹ đầu tư;Quỹ đầu tư;Quỹ đầu tư;50
+271;FUEIP100;ETF IPAAM VN100;HOSE;Tài chính;Dịch vụ tài chính;Quỹ đầu tư;Quỹ đầu tư;Quỹ đầu tư;45
+272;FUCVREIT;Quỹ Đầu tư BĐS Techcom Việt Nam;HOSE;Tài chính;Dịch vụ tài chính;Quỹ đầu tư;Quỹ đầu tư;Quỹ đầu tư;29
+273;GAS;PV Gas;HOSE;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Phân phối xăng dầu & khí đốt;Phân phối xăng dầu & khí đốt;166.096
+274;REE;Cơ Điện Lạnh REE;HOSE;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;29.674
+275;POW;Điện lực Dầu khí Việt Nam;HOSE;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;27.868
+276;PGV;Tổng Công ty Phát điện 3;HOSE;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;22.919
+277;DNH;Thủy điện Đa Nhim-Hàm Thuận-Đa Mi;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;21.120
+278;VSH;Thủy điện Vĩnh Sơn - Sông Hinh;HOSE;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;11.883
+279;BWE;Nước - Môi trường Bình Dương;HOSE;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;9.831
+280;BGE;BCG Energy;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;8.142
+281;DTK;Vinacomin Power;HNX;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;7.988
+282;HND;Nhiệt điện Hải Phòng;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;6.557
+283;SBH;Thủy điện Sông Ba Hạ;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;6.435
+284;QTP;Nhiệt điện Quảng Ninh;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;6.249
+285;HNA;Thủy điện Hủa Na;HOSE;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;5.716
+286;TDM;Nước Thủ Dầu Một;HOSE;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;5.511
+287;NT2;Điện lực Nhơn Trạch 2;HOSE;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;5.484
+288;CHP;Thủy điện Miền Trung;HOSE;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;4.833
+289;TMP;Thủy điện Thác Mơ;HOSE;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;4.809
+290;AVC;Thủy điện A Vương;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;4.135
+291;GEG;Điện Gia Lai;HOSE;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;4.121
+292;PPC;Nhiệt điện Phả Lại;HOSE;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;3.944
+293;DNW;Cấp nước Đồng Nai;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;3.895
+294;SHP;Thủy điện Miền Nam;HOSE;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;3.492
+295;BWS;Cấp Nước Bà Rịa Vũng Tàu;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;3.397
+296;PGD;PV GAS D;HOSE;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Phân phối xăng dầu & khí đốt;Phân phối xăng dầu & khí đốt;3.227
+297;VPD;Phát triển Điện lực Việt Nam;HOSE;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;2.915
+298;TBC;Thủy điện Thác Bà;HOSE;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;2.546
+299;VCW;Đầu tư Nước sạch Sông Đà;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;2.175
+300;VCP;Xây dựng và Năng lượng VCP;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;1.939
+301;PMW;Cấp Nước Phú Mỹ;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;1.875
+302;SBA;Sông Ba JSC;HOSE;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;1.845
+303;ND2;Đầu tư và PT điện Miền Bắc 2;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;1.765
+304;TTA;XD và PT Trường Thành;HOSE;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;1.680
+305;PGS;Khí Miền Nam;HNX;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Phân phối xăng dầu & khí đốt;Phân phối xăng dầu & khí đốt;1.640
+306;PEG;TM Kỹ thuật và Đầu tư (PETEC);UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Phân phối xăng dầu & khí đốt;Phân phối xăng dầu & khí đốt;1.618
+307;SEB;Điện miền Trung;HNX;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;1.568
+308;S4A;Thủy điện Sê San 4A;HOSE;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;1.540
+309;TLP;Thương mại XNK Thanh Lễ;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Phân phối xăng dầu & khí đốt;Phân phối xăng dầu & khí đốt;1.538
+310;GHC;Thủy điện Gia Lai;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;1.498
+311;BSA;Thủy điện Buôn Đôn;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;1.484
+312;BHA;Thủy điện Bắc Hà;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;1.480
+313;VAV;VIWACO;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;1.437
+314;HPW;Cấp nước Hải Phòng;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;1.414
+315;HWS;Cấp nước Thừa Thiên Huế;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;1.396
+316;DNA;Điện nước An Giang;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;1.341
+317;SII;Hạ tầng Nước Sài Gòn;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;1.336
+318;LDW;Cấp thoát nước Lâm Đồng;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;1.221
+319;ISH;Thủy điện Srok Phu Miêng;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;1.211
+320;SJD;Thủy điện Cần Đơn;HOSE;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;1.156
+321;CNG;CNG Việt Nam;HOSE;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Phân phối xăng dầu & khí đốt;Phân phối xăng dầu & khí đốt;1.127
+322;NS2;Nước sạch số 2 Hà Nội;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;1.000
+323;PGC;Gas Petrolimex;HOSE;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Phân phối xăng dầu & khí đốt;Phân phối xăng dầu & khí đốt;872
+324;CTW;Cấp thoát nước Cần Thơ;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;843
+325;BTP;Nhiệt điện Bà Rịa;HOSE;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;744
+326;TTE;ĐT Năng lượng Trường Thịnh;HOSE;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;741
+327;VLW;Cấp nước Vĩnh Long;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;740
+328;NQN;Nước sạch Quảng Ninh;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;701
+329;KHP;Điện lực Khánh Hòa;HOSE;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;700
+330;HJS;Thủy điện Nậm Mu;HNX;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;661
+331;PIC;Đầu tư Điện lực 3;HNX;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;647
+332;NTH;Thủy điện Nước Trong;HNX;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;632
+333;GSM;Thủy điện Hương Sơn;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;631
+334;DRL;Thủy điện - Điện lực 3;HOSE;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;581
+335;DNC;Điện nước Hải Phòng;HNX;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;572
+336;CLW;Cấp nước Chợ Lớn;HOSE;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;564
+337;POB;PVOIL Thái Bình;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Phân phối xăng dầu & khí đốt;Phân phối xăng dầu & khí đốt;549
+338;QPH;Thủy điện Quế Phong;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;539
+339;NBT;Cấp thoát nước Bến Tre;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;526
+340;NNT;Cấp nước Ninh Thuận;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;494
+341;KHW;Cấp thoát nước Khánh Hòa;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;489
+342;STW;Cấp nước Sóc Trăng;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;466
+343;PWS;Cấp thoát nước Phú Yên;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;460
+344;HDW;Nước sạch Hải Dương;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;446
+345;PSH;TMại ĐT Dầu khí Nam Sông Hậu;HOSE;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Phân phối xăng dầu & khí đốt;Phân phối xăng dầu & khí đốt;408
+346;PMG;ĐT và SX Petro Miền Trung;HOSE;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Phân phối xăng dầu & khí đốt;Phân phối xăng dầu & khí đốt;394
+347;SP2;Thủy điện Sử Pán 2;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;382
+348;TDW;Cấp nước Thủ Đức;HOSE;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;374
+349;BTW;Cấp nước Bến Thành;HNX;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;373
+350;CCI;CIDICO;HOSE;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Phân phối xăng dầu & khí đốt;Phân phối xăng dầu & khí đốt;357
+351;BDW;Cấp thoát nước Bình Định;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;350
+352;BNW;Nước sạch Bắc Ninh;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;345
+353;LAW;Cấp thoát nước Long An;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;342
+354;TDB;Thủy điện Định Bình;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;339
+355;QNW;Cấp thoát nước và XD Quảng Ngãi;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;338
+356;HTC;Thương mại Hóc Môn;HNX;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Phân phối xăng dầu & khí đốt;Phân phối xăng dầu & khí đốt;333
+357;CHS;Chiếu sáng TPHCM;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Tiện ích khác;Tiện ích khác;327
+358;DWS;Cấp nước Đồng Tháp;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;324
+359;NBW;Cấp nước Nhà Bè;HNX;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;319
+360;UIC;Phát triển Nhà và Đô thị IDICO;HOSE;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;314
+361;NAW;Cấp nước Nghệ An;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;295
+362;BGW;Nước sạch Bắc Giang;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;290
+363;GDW;Cấp nước Gia Định;HNX;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;276
+364;PVG;Kinh doanh LPG Việt Nam;HNX;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Phân phối xăng dầu & khí đốt;Phân phối xăng dầu & khí đốt;272
+365;DWC;Cấp nước Đắk Lắk;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;271
+366;DTE;Đại Trường Thành Holdings;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;259
+367;NDW;Cấp nước Nam Định;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;257
+368;SFC;Nhiên liệu Sài Gòn;HOSE;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Phân phối xăng dầu & khí đốt;Phân phối xăng dầu & khí đốt;247
+369;XMP;Thủy điện Xuân Minh;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;245
+370;PPT;Petro Times;HNX;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Phân phối xăng dầu & khí đốt;Phân phối xăng dầu & khí đốt;235
+371;HIO;Helio Energy;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;231
+372;DDG;Đầu tư CN XNK Đông Dương;HNX;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Phân phối xăng dầu & khí đốt;Phân phối xăng dầu & khí đốt;224
+373;SMA;Thiết bị Phụ tùng Sài Gòn;HOSE;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;208
+374;PJS;Cấp nước Phú Hòa Tân;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;207
+375;CMW;Cấp nước Cà Mau;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;207
+376;NSL;Cấp nước Sơn La;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;203
+377;PJC;TM và Vận tải Petrolimex HN;HNX;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Phân phối xăng dầu & khí đốt;Phân phối xăng dầu & khí đốt;195
+378;TOW;Cấp nước Trà Nóc - Ô Môn;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;190
+379;HPD;Thủy điện Đăk Đoa;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;186
+380;NTW;Cấp nước Nhơn Trạch;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;180
+381;THN;Cấp nước Thanh Hóa;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;168
+382;TNW;Nước sạch Thái Nguyên;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;162
+383;NBP;Nhiệt điện Ninh Bình;HNX;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;157
+384;NQT;Nước sạch Quảng Trị;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;155
+385;BMF;VLXD và Chất đốt Đồng Nai;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Phân phối xăng dầu & khí đốt;Phân phối xăng dầu & khí đốt;149
+386;ASP;Dầu khí An Pha;HOSE;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Phân phối xăng dầu & khí đốt;Phân phối xăng dầu & khí đốt;143
+387;NQB;Cấp nước Quảng Bình;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;138
+388;TBW;Nước sạch Thái Bình;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;136
+389;GLW;Cấp thoát nước Gia Lai;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;126
+390;DVC;TM dịch vụ Cảng Hải Phòng;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Phân phối xăng dầu & khí đốt;Phân phối xăng dầu & khí đốt;108
+391;VPW;Cấp thoát nước số 1 Vĩnh Phúc;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;107
+392;TMC;XNK Thủ Đức;HNX;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Phân phối xăng dầu & khí đốt;Phân phối xăng dầu & khí đốt;104
+393;PCG;Đầu tư PT Gas Đô thị;HNX;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Phân phối xăng dầu & khí đốt;Phân phối xăng dầu & khí đốt;104
+394;POV;PV Oil Vũng Áng;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Phân phối xăng dầu & khí đốt;Phân phối xăng dầu & khí đốt;104
+395;HFC;Xăng dầu HFC;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Phân phối xăng dầu & khí đốt;Phân phối xăng dầu & khí đốt;96
+396;TDG;Đầu tư TDG Global;HOSE;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Phân phối xăng dầu & khí đốt;Phân phối xăng dầu & khí đốt;93
+397;SVH;Thủy điện Sông Vàng;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;89
+398;UPC;Cây xanh Vũng Tàu;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Tiện ích khác;Tiện ích khác;88
+399;HTE;Kinh doanh điện lực TP HCM;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;Sản xuất & Phân phối Điện;86
+400;PPY;Xăng dầu dầu khí Phú Yên;HNX;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Phân phối xăng dầu & khí đốt;Phân phối xăng dầu & khí đốt;84
+401;MTG;MTGAS;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Phân phối xăng dầu & khí đốt;Phân phối xăng dầu & khí đốt;84
+402;KTW;Cấp nước Kon Tum;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;82
+403;VXT;Kho vận và DV Thương mại;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Phân phối xăng dầu & khí đốt;Phân phối xăng dầu & khí đốt;81
+404;LKW;Cấp nước Long Khánh;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;75
+405;NVP;Nước sạch Vĩnh Phúc;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;75
+406;TAW;Cấp nước Trung An;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;74
+407;TQW;Cấp thoát nước Tuyên Quang;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;73
+408;GCB;PETEC Bình Định;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Phân phối xăng dầu & khí đốt;Phân phối xăng dầu & khí đốt;73
+409;VWS;Nước và Môi trường VN;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;71
+410;THW;Cấp nước Tân Hòa;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;65
+411;PTH;Vận tải và DV Petrolimex Hà Tây;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Phân phối xăng dầu & khí đốt;Phân phối xăng dầu & khí đốt;56
+412;PND;Xăng dầu Dầu khí Nam Định;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Phân phối xăng dầu & khí đốt;Phân phối xăng dầu & khí đốt;54
+413;VMG;Vimexco Gas;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Phân phối xăng dầu & khí đốt;Phân phối xăng dầu & khí đốt;43
+414;BWA;Cấp thoát nước và Xây dựng Bảo Lộc;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;32
+415;DMS;Dầu khí DMC-miền Nam;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Phân phối xăng dầu & khí đốt;Phân phối xăng dầu & khí đốt;32
+416;NLS;Cấp thoát nước Lạng Sơn;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;24
+417;DNN;Cấp nước Đà Nẵng;UPCoM;Tiện ích Cộng đồng;Điện, nước & xăng dầu khí đốt;Nước & Khí đốt;Nước;Nước;12
+418;VJC;Vietjet Air;HOSE;Dịch vụ Tiêu dùng;Du lịch và Giải trí;Du lịch & Giải trí;Dịch vụ hàng không;Dịch vụ Hàng không;56.436
+419;HVN;Vietnam Airlines;HOSE;Dịch vụ Tiêu dùng;Du lịch và Giải trí;Du lịch & Giải trí;Dịch vụ hàng không;Dịch vụ Hàng không;44.952
+420;SCS;DV Hàng hóa Sài Gòn;HOSE;Dịch vụ Tiêu dùng;Du lịch và Giải trí;Du lịch & Giải trí;Dịch vụ hàng không;Dịch vụ Hàng không;7.117
+421;TSJ;Hanoi Toserco;UPCoM;Dịch vụ Tiêu dùng;Du lịch và Giải trí;Du lịch & Giải trí;Vận tải hành khách & Du lịch;Vận tải hành khách đường bộ;2.034
+422;DSP;Dịch vụ Du lịch Phú Thọ;UPCoM;Dịch vụ Tiêu dùng;Du lịch và Giải trí;Du lịch & Giải trí;Vận tải hành khách & Du lịch;Vận tải hành khách đường bộ;1.365
+423;HRT;Vận tải đường sắt Hà Nội;UPCoM;Dịch vụ Tiêu dùng;Du lịch và Giải trí;Du lịch & Giải trí;Vận tải hành khách & Du lịch;Vận tải hành khách đường bộ;1.130
+424;DSD;DHC Suối Đôi;UPCoM;Dịch vụ Tiêu dùng;Du lịch và Giải trí;Du lịch & Giải trí;Dịch vụ giải trí;Dịch vụ giải trí;942
+425;SKG;Tàu Cao tốc Superdong;HOSE;Dịch vụ Tiêu dùng;Du lịch và Giải trí;Du lịch & Giải trí;Vận tải hành khách & Du lịch;Vận tải hành khách đường thủy;761
+426;VNG;DL Thành Thành Công;HOSE;Dịch vụ Tiêu dùng;Du lịch và Giải trí;Du lịch & Giải trí;Khách sạn;Khách sạn, resort;740
+427;BSG;Xe khách Sài Gòn;UPCoM;Dịch vụ Tiêu dùng;Du lịch và Giải trí;Du lịch & Giải trí;Vận tải hành khách & Du lịch;Vận tải hành khách đường bộ;714
+428;VNS;Ánh Dương Việt Nam;HOSE;Dịch vụ Tiêu dùng;Du lịch và Giải trí;Du lịch & Giải trí;Vận tải hành khách & Du lịch;Vận tải hành khách đường bộ;702
+429;DSN;Công viên nước Đầm Sen;HOSE;Dịch vụ Tiêu dùng;Du lịch và Giải trí;Du lịch & Giải trí;Dịch vụ giải trí;Dịch vụ giải trí;666
+430;SRT;Vận tải Đường sắt Sài Gòn;UPCoM;Dịch vụ Tiêu dùng;Du lịch và Giải trí;Du lịch & Giải trí;Vận tải hành khách & Du lịch;Vận tải hành khách đường bộ;594
+431;VTR;Du lịch Vietravel;UPCoM;Dịch vụ Tiêu dùng;Du lịch và Giải trí;Du lịch & Giải trí;Vận tải hành khách & Du lịch;Vận tải hành khách đường bộ;560
+432;HES;Dịch vụ Giải trí Hà Nội;UPCoM;Dịch vụ Tiêu dùng;Du lịch và Giải trí;Du lịch & Giải trí;Dịch vụ giải trí;Dịch vụ giải trí;532
+433;SGH;Khách sạn Sài Gòn;HNX;Dịch vụ Tiêu dùng;Du lịch và Giải trí;Du lịch & Giải trí;Khách sạn;Khách sạn, resort;305
+434;BTV;DV Du lịch Bến Thành;UPCoM;Dịch vụ Tiêu dùng;Du lịch và Giải trí;Du lịch & Giải trí;Vận tải hành khách & Du lịch;Công ty du lịch;289
+435;DAH;Tập đoàn Khách sạn Đông Á;HOSE;Dịch vụ Tiêu dùng;Du lịch và Giải trí;Du lịch & Giải trí;Khách sạn;Khách sạn, resort;261
+436;DNT;Du lịch Đồng Nai;UPCoM;Dịch vụ Tiêu dùng;Du lịch và Giải trí;Du lịch & Giải trí;Dịch vụ giải trí;Dịch vụ giải trí;255
+437;RIC;Quốc tế Hoàng Gia;UPCoM;Dịch vụ Tiêu dùng;Du lịch và Giải trí;Du lịch & Giải trí;Dịch vụ giải trí;Dịch vụ giải trí;253
+438;HGT;Du lịch Hương Giang;UPCoM;Dịch vụ Tiêu dùng;Du lịch và Giải trí;Du lịch & Giải trí;Vận tải hành khách & Du lịch;Vận tải hành khách đường bộ;234
+439;TCT;Cáp treo Tây Ninh;HOSE;Dịch vụ Tiêu dùng;Du lịch và Giải trí;Du lịch & Giải trí;Vận tải hành khách & Du lịch;Vận tải hành khách đường bộ;221
+440;TTT;Du lịch - Thương Mại Tây Ninh;HNX;Dịch vụ Tiêu dùng;Du lịch và Giải trí;Du lịch & Giải trí;Vận tải hành khách & Du lịch;Vận tải hành khách đường bộ;151
+441;MAS;Sân bay Đà Nẵng;HNX;Dịch vụ Tiêu dùng;Du lịch và Giải trí;Du lịch & Giải trí;Vận tải hành khách & Du lịch;Vận tải hành khách đường bộ;147
+442;TPS;Bến bãi vận tải Sài Gòn;UPCoM;Dịch vụ Tiêu dùng;Du lịch và Giải trí;Du lịch & Giải trí;Vận tải hành khách & Du lịch;Vận tải hành khách đường bộ;140
+443;KLF;KLF Global;UPCoM;Dịch vụ Tiêu dùng;Du lịch và Giải trí;Du lịch & Giải trí;Dịch vụ giải trí;Dịch vụ giải trí;132
+444;EIN;Đầu tư - TM - DV Điện lực;UPCoM;Dịch vụ Tiêu dùng;Du lịch và Giải trí;Du lịch & Giải trí;Khách sạn;Khách sạn, resort;120
+445;VTG;Du lịch tỉnh BR-VT;UPCoM;Dịch vụ Tiêu dùng;Du lịch và Giải trí;Du lịch & Giải trí;Vận tải hành khách & Du lịch;Vận tải hành khách đường bộ;119
+446;HOT;Du lịch - DV Hội An;UPCoM;Dịch vụ Tiêu dùng;Du lịch và Giải trí;Du lịch & Giải trí;Vận tải hành khách & Du lịch;Vận tải hành khách đường bộ;84
+447;VTD;Du lịch Vietourist;UPCoM;Dịch vụ Tiêu dùng;Du lịch và Giải trí;Du lịch & Giải trí;Vận tải hành khách & Du lịch;Công ty du lịch;83
+448;PDC;Dầu khí Phương Đông;UPCoM;Dịch vụ Tiêu dùng;Du lịch và Giải trí;Du lịch & Giải trí;Vận tải hành khách & Du lịch;Vận tải hành khách đường bộ;78
+449;VTM;Đưa đón thợ mỏ - Vinacomin;UPCoM;Dịch vụ Tiêu dùng;Du lịch và Giải trí;Du lịch & Giải trí;Vận tải hành khách & Du lịch;Vận tải hành khách đường bộ;71
+450;ATS;Tập đoàn Đầu tư ATS;HNX;Dịch vụ Tiêu dùng;Du lịch và Giải trí;Du lịch & Giải trí;Nhà hàng và quán bar;Nhà hàng và quán bar;63
+451;NWT;Vận tải Newway;UPCoM;Dịch vụ Tiêu dùng;Du lịch và Giải trí;Du lịch & Giải trí;Vận tải hành khách & Du lịch;Vận tải hành khách đường bộ;57
+452;DLD;Du lịch Đắk Lắk;UPCoM;Dịch vụ Tiêu dùng;Du lịch và Giải trí;Du lịch & Giải trí;Khách sạn;Khách sạn, resort;53
+453;HHG;Vận tải Hoàng Hà;UPCoM;Dịch vụ Tiêu dùng;Du lịch và Giải trí;Du lịch & Giải trí;Vận tải hành khách & Du lịch;Vận tải hành khách đường bộ;51
+454;PGT;PGT Holdings;HNX;Dịch vụ Tiêu dùng;Du lịch và Giải trí;Du lịch & Giải trí;Vận tải hành khách & Du lịch;Vận tải hành khách đường bộ;48
+455;VIR;Du lịch Vũng Tàu;UPCoM;Dịch vụ Tiêu dùng;Du lịch và Giải trí;Du lịch & Giải trí;Khách sạn;Khách sạn, resort;45
+456;BCV;Du lịch và Thương mại Bằng Giang Cao Bằng - Vimico;UPCoM;Dịch vụ Tiêu dùng;Du lịch và Giải trí;Du lịch & Giải trí;Khách sạn;Khách sạn, resort;39
+457;BLN;Xe buýt Liên Ninh;UPCoM;Dịch vụ Tiêu dùng;Du lịch và Giải trí;Du lịch & Giải trí;Vận tải hành khách & Du lịch;Vận tải hành khách đường bộ;37
+458;DTI;Đầu tư Đức Trung;UPCoM;Dịch vụ Tiêu dùng;Du lịch và Giải trí;Du lịch & Giải trí;Khách sạn;Khách sạn, resort;31
+459;DXL;Du lịch và Xuất nhập khẩu Lạng Sơn;UPCoM;Dịch vụ Tiêu dùng;Du lịch và Giải trí;Du lịch & Giải trí;Khách sạn;Khách sạn, resort;25
+460;CTC;Tập đoàn Hoàng Kim Tây Nguyên;HNX;Dịch vụ Tiêu dùng;Du lịch và Giải trí;Du lịch & Giải trí;Vận tải hành khách & Du lịch;Vận tải hành khách đường bộ;21
+461;DLT;Du lịch và TM - Vinacomin;UPCoM;Dịch vụ Tiêu dùng;Du lịch và Giải trí;Du lịch & Giải trí;Vận tải hành khách & Du lịch;Vận tải hành khách đường bộ;16
+462;GTT;Thuận Thảo Group;UPCoM;Dịch vụ Tiêu dùng;Du lịch và Giải trí;Du lịch & Giải trí;Dịch vụ giải trí;Dịch vụ giải trí;13
+463;STT;Vận chuyển Sài Gòn Tourist;UPCoM;Dịch vụ Tiêu dùng;Du lịch và Giải trí;Du lịch & Giải trí;Vận tải hành khách & Du lịch;Vận tải hành khách đường bộ;13
+464;TSD;Du lịch Trường Sơn Coecco;UPCoM;Dịch vụ Tiêu dùng;Du lịch và Giải trí;Du lịch & Giải trí;Vận tải hành khách & Du lịch;Công ty du lịch;7
+465;ONW;Dịch vụ Một Thế giới;UPCoM;Dịch vụ Tiêu dùng;Du lịch và Giải trí;Du lịch & Giải trí;Dịch vụ giải trí;Dịch vụ giải trí;7
+466;MTC;Dịch Vụ Du Lịch Mỹ Trà;UPCoM;Dịch vụ Tiêu dùng;Du lịch và Giải trí;Du lịch & Giải trí;Nhà hàng và quán bar;Nhà hàng và quán bar;3
+467;ACV;Cảng Hàng không VN;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Cảng hàng không;254.638
+468;VEA;Máy động lực và Máy NN;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Công nghiệp nặng;Máy công nghiệp;Máy công nghiệp;58.281
+469;MVN;TCT Hàng hải Việt Nam;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Vận tải Thủy;Vận tải nội địa;40.485
+470;GMD;Gemadept;HOSE;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Dịch vụ kho bãi;25.957
+471;GEX;Tập đoàn Gelex;HOSE;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Điện tử & Thiết bị điện;Thiết bị điện;Thiết bị điện;17.575
+472;VTP;Bưu chính Viettel;HOSE;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Chuyển phát nhanh;Chuyển phát nhanh;11.021
+473;GEE;Thiết bị điện GELEX;HOSE;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Điện tử & Thiết bị điện;Thiết bị điện;Thiết bị điện;10.050
+474;PVT;Vận tải Dầu khí PVTrans;HOSE;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Vận tải Thủy;Vận tải quốc tế;9.719
+475;PHP;Cảng Hải Phòng;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Dịch vụ kho bãi;9.219
+476;TMS;Transimex;HOSE;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Dịch vụ kho bãi;7.485
+477;SGP;Cảng Sài Gòn;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Dịch vụ kho bãi;5.196
+478;HAH;Vận tải và Xếp dỡ Hải An;HOSE;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Dịch vụ cảng biển, cảng sông;5.102
+479;VSC;VICONSHIP;HOSE;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Dịch vụ kho bãi;4.775
+480;PAP;Cảng Phước An;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Dịch vụ kho bãi;4.445
+481;STG;Kho Vận Miền Nam;HOSE;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Dịch vụ cảng biển, cảng sông;4.127
+482;PDN;Cảng Đồng Nai;HOSE;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Dịch vụ kho bãi;3.890
+483;VGR;Cảng xanh VIP;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Dịch vụ cảng biển, cảng sông;3.669
+484;VFC;Vận tải biển VINAFCO;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Vận tải Thủy;Vận tải nội địa;3.559
+485;DVP;ĐT và PT Cảng Đình Vũ;HOSE;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Dịch vụ kho bãi;3.040
+486;TDP;Công ty Thuận Đức;HOSE;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Hàng công nghiệp;Containers & Đóng gói;Bao bì, đóng gói bằng nhựa;3.035
+487;NCT;DV Hàng hóa Nội Bài;HOSE;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Dịch vụ kho bãi;3.027
+488;CDN;Cảng Đà Nẵng;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Dịch vụ kho bãi;2.871
+489;IPA;Tập đoàn Đầu tư I.P.A;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Tư vấn & Hỗ trợ KD;Tư vấn & Hỗ trợ KD;2.801
+490;SGN;Phục vụ mặt đất Sài Gòn;HOSE;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Dịch vụ Sân bay;2.619
+491;TBD;Thiết bị điện Đông Anh;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Điện tử & Thiết bị điện;Thiết bị điện;Thiết bị điện;2.587
+492;CQN;Cảng Quảng Ninh;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Dịch vụ kho bãi;2.041
+493;TV2;Tư vấn XD Điện 2;HOSE;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Tư vấn & Hỗ trợ KD;Tư vấn & Hỗ trợ KD;1.924
+494;SWC;Đường Sông Miền Nam;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Vận tải Thủy;Vận tải nội địa;1.922
+495;VOS;Vận tải Biển Việt Nam;HOSE;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Vận tải Thủy;Vận tải nội địa;1.904
+496;PAC;Pin Ắc quy Miền Nam;HOSE;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Điện tử & Thiết bị điện;Hàng điện & điện tử;Hàng điện & điện tử;1.817
+497;ASG;Tập đoàn ASG;HOSE;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Dịch vụ Sân bay;1.720
+498;PVP;Vận tải Dầu khí Thái Bình Dương;HOSE;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Dịch vụ vận tải;Vận tải hàng khô;1.633
+499;APH;Tập đoàn An Phát Holdings;HOSE;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Hàng công nghiệp;Containers & Đóng gói;Bao bì, đóng gói bằng nhựa;1.534
+500;QNP;Cảng Quy Nhơn;HOSE;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Dịch vụ kho bãi;1.455
+501;CLL;Cảng Cát Lái;HOSE;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Dịch vụ kho bãi;1.287
+502;TBH;Tổng Bách Hóa;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Dịch vụ kho bãi;1.220
+503;TCL;Tan Cang Logistics;HOSE;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Dịch vụ vận tải;Vận tải hàng khô;1.056
+504;PDV;Vận tải Phương Đông Việt;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Vận tải Thủy;Vận tải nội địa;1.045
+505;LLM;LILAMA;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Công nghiệp nặng;Máy công nghiệp;Máy công nghiệp;1.028
+506;INN;Bao bì và In Nông Nghiệp;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Hàng công nghiệp;Containers & Đóng gói;Bao bì, đóng gói từ giấy;997
+507;VTO;VITACO;HOSE;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Vận tải Thủy;Vận tải nội địa;974
+508;BTH;Biến thế và Vật liệu Điện Hà Nội;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Điện tử & Thiết bị điện;Thiết bị điện;Thiết bị điện;929
+509;MIE;Máy và Thiết bị Công nghiệp;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Công nghiệp nặng;Máy công nghiệp;Máy công nghiệp;909
+510;SVI;Bao bì Biên Hòa;HOSE;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Hàng công nghiệp;Containers & Đóng gói;Bao bì, đóng gói từ giấy;873
+511;VIP;Vận tải Xăng dầu VIPCO;HOSE;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Vận tải Thủy;Vận tải nội địa;863
+512;VNA;Vận tải biển Vinaship;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Vận tải Thủy;Vận tải nội địa;831
+513;TTP;Bao bì nhựa Tân Tiến;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Hàng công nghiệp;Containers & Đóng gói;Bao bì, đóng gói bằng nhựa;826
+514;ILB;ICD Tân Cảng Long Bình;HOSE;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Dịch vụ kho bãi;789
+515;GSP;Vận tải Sản phẩm Khí Quốc tế;HOSE;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Vận tải Thủy;Vận tải nội địa;789
+516;SFI;Vận tải SAFI;HOSE;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Vận tải Thủy;Vận tải quốc tế;753
+517;DXP;Cảng Đoạn Xá;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Dịch vụ kho bãi;719
+518;CKD;Đông Anh Licogi;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Công nghiệp nặng;Máy công nghiệp;Máy công nghiệp;701
+519;WCS;Bến xe Miền Tây;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Bến xe khách;665
+520;SCY;Đóng tàu Sông Cấm;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Công nghiệp nặng;Xe tải & Đóng tàu;Xe tải & Đóng tàu;663
+521;DL1;Tập đoàn Alpha 7;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Bến xe khách;659
+522;PHN;Pin Hà Nội;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Điện tử & Thiết bị điện;Hàng điện & điện tử;Hàng điện & điện tử;614
+523;PVM;Thiết bị dầu khí (PV MACHINO);UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Nhà cung cấp thiết bị;Nhà cung cấp thiết bị;601
+524;TCW;Kho Vận Tân Cảng;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Dịch vụ kho bãi;600
+525;PCT;Vận tải Biển Global Pacific;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Dịch vụ vận tải;Vận tải hàng khô;580
+526;TV1;Tư vấn XD Điện 1;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Tư vấn & Hỗ trợ KD;Tư vấn & Hỗ trợ KD;579
+527;AMS;Xây dựng AMECC;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Nhà cung cấp thiết bị;Nhà cung cấp thiết bị;565
+528;VTK;Tư vấn thiết kế Viettel;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Tư vấn & Hỗ trợ KD;Tư vấn & Hỗ trợ KD;558
+529;TPP;Nhựa Tân Phú VN;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Hàng công nghiệp;Containers & Đóng gói;Bao bì, đóng gói bằng nhựa;549
+530;IST;ICD Tân Cảng Sóng Thần;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Dịch vụ kho bãi;540
+531;VIN;Kho vận ngoại thương VN;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Dịch vụ kho bãi;525
+532;VNT;Vận tải ngoại thương;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Dịch vụ vận tải;Vận tải hàng khô;523
+533;SBG;Tập Đoàn Cơ Khí Công Nghệ Cao Siba;HOSE;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Hàng công nghiệp;Công nghiệp phức hợp;Công nghiệp phức hợp;520
+534;IME;Xây lắp Công nghiệp;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Công nghiệp nặng;Máy công nghiệp;Máy công nghiệp;508
+535;EMS;Chuyển phát nhanh Bưu điện;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Chuyển phát nhanh;Chuyển phát nhanh;498
+536;PSP;DV Dầu Khí Đình Vũ;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Dịch vụ vận tải;Vận tải hàng khô;482
+537;PSN;PTSC Thanh Hóa;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Dịch vụ cảng biển, cảng sông;436
+538;VNC;VINACONTROL;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Tư vấn & Hỗ trợ KD;Tư vấn & Hỗ trợ KD;427
+539;MCP;In và Bao bì Mỹ Châu;HOSE;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Hàng công nghiệp;Containers & Đóng gói;Bao bì, đóng gói kim loại;421
+540;TYA;Dây và Cáp điện Taya;HOSE;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Điện tử & Thiết bị điện;Hàng điện & điện tử;Hàng điện & điện tử;410
+541;ILS;TM và Dịch vụ Quốc tế;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Hàng công nghiệp;Containers & Đóng gói;Thùng chứa và bao bì khác;399
+542;SZE;Môi trường Sonadezi;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Chất thải & Môi trường;Chất thải & Môi trường;369
+543;PNP;Tân Cảng - Phú Hữu;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Vận tải Thủy;Vận tải nội địa;365
+544;NAG;Tập đoàn Nagakawa;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Điện tử & Thiết bị điện;Hàng điện & điện tử;Hàng điện & điện tử;364
+545;CCR;Cảng Cam Ranh;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Dịch vụ kho bãi;362
+546;HEC;Tư vấn XD Thủy Lợi II (HEC II);UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Tư vấn & Hỗ trợ KD;Tư vấn & Hỗ trợ KD;348
+547;VNF;VINAFREIGHT;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Dịch vụ vận tải;Vận tải hàng khô;342
+548;MAC;Cung ứng & DVKT Hàng Hải;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Công nghiệp nặng;Xe tải & Đóng tàu;Xe tải & Đóng tàu;335
+549;VSA;Đại lý Hàng hải VN;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Dịch vụ vận tải;Vận tải hàng khô;334
+550;AME;Cơ điện Alphanam;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Điện tử & Thiết bị điện;Thiết bị điện;Thiết bị điện;333
+551;FT1;Phụ tùng máy số 1;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Công nghiệp nặng;Máy công nghiệp;Máy công nghiệp;319
+552;ABR;Đầu tư Nhãn Hiệu Việt;HOSE;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Tư vấn & Hỗ trợ KD;Tư vấn & Hỗ trợ KD;318
+553;TSB;Ắc quy Tia Sáng;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Điện tử & Thiết bị điện;Hàng điện & điện tử;Hàng điện & điện tử;306
+554;MHC;CTCP MHC;HOSE;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Dịch vụ vận tải;Vận tải hàng khô;300
+555;CCT;Cảng Cần Thơ;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Dịch vụ cảng biển, cảng sông;299
+556;CTB;Bơm Hải Dương;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Công nghiệp nặng;Máy công nghiệp;Máy công nghiệp;298
+557;TCO;TCO Holdings;HOSE;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Dịch vụ vận tải;Vận tải hàng khô;298
+558;SRF;SEAREFICO;HOSE;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Công nghiệp nặng;Máy công nghiệp;Máy công nghiệp;291
+559;TV4;Tư vấn XD Điện 4;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Tư vấn & Hỗ trợ KD;Tư vấn & Hỗ trợ KD;279
+560;QSP;Tân cảng Quy Nhơn;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Dịch vụ kho bãi;275
+561;CMP;Cảng Chân Mây;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Dịch vụ cảng biển, cảng sông;262
+562;HSA;HESTIA;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Tư vấn & Hỗ trợ KD;Tư vấn & Hỗ trợ KD;260
+563;SGS;Vận tải biển Sài Gòn;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Vận tải Thủy;Vận tải nội địa;260
+564;VHG;Công ty Cổ phần Đầu tư và Phát triển Việt Trung Nam;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Hàng công nghiệp;Công nghiệp phức hợp;Công nghiệp phức hợp;257
+565;PJT;Vận tải thủy PETROLIMEX;HOSE;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Vận tải Thủy;Vận tải nội địa;246
+566;NO1;Tâp đoàn 911;HOSE;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Công nghiệp nặng;Máy công nghiệp;Máy công nghiệp;236
+567;L10;LILAMA 10;HOSE;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Công nghiệp nặng;Máy công nghiệp;Máy công nghiệp;235
+568;VGP;Cảng Rau Quả;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Dịch vụ kho bãi;232
+569;PMS;Cơ khí xăng dầu;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Công nghiệp nặng;Máy công nghiệp;Máy công nghiệp;230
+570;VNL;Vinalink Logistics;HOSE;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Dịch vụ vận tải;Vận tải hàng khô;222
+571;NAS;DV Hàng không SB Nội Bài;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Dịch vụ Sân bay;216
+572;VMS;Phát triển Hàng Hải;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Dịch vụ kho bãi;214
+573;PTT;Vận tải Dầu khí Đông Dương;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Dịch vụ vận tải;Vận tải hàng khô;209
+574;SVG;Hơi kỹ nghệ Que hàn;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Hàng công nghiệp;Công nghiệp phức hợp;Công nghiệp phức hợp;208
+575;TRS;Vận tải và Dịch vụ Hàng Hải;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Vận tải Thủy;Vận tải quốc tế;208
+576;CJC;Cơ điện Miền Trung;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Điện tử & Thiết bị điện;Thiết bị điện;Thiết bị điện;206
+577;NAP;Cảng Nghệ Tĩnh;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Dịch vụ kho bãi;196
+578;HLS;Sứ Hoàng Liên Sơn;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Điện tử & Thiết bị điện;Hàng điện & điện tử;Hàng điện & điện tử;195
+579;VST;Vận tải và Thuê Tàu biển Việt Nam;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Vận tải Thủy;Vận tải quốc tế;191
+580;QHD;Que hàn Việt Đức;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Hàng công nghiệp;Công nghiệp phức hợp;Công nghiệp phức hợp;189
+581;TNP;Cảng Thị Nại;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Dịch vụ kho bãi;188
+582;CIA;DV Sân Bay Cam Ranh;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Dịch vụ Sân bay;177
+583;PPS;DVKT Điện lực Dầu khí;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Tư vấn & Hỗ trợ KD;Tư vấn & Hỗ trợ KD;176
+584;GIC;ĐT Dịch vụ và PT Xanh;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Dịch vụ kho bãi;175
+585;VFR;Vận tải Vietfracht;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Vận tải Thủy;Vận tải quốc tế;171
+586;VTX;Vận tải Đa phương thức;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Dịch vụ vận tải;Vận tải hàng khô;168
+587;TOT;Vận tải Transimex;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Dịch vụ vận tải;Vận tải hàng khô;166
+588;SDG;Sadico Cần Thơ;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Hàng công nghiệp;Containers & Đóng gói;Bao bì, đóng gói từ giấy;162
+589;HMH;Tập đoàn Hải Minh;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Dịch vụ vận tải;Vận tải hàng khô;162
+590;HLO;Công Nghệ Ha Lô;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Điện tử & Thiết bị điện;Hàng điện & điện tử;Hàng điện & điện tử;160
+591;SDV;Dịch vụ Sonadezi;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Chất thải & Môi trường;Chất thải & Môi trường;158
+592;VBC;Nhựa - Bao bì Vinh;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Hàng công nghiệp;Containers & Đóng gói;Bao bì, đóng gói bằng nhựa;152
+593;CPI;Đầu tư Cảng Cái Lân;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Dịch vụ cảng biển, cảng sông;150
+594;MTS;Vật tư - TKV;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Nhà cung cấp thiết bị;Nhà cung cấp thiết bị;147
+595;TJC;Dịch vụ Vận tải và Thương mại;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Dịch vụ vận tải;Vận tải hàng khô;146
+596;NEM;Thiết bị Điện Miền Bắc;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Điện tử & Thiết bị điện;Thiết bị điện;Thiết bị điện;146
+597;MQN;Môi trường đô thị Quảng Ngãi;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Chất thải & Môi trường;Chất thải & Môi trường;140
+598;CKA;Cơ khí An Giang;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Công nghiệp nặng;Máy công nghiệp;Máy công nghiệp;135
+599;SDA;XKLĐ Sông Đà;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Đào tạo & Việc làm;Đào tạo & Việc làm;131
+600;DNL;Logistics Cảng Đà Nẵng;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Dịch vụ kho bãi;128
+601;HTV;Logistics Vicem;HOSE;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Vận tải Thủy;Vận tải nội địa;124
+602;VLG;VIMC Logistics;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Dịch vụ vận tải;Vận tải hàng khô;123
+603;PBT;BSPPT;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Hàng công nghiệp;Containers & Đóng gói;Vật liệu bao bì, đóng gói bán buôn;123
+604;PTX;VT Petrolimex Nghệ Tĩnh;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Dịch vụ vận tải;Vận tải hàng khô;122
+605;PQN;DV Dầu khí Quảng Ngãi PTSC;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Dịch vụ cảng biển, cảng sông;120
+606;HNB;Bến xe Hà Nội;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Bến xe khách;117
+607;KIP;K.I.P Việt Nam;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Điện tử & Thiết bị điện;Thiết bị điện;Thiết bị điện;113
+608;VTB;Viettronics Tân Bình;HOSE;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Điện tử & Thiết bị điện;Hàng điện & điện tử;Hàng điện & điện tử;112
+609;USD;Công trình Đô thị Sóc Trăng;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Chất thải & Môi trường;Chất thải & Môi trường;112
+610;WTC;Vận tải thủy Vinacomin;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Vận tải Thủy;Vận tải nội địa;111
+611;CAR;Tập đoàn Giáo dục Trí Việt;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Đào tạo & Việc làm;Đào tạo & Việc làm;109
+612;CAG;Cảng An Giang;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Dịch vụ cảng biển, cảng sông;106
+613;DHP;Điện cơ Hải Phòng;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Điện tử & Thiết bị điện;Thiết bị điện;Thiết bị điện;103
+614;STS;Dịch vụ vận tải Sài Gòn;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Dịch vụ vận tải;Vận tải hàng khô;102
+615;BRS;Dịch vụ Đô thị Bà Rịa;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Chất thải & Môi trường;Chất thải & Môi trường;100
+616;ITS;Thương mại và DV - Vinacomin;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Công nghiệp nặng;Máy công nghiệp;Máy công nghiệp;98
+617;HEP;Môi trường và Công trình đô thị Huế;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Chất thải & Môi trường;Chất thải & Môi trường;97
+618;EME;Điện Cơ;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Điện tử & Thiết bị điện;Thiết bị điện;Thiết bị điện;96
+619;RAT;VT và TM Đường sắt;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Dịch vụ vận tải;Vận tải hàng khô;95
+620;MTV;Công trình đô thị Vũng Tàu;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Chất thải & Môi trường;Chất thải & Môi trường;91
+621;MTH;Môi trường Đô thị Hà Đông;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Chất thải & Môi trường;Chất thải & Môi trường;83
+622;STP;CN Thương Mại Sông Đà;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Hàng công nghiệp;Containers & Đóng gói;Bao bì, đóng gói từ giấy;80
+623;UDL;Đô thị và Môi trường Đắk Lắk;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Chất thải & Môi trường;Chất thải & Môi trường;79
+624;PSC;Vận tải Petrolimex SG;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Dịch vụ vận tải;Vận tải hàng khô;79
+625;CCP;Cảng Cửa Cấm;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Dịch vụ kho bãi;78
+626;ARM;XNK Hàng không;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Nhà cung cấp thiết bị;Nhà cung cấp thiết bị;78
+627;CTT;Chế tạo máy Vinacomin;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Công nghiệp nặng;Máy công nghiệp;Máy công nghiệp;78
+628;LPT;TM và SX Lập Phương Thành;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Đào tạo & Việc làm;Đào tạo & Việc làm;72
+629;TR1;Vận Tải 1 Traco;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Dịch vụ kho bãi;71
+630;EMG;Thiết bị phụ tùng cơ điện;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Điện tử & Thiết bị điện;Thiết bị điện;Thiết bị điện;71
+631;MLC;Môi trường Đô thị Tỉnh Lào Cai;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Chất thải & Môi trường;Chất thải & Môi trường;69
+632;DDH;Đảm bảo GTĐT Hải Phòng;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Hỗ trợ vận tải;68
+633;CE1;Thiết bị Công nghiệp CIE1;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Công nghiệp nặng;Máy công nghiệp;Máy công nghiệp;68
+634;BBS;Bao bì Xi măng Bút Sơn;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Hàng công nghiệp;Containers & Đóng gói;Bao bì, đóng gói từ giấy;68
+635;VMT;Giao nhận Vận tải Miền Trung;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Dịch vụ vận tải;Vận tải hàng khô;67
+636;DOP;Vận tải XD Đồng Tháp;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Dịch vụ vận tải;Vận tải hàng khô;66
+637;QNU;Môi trường Đô thị Quảng Nam;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Chất thải & Môi trường;Chất thải & Môi trường;65
+638;HPB;Bao bì PP;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Hàng công nghiệp;Containers & Đóng gói;Bao bì, đóng gói bằng nhựa;64
+639;VSM;Container Miền Trung;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Hỗ trợ vận tải;63
+640;VTH;Dây cáp điện Việt Thái;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Điện tử & Thiết bị điện;Hàng điện & điện tử;Hàng điện & điện tử;62
+641;PBP;Bao bì Dầu khí VN;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Hàng công nghiệp;Containers & Đóng gói;Bao bì, đóng gói bằng nhựa;62
+642;MTB;Công trình đô thị tỉnh Thái Bình;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Chất thải & Môi trường;Chất thải & Môi trường;62
+643;DS3;Quản lý Đường sông số 3;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Dịch vụ cảng biển, cảng sông;60
+644;VSE;DV Đường cao tốc Việt Nam;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Hỗ trợ vận tải;58
+645;LMI;Lắp máy IDICO;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Công nghiệp nặng;Máy công nghiệp;Máy công nghiệp;58
+646;SFN;Dệt lưới Sài Gòn;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Nhà cung cấp thiết bị;Nhà cung cấp thiết bị;58
+647;ISG;Vận tải biển và Hợp tác LĐ Quốc Tế;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Vận tải Thủy;Vận tải nội địa;57
+648;SAC;Dịch vụ cảng Sài Gòn;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Dịch vụ kho bãi;57
+649;NUE;Môi trường Đô thị Nha Trang;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Chất thải & Môi trường;Chất thải & Môi trường;56
+650;PMP;Bao bì Đạm Phú Mỹ;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Hàng công nghiệp;Containers & Đóng gói;Bao bì, đóng gói bằng nhựa;55
+651;TSG;TTTH Đường sắt Sài Gòn;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Đường sắt;Đường sắt;55
+652;DNE;Môi trường Đô thị Đà Nẵng;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Chất thải & Môi trường;Chất thải & Môi trường;53
+653;BTU;Công trình Đô thị Bến Tre;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Chất thải & Môi trường;Chất thải & Môi trường;52
+654;VPA;Vận tải Hóa dầu VP;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Vận tải Thủy;Vận tải nội địa;51
+655;SDK;Cơ khí Luyện Kim;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Công nghiệp nặng;Máy công nghiệp;Máy công nghiệp;51
+656;VCM;BV Life;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Đào tạo & Việc làm;Đào tạo & Việc làm;51
+657;SSG;Vận tải Biển Hải Âu;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Vận tải Thủy;Vận tải quốc tế;50
+658;L63;Lilama 69-3;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Công nghiệp nặng;Máy công nghiệp;Máy công nghiệp;50
+659;TGP;Cáp Trường Phú;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Điện tử & Thiết bị điện;Hàng điện & điện tử;Hàng điện & điện tử;49
+660;SHC;Hàng hải Sài Gòn;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Vận tải Thủy;Vận tải nội địa;47
+661;TIE;Điện tử TIE;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Điện tử & Thiết bị điện;Hàng điện & điện tử;Hàng điện & điện tử;46
+662;TUG;Lai dắt và VT cảng Hải Phòng;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Dịch vụ kho bãi;46
+663;MBN;Môi trường và Công trình ĐT Bắc Ninh;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Chất thải & Môi trường;Chất thải & Môi trường;45
+664;DUS;Dịch vụ Đô thị Đà Lạt;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Chất thải & Môi trường;Chất thải & Môi trường;45
+665;PTS;Vận tải Petrolimex HP;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Dịch vụ vận tải;Vận tải hàng khô;43
+666;VQC;Giám định Vinaconmin;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Tư vấn & Hỗ trợ KD;Tư vấn & Hỗ trợ KD;43
+667;BXH;Bao bì Xi măng HP;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Hàng công nghiệp;Containers & Đóng gói;Bao bì, đóng gói từ giấy;43
+668;MPY;Môi trường đô thị Phú Yên;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Chất thải & Môi trường;Chất thải & Môi trường;42
+669;UCT;Đô thị Cần Thơ;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Chất thải & Môi trường;Chất thải & Môi trường;39
+670;ILC;Hợp tác lao động với nước ngoài;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Đào tạo & Việc làm;Đào tạo & Việc làm;38
+671;BPC;Bao bì Bỉm Sơn;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Hàng công nghiệp;Containers & Đóng gói;Bao bì, đóng gói từ giấy;36
+672;NAU;Công trình Đô thị Nghệ An;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Chất thải & Môi trường;Chất thải & Môi trường;33
+673;HBD;Bao bì PP Bình Dương;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Hàng công nghiệp;Containers & Đóng gói;Bao bì, đóng gói bằng nhựa;33
+674;FSO;Đóng tàu thủy sản VN;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Công nghiệp nặng;Xe tải & Đóng tàu;Xe tải & Đóng tàu;33
+675;MTL;Môi trường Đô thị Từ Liêm;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Chất thải & Môi trường;Chất thải & Môi trường;33
+676;MQB;Môi trường và PT đô thị Quảng Bình;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Chất thải & Môi trường;Chất thải & Môi trường;32
+677;PEC;Cơ khí Điện lực;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Công nghiệp nặng;Máy công nghiệp;Máy công nghiệp;31
+678;THU;Môi trường và CTĐT Thanh Hóa;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Chất thải & Môi trường;Chất thải & Môi trường;31
+679;PPE;PVPower Engineering;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Tư vấn & Hỗ trợ KD;Tư vấn & Hỗ trợ KD;29
+680;BBH;Bao bì Hoàng Thạch;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Hàng công nghiệp;Containers & Đóng gói;Bao bì, đóng gói từ giấy;29
+681;VBH;Điện tử Bình Hòa;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Điện tử & Thiết bị điện;Hàng điện & điện tử;Hàng điện & điện tử;28
+682;BMD;Môi trường và DV Đô thị Bình Thuận;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Chất thải & Môi trường;Chất thải & Môi trường;26
+683;TVM;Tư vấn đầu tư Mỏ;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Tư vấn & Hỗ trợ KD;Tư vấn & Hỗ trợ KD;26
+684;L62;LILAMA 69.2;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Công nghiệp nặng;Máy công nghiệp;Máy công nghiệp;26
+685;PLO;Kho vận Petec;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Dịch vụ kho bãi;25
+686;DDM;Hàng hải Đông Đô;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Vận tải Thủy;Vận tải nội địa;25
+687;MND;Môi trường Nam Định;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Chất thải & Môi trường;Chất thải & Môi trường;24
+688;PRC;Vận tải Portserco;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Dịch vụ vận tải;Vận tải hàng khô;24
+689;UEM;Cơ điện Uông Bí - Vinacomin;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Công nghiệp nặng;Máy công nghiệp;Máy công nghiệp;23
+690;SCO;Công nghiệp Thủy Sản;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Công nghiệp nặng;Máy công nghiệp;Máy công nghiệp;23
+691;DPC;Nhựa Đà Nẵng;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Hàng công nghiệp;Containers & Đóng gói;Bao bì, đóng gói bằng nhựa;22
+692;VSG;Container Phía Nam;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Dịch vụ kho bãi;22
+693;APL;Cơ khí và Thiết bị áp lực - VVMI;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Công nghiệp nặng;Máy công nghiệp;Máy công nghiệp;20
+694;HCT;TM - DV - Vận tải Xi măng Hải Phòng ;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Dịch vụ vận tải;Vận tải hàng khô;19
+695;CDH;CTCC và DV Du lịch Hải Phòng;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Chất thải & Môi trường;Chất thải & Môi trường;19
+696;DTB;Công trình Đô thị Bảo Lộc;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Chất thải & Môi trường;Chất thải & Môi trường;19
+697;CFM;Đầu tư CFM;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Đào tạo & Việc làm;Đào tạo & Việc làm;18
+698;SDC;Tư vấn Sông Đà;HNX;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Tư vấn & Hỗ trợ KD;Tư vấn & Hỗ trợ KD;18
+699;BAL;Bao bì Balpac;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Hàng công nghiệp;Containers & Đóng gói;Bao bì, đóng gói thủy tinh;17
+700;DZM;Cơ điện Dzĩ An;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Công nghiệp nặng;Máy công nghiệp;Máy công nghiệp;16
+701;NOS;Vận tải Biển và Thương mại Phương Đông;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Vận tải Thủy;Vận tải quốc tế;15
+702;TKA;Bao bì Tân Khánh An;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Hàng công nghiệp;Containers & Đóng gói;Bao bì, đóng gói bằng nhựa;15
+703;FBC;Cơ khí Phổ Yên;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Công nghiệp nặng;Máy công nghiệp;Máy công nghiệp;14
+704;VES;MÊ CA VNECO;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Công nghiệp nặng;Máy công nghiệp;Máy công nghiệp;13
+705;CMK;Cơ khí Mạo Khê - Vinacomin;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Công nghiệp nặng;Máy công nghiệp;Máy công nghiệp;13
+706;LM7;LILAMA 7;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Công nghiệp nặng;Máy công nghiệp;Máy công nghiệp;13
+707;SAL;Trục vớt Cứu hộ Việt Nam;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Công nghiệp nặng;Xe tải & Đóng tàu;Xe tải & Đóng tàu;12
+708;TB8;SX và KD Vật tư Thiết bị - VVMI;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Hàng công nghiệp;Containers & Đóng gói;Bao bì, đóng gói từ giấy;12
+709;MDA;Môi trường Đô thị Đông Anh;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Chất thải & Môi trường;Chất thải & Môi trường;11
+710;L61;LILAMA 69-1;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Công nghiệp nặng;Máy công nghiệp;Máy công nghiệp;10
+711;L35;Cơ khí Lilama;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Công nghiệp nặng;Máy công nghiệp;Máy công nghiệp;9
+712;VCT;Tư vấn XD Vinaconex;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Tư vấn & Hỗ trợ KD;Tư vấn & Hỗ trợ KD;9
+713;L43;LILAMA 45.3;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Công nghiệp nặng;Máy công nghiệp;Máy công nghiệp;9
+714;NHP;Sản xuất XNK NHP;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Hàng công nghiệp;Containers & Đóng gói;Bao bì, đóng gói bằng nhựa;8
+715;BTG;Bao bì Tiền Giang;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Hàng công nghiệp;Containers & Đóng gói;Bao bì, đóng gói bằng nhựa;8
+716;HDO;Hưng Đạo Container;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Hàng công nghiệp;Containers & Đóng gói;Thùng chứa và bao bì khác;7
+717;LO5;LILAMA 5;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Công nghiệp nặng;Máy công nghiệp;Máy công nghiệp;6
+718;LQN;Licogi Quảng Ngãi;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Công nghiệp nặng;Máy công nghiệp;Máy công nghiệp;4
+719;VLP;Công trình Công cộng Vĩnh Long;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Tư vấn & Hỗ trợ Kinh doanh;Chất thải & Môi trường;Chất thải & Môi trường;4
+720;L44;LILAMA 45.4;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Công nghiệp nặng;Máy công nghiệp;Máy công nghiệp;2
+721;HHN;Vận tải và DV Hàng hóa Hà Nội;UPCoM;Công nghiệp;Hàng & Dịch vụ Công nghiệp;Vận tải;Kho bãi, hậu cần và bảo dưỡng;Dịch vụ kho bãi;1
+722;PNJ;Vàng Phú Nhuận;HOSE;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng cá nhân;Hàng cá nhân;31.797
+723;VGT;VINATEX;UPCoM;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng May mặc;Hàng May mặc;6.746
+724;TCM;Dệt may Thành Công;HOSE;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng May mặc;Hàng May mặc;4.594
+725;TLG;Tập đoàn Thiên Long;HOSE;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng gia dụng;Đồ gia dụng một lần;Đồ gia dụng một lần;4.134
+726;MSH;May Sông Hồng;HOSE;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng May mặc;Hàng May mặc;3.387
+727;RAL;Bóng đèn Phích nước Rạng Đông;HOSE;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng gia dụng;Thiết bị gia dụng;Thiết bị gia dụng;3.085
+728;TNG;Đầu tư và Thương mại TNG;HNX;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng May mặc;Hàng May mặc;2.967
+729;STK;Sợi Thế Kỷ;HOSE;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng May mặc;Hàng May mặc;2.508
+730;PPH;Phong Phú Corp.;UPCoM;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng May mặc;Hàng May mặc;2.194
+731;LIX;Bột Giặt Lix;HOSE;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng cá nhân;Hàng cá nhân;2.142
+732;GIL;XNK Bình Thạnh;HOSE;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng May mặc;Hàng May mặc;1.973
+733;NET;Bột giặt Net;HNX;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng cá nhân;Hàng cá nhân;1.904
+734;VGG;May Việt Tiến;UPCoM;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng May mặc;Hàng May mặc;1.857
+735;HTG;Dệt may Hòa Thọ;HOSE;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng May mặc;Hàng May mặc;1.674
+736;CLC;Thuốc lá Cát Lợi;HOSE;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Thuốc lá;Thuốc lá;Thuốc lá;1.258
+737;SGI;ĐT PT Sài Gòn 3 Group;UPCoM;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng May mặc;Hàng May mặc;1.087
+738;BDG;May mặc Bình Dương;UPCoM;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng May mặc;Hàng May mặc;880
+739;M10;May10;UPCoM;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng May mặc;Hàng May mặc;733
+740;ADS;Dệt sợi DAMSAN;HOSE;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng May mặc;Hàng May mặc;680
+741;HDM;Dệt May Huế;UPCoM;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng May mặc;Hàng May mặc;664
+742;HUG;May Hưng Yên;UPCoM;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng May mặc;Hàng May mặc;644
+743;MNB;May Nhà Bè;UPCoM;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng May mặc;Hàng May mặc;612
+744;GDT;Gỗ Đức Thành;HOSE;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng gia dụng;Thiết bị gia dụng;Thiết bị gia dụng;596
+745;HNI;May Hữu Nghị;UPCoM;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng May mặc;Hàng May mặc;594
+746;EVE;Everpia;HOSE;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng May mặc;Hàng May mặc;462
+747;XHC;Nội thất Xuân Hòa;UPCoM;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng gia dụng;Thiết bị gia dụng;Thiết bị gia dụng;422
+748;DQC;Tập đoàn Điện Quang;HOSE;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng gia dụng;Thiết bị gia dụng;Thiết bị gia dụng;369
+749;TVT;May Việt Thắng;HOSE;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng May mặc;Hàng May mặc;336
+750;SPB;Sợi Phú Bài;UPCoM;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng May mặc;Hàng May mặc;319
+751;DM7;Dệt may 7;UPCoM;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng May mặc;Hàng May mặc;308
+752;GMC;Garmex Sài Gòn;HOSE;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng May mặc;Hàng May mặc;270
+753;GLT;KT Điện Toàn Cầu;HNX;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng hóa giải trí;Điện tử tiêu dùng;Điện tử tiêu dùng;266
+754;NHT;Sản xuất và Thương mại Nam Hoa;HOSE;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng hóa giải trí;Đồ chơi;Đồ chơi;264
+755;MGG;May Đức Giang;UPCoM;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng May mặc;Hàng May mặc;260
+756;BKG;Đầu tư BKG Việt Nam;HOSE;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng gia dụng;Thiết bị gia dụng;Thiết bị gia dụng;243
+757;AAT;Tập đoàn Tiên Sơn Thanh Hóa;HOSE;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng May mặc;Hàng May mặc;237
+758;A32;Công ty 32;UPCoM;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Giầy dép;Giầy dép;228
+759;BEL;Điện tử Biên Hoà;UPCoM;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng hóa giải trí;Điện tử tiêu dùng;Điện tử tiêu dùng;198
+760;NTT;Dệt - May Nha Trang;UPCoM;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng May mặc;Hàng May mặc;188
+761;KMR;MIRAE;HOSE;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng May mặc;Hàng May mặc;184
+762;TET;May mặc Miền Bắc;HNX;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng May mặc;Hàng May mặc;179
+763;X20;May mặc X20;HNX;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng May mặc;Hàng May mặc;174
+764;TDT;Đầu tư và Phát triển TDT;HNX;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng May mặc;Hàng May mặc;160
+765;HCB;Dệt may 29/3;UPCoM;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng May mặc;Hàng May mặc;146
+766;BBT;Bông Bạch Tuyết;UPCoM;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng cá nhân;Hàng cá nhân;133
+767;HSM;HANOSIMEX;UPCoM;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng May mặc;Hàng May mặc;129
+768;ASA;Hàng tiêu dùng ASA;UPCoM;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng cá nhân;Hàng cá nhân;126
+769;VDG;Vạn Đạt Group;UPCoM;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng May mặc;Hàng May mặc;125
+770;NST;Thuốc lá Ngân Sơn;HNX;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Thuốc lá;Thuốc lá;Thuốc lá;123
+771;X26;Công ty 26;UPCoM;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng May mặc;Hàng May mặc;112
+772;SHE;PT Năng Lượng Sơn Hà;HNX;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng gia dụng;Đồ gia dụng lâu bền;Đồ gia dụng lâu bền;108
+773;BMG;May Bình Minh;UPCoM;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng May mặc;Hàng May mặc;98
+774;LGM;Giày da và may mặc XK (Legamex);UPCoM;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng May mặc;Hàng May mặc;95
+775;GTD;Giầy Thượng Đình;UPCoM;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Giầy dép;Giầy dép;94
+776;NJC;May Nam Định;UPCoM;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng May mặc;Hàng May mặc;90
+777;SVD;Đầu tư & Thương mại Vũ Đăng;HOSE;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng May mặc;Hàng May mặc;89
+778;THM;Tứ Hải Hà Nam;UPCoM;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng May mặc;Hàng May mặc;89
+779;NDT;Dệt may Nam Định;UPCoM;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng May mặc;Hàng May mặc;88
+780;XPH;Xà phòng Hà Nội;UPCoM;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng cá nhân;Hàng cá nhân;86
+781;DCG;May Đáp Cầu;UPCoM;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng May mặc;Hàng May mặc;82
+782;HJC;Công ty Cổ phần Hoà Việt;UPCoM;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Thuốc lá;Thuốc lá;Thuốc lá;77
+783;HLT;Dệt may Hoàng Thị Loan;UPCoM;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng May mặc;Hàng May mặc;68
+784;SSF;Giáo dục G Sài Gòn;UPCoM;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Giầy dép;Giầy dép;62
+785;BVN;Bông Việt Nam;UPCoM;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng cá nhân;Hàng cá nhân;61
+786;TTG;May Thanh Trì;UPCoM;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng May mặc;Hàng May mặc;59
+787;VDN;Vinatex Đà Nẵng;UPCoM;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng May mặc;Hàng May mặc;58
+788;KSD;Đầu tư DNA;HNX;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng gia dụng;Đồ gia dụng lâu bền;Đồ gia dụng lâu bền;56
+789;VTJ;TM và Đầu tư VINATABA;HNX;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Thuốc lá;Thuốc lá;Thuốc lá;55
+790;AG1;28.1 JSC;UPCoM;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng May mặc;Hàng May mặc;46
+791;DCS;Đại Châu;UPCoM;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng gia dụng;Thiết bị gia dụng;Thiết bị gia dụng;40
+792;FTM;Phát triển Đức Quân;UPCoM;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng May mặc;Hàng May mặc;35
+793;CET;HTC Holding ;HNX;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng cá nhân;Hàng cá nhân;29
+794;VTI;Sản xuất - XNK Dệt may;UPCoM;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng May mặc;Hàng May mặc;17
+795;TLI;May Quốc tế Thắng Lợi;UPCoM;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng May mặc;Hàng May mặc;12
+796;MPT;Tập đoàn MPT;UPCoM;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng May mặc;Hàng May mặc;9
+797;G20;Đầu tư Dệt may Vĩnh Phúc;UPCoM;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng May mặc;Hàng May mặc;7
+798;PTG;May Phan Thiết;UPCoM;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng cá nhân;Hàng May mặc;Hàng May mặc;3
+799;FBA;Tập đoàn Quốc tế FBA;UPCoM;Hàng Tiêu dùng;Hàng cá nhân & Gia dụng;Hàng gia dụng;Thiết bị gia dụng;Thiết bị gia dụng;3
+800;GVR;Tập đoàn CN Cao su VN;HOSE;Nguyên vật liệu;Hóa chất;Hóa chất;Nhựa, cao su & sợi;Cao su;129.000
+801;DGC;Hóa chất Đức Giang;HOSE;Nguyên vật liệu;Hóa chất;Hóa chất;Sản phẩm hóa dầu, Nông dược & Hóa chất khác;Hóa chất hàng hóa khác;41.434
+802;DCM;Đạm Cà Mau;HOSE;Nguyên vật liệu;Hóa chất;Hóa chất;Sản phẩm hóa dầu, Nông dược & Hóa chất khác;Phân bón;19.376
+803;DPM;Tổng Công ty Phân bón và Hóa chất Dầu khí;HOSE;Nguyên vật liệu;Hóa chất;Hóa chất;Sản phẩm hóa dầu, Nông dược & Hóa chất khác;Phân bón;13.325
+804;PHR;Cao su Phước Hòa;HOSE;Nguyên vật liệu;Hóa chất;Hóa chất;Nhựa, cao su & sợi;Cao su;7.493
+805;CSV;Hóa chất Cơ bản miền Nam;HOSE;Nguyên vật liệu;Hóa chất;Hóa chất;Sản phẩm hóa dầu, Nông dược & Hóa chất khác;Hóa chất hàng hóa khác;3.867
+806;AAA;An Phát Bioplastics;HOSE;Nguyên vật liệu;Hóa chất;Hóa chất;Nhựa, cao su & sợi;Nhựa;3.406
+807;VFG;Khử trùng Việt Nam;HOSE;Nguyên vật liệu;Hóa chất;Hóa chất;Sản phẩm hóa dầu, Nông dược & Hóa chất khác;Thuốc trừ sâu;3.350
+808;DPR;Cao su Đồng Phú;HOSE;Nguyên vật liệu;Hóa chất;Hóa chất;Nhựa, cao su & sợi;Cao su;3.349
+809;RTB;Cao su Tân Biên;UPCoM;Nguyên vật liệu;Hóa chất;Hóa chất;Nhựa, cao su & sợi;Cao su;2.465
+810;DDV;DAP - Vinachem;UPCoM;Nguyên vật liệu;Hóa chất;Hóa chất;Sản phẩm hóa dầu, Nông dược & Hóa chất khác;Phân bón;2.411
+811;LAS;Hóa chất Lâm Thao;HNX;Nguyên vật liệu;Hóa chất;Hóa chất;Sản phẩm hóa dầu, Nông dược & Hóa chất khác;Phân bón;2.370
+812;PAT;Phốt pho Apatit Việt Nam;UPCoM;Nguyên vật liệu;Hóa chất;Hóa chất;Sản phẩm hóa dầu, Nông dược & Hóa chất khác;Hóa chất hàng hóa khác;2.324
+813;BRR;Cao su Bà Rịa;UPCoM;Nguyên vật liệu;Hóa chất;Hóa chất;Nhựa, cao su & sợi;Cao su;2.293
+814;BFC;Phân bón Bình Điền;HOSE;Nguyên vật liệu;Hóa chất;Hóa chất;Sản phẩm hóa dầu, Nông dược & Hóa chất khác;Phân bón;2.247
+815;DHB;Đạm Hà Bắc;UPCoM;Nguyên vật liệu;Hóa chất;Hóa chất;Sản phẩm hóa dầu, Nông dược & Hóa chất khác;Phân bón;2.232
+816;PLC;Hóa dầu Petrolimex;HNX;Nguyên vật liệu;Hóa chất;Hóa chất;Sản phẩm hóa dầu, Nông dược & Hóa chất khác;Hóa chất hàng hóa khác;1.794
+817;HRC;Cao su Hòa Bình;HOSE;Nguyên vật liệu;Hóa chất;Hóa chất;Nhựa, cao su & sợi;Cao su;1.489
+818;TRC;Cao su Tây Ninh;HOSE;Nguyên vật liệu;Hóa chất;Hóa chất;Nhựa, cao su & sợi;Cao su;1.249
+819;DRG;Cao su Đắk Lắk;UPCoM;Nguyên vật liệu;Hóa chất;Hóa chất;Nhựa, cao su & sợi;Cao su;1.246
+820;NHH;Nhựa Hà Nội;HOSE;Nguyên vật liệu;Hóa chất;Hóa chất;Nhựa, cao su & sợi;Nhựa;1.053
+821;HVT;Hóa chất Việt trì;HNX;Nguyên vật liệu;Hóa chất;Hóa chất;Sản phẩm hóa dầu, Nông dược & Hóa chất khác;Hóa chất hàng hóa khác;1.012
+822;DRI;Đầu tư Cao su Đắk Lắk;UPCoM;Nguyên vật liệu;Hóa chất;Hóa chất;Nhựa, cao su & sợi;Cao su;864
+823;SBR;Cao su Sông Bé;UPCoM;Nguyên vật liệu;Hóa chất;Hóa chất;Nhựa, cao su & sợi;Cao su;798
+824;VTZ;Nhựa Việt Thành;HNX;Nguyên vật liệu;Hóa chất;Hóa chất;Nhựa, cao su & sợi;Nhựa;780
+825;TNC;Cao su Thống Nhất;HOSE;Nguyên vật liệu;Hóa chất;Hóa chất;Nhựa, cao su & sợi;Cao su;661
+826;VTQ;Việt Trung Quảng Bình;UPCoM;Nguyên vật liệu;Hóa chất;Hóa chất;Nhựa, cao su & sợi;Cao su;654
+827;VAF;Phân lân Văn Điển;HOSE;Nguyên vật liệu;Hóa chất;Hóa chất;Sản phẩm hóa dầu, Nông dược & Hóa chất khác;Phân bón;565
+828;TSC;Kỹ thuật NN Cần Thơ;HOSE;Nguyên vật liệu;Hóa chất;Hóa chất;Sản phẩm hóa dầu, Nông dược & Hóa chất khác;Thuốc trừ sâu;530
+829;SFG;Phân bón Miền Nam;HOSE;Nguyên vật liệu;Hóa chất;Hóa chất;Sản phẩm hóa dầu, Nông dược & Hóa chất khác;Phân bón;513
+830;HII;An Tiến Industries;HOSE;Nguyên vật liệu;Hóa chất;Hóa chất;Nhựa, cao su & sợi;Nhựa;339
+831;PLP;SX và CN Nhựa Pha Lê;HOSE;Nguyên vật liệu;Hóa chất;Hóa chất;Nhựa, cao su & sợi;Nhựa;327
+832;HCD;SX và Thương mại HCD;HOSE;Nguyên vật liệu;Hóa chất;Hóa chất;Nhựa, cao su & sợi;Nhựa;321
+833;PCH;Nhựa Picomat;HNX;Nguyên vật liệu;Hóa chất;Hóa chất;Nhựa, cao su & sợi;Nhựa;302
+834;VET;Thuốc thú y trung ương Navetco;UPCoM;Nguyên vật liệu;Hóa chất;Hóa chất;Sản phẩm hóa dầu, Nông dược & Hóa chất khác;Hóa chất hàng hóa khác;301
+835;ABS;DV Nông nghiệp Bình Thuận;HOSE;Nguyên vật liệu;Hóa chất;Hóa chất;Sản phẩm hóa dầu, Nông dược & Hóa chất khác;Phân bón;288
+836;AVG;Phân Bón Quốc Tế Âu Việt;UPCoM;Nguyên vật liệu;Hóa chất;Hóa chất;Sản phẩm hóa dầu, Nông dược & Hóa chất khác;Phân bón;280
+837;NFC;Phân lân Ninh Bình;HNX;Nguyên vật liệu;Hóa chất;Hóa chất;Sản phẩm hóa dầu, Nông dược & Hóa chất khác;Phân bón;277
+838;HAI;Nông Dược HAI;UPCoM;Nguyên vật liệu;Hóa chất;Hóa chất;Sản phẩm hóa dầu, Nông dược & Hóa chất khác;Thuốc trừ sâu;274
+839;VPS;Thuốc sát trùng Việt Nam;HOSE;Nguyên vật liệu;Hóa chất;Hóa chất;Sản phẩm hóa dầu, Nông dược & Hóa chất khác;Thuốc trừ sâu;220
+840;VNP;Nhựa Việt Nam;UPCoM;Nguyên vật liệu;Hóa chất;Hóa chất;Nhựa, cao su & sợi;Nhựa;212
+841;PCE;Phân bón và Hóa chất DK Miền Trung;HNX;Nguyên vật liệu;Hóa chất;Hóa chất;Sản phẩm hóa dầu, Nông dược & Hóa chất khác;Phân bón;180
+842;BRC;Cao su Bến Thành;HOSE;Nguyên vật liệu;Hóa chất;Hóa chất;Nhựa, cao su & sợi;Cao su;165
+843;DTT;Kỹ nghệ Đô Thành;HOSE;Nguyên vật liệu;Hóa chất;Hóa chất;Nhựa, cao su & sợi;Nhựa;154
+844;IRC;Cao su Công nghiệp;UPCoM;Nguyên vật liệu;Hóa chất;Hóa chất;Nhựa, cao su & sợi;Cao su;152
+845;SEP;Thương mại Quảng Trị;UPCoM;Nguyên vật liệu;Hóa chất;Hóa chất;Nhựa, cao su & sợi;Cao su;144
+846;SJF;Đầu tư Sao Thái Dương;HOSE;Nguyên vật liệu;Hóa chất;Hóa chất;Sản phẩm hóa dầu, Nông dược & Hóa chất khác;Phân bón;142
+847;TPC;Nhựa Tân Đại Hưng;HOSE;Nguyên vật liệu;Hóa chất;Hóa chất;Nhựa, cao su & sợi;Nhựa;138
+848;PSW;Phân bón hóa chất dầu khí Tây Nam Bộ;HNX;Nguyên vật liệu;Hóa chất;Hóa chất;Sản phẩm hóa dầu, Nông dược & Hóa chất khác;Phân bón;133
+849;HPH;Hóa Chất Hưng Phát Hà Bắc;UPCoM;Nguyên vật liệu;Hóa chất;Hóa chất;Sản phẩm hóa dầu, Nông dược & Hóa chất khác;Phân bón;131
+850;HNP;Hanel Xốp Nhựa;UPCoM;Nguyên vật liệu;Hóa chất;Hóa chất;Nhựa, cao su & sợi;Nhựa;125
+851;PSE;Phân bón và hóa chất dầu khí Đông Nam Bộ;HNX;Nguyên vật liệu;Hóa chất;Hóa chất;Sản phẩm hóa dầu, Nông dược & Hóa chất khác;Phân bón;119
+852;SIV;SIVICO;UPCoM;Nguyên vật liệu;Hóa chất;Hóa chất;Sản phẩm hóa dầu, Nông dược & Hóa chất khác;Hóa chất hàng hóa khác;115
+853;PMB;Phân bón và Hóa chất Dầu khí Miền Bắc;HNX;Nguyên vật liệu;Hóa chất;Hóa chất;Sản phẩm hóa dầu, Nông dược & Hóa chất khác;Hóa chất nông nghiệp Bán buôn;115
+854;VXP;Thuốc Thú y Trung ương VETVACO;UPCoM;Nguyên vật liệu;Hóa chất;Hóa chất;Sản phẩm hóa dầu, Nông dược & Hóa chất khác;Hóa chất hàng hóa khác;110
+855;VNY;Thuốc thú y Trung ương I;UPCoM;Nguyên vật liệu;Hóa chất;Hóa chất;Sản phẩm hóa dầu, Nông dược & Hóa chất khác;Hóa chất hàng hóa khác;102
+856;DOC;Vật tư nông nghiệp Đồng Nai;UPCoM;Nguyên vật liệu;Hóa chất;Hóa chất;Sản phẩm hóa dầu, Nông dược & Hóa chất khác;Hóa chất nông nghiệp Bán buôn;100
+857;NSG;Nhựa Sài Gòn;UPCoM;Nguyên vật liệu;Hóa chất;Hóa chất;Nhựa, cao su & sợi;Nhựa;99
+858;RDP;Nhựa Rạng Đông;HOSE;Nguyên vật liệu;Hóa chất;Hóa chất;Nhựa, cao su & sợi;Nhựa;93
+859;SPC;BV Thực vật Sài Gòn;HNX;Nguyên vật liệu;Hóa chất;Hóa chất;Sản phẩm hóa dầu, Nông dược & Hóa chất khác;Thuốc trừ sâu;85
+860;LNC;Lệ Ninh - Quảng Bình;UPCoM;Nguyên vật liệu;Hóa chất;Hóa chất;Nhựa, cao su & sợi;Cao su;82
+861;BT1;Bảo vệ thực vật 1 TW;UPCoM;Nguyên vật liệu;Hóa chất;Hóa chất;Sản phẩm hóa dầu, Nông dược & Hóa chất khác;Thuốc trừ sâu;79
+862;CPC;Thuốc sát trùng Cần Thơ;HNX;Nguyên vật liệu;Hóa chất;Hóa chất;Sản phẩm hóa dầu, Nông dược & Hóa chất khác;Thuốc trừ sâu;73
+863;PGN;Phụ Gia Nhựa;HNX;Nguyên vật liệu;Hóa chất;Hóa chất;Nhựa, cao su & sợi;Nhựa;63
+864;RBC;Công Nghiệp và Xuất nhập khẩu Cao Su;UPCoM;Nguyên vật liệu;Hóa chất;Hóa chất;Nhựa, cao su & sợi;Cao su;61
+865;PVO;Dầu nhờn PV Oil;UPCoM;Nguyên vật liệu;Hóa chất;Hóa chất;Sản phẩm hóa dầu, Nông dược & Hóa chất khác;Hóa chất hàng hóa khác;61
+866;QBS;Xuất nhập khẩu Quảng Bình;UPCoM;Nguyên vật liệu;Hóa chất;Hóa chất;Sản phẩm hóa dầu, Nông dược & Hóa chất khác;Phân bón;55
+867;PCN;Dầu khí DMC-Miền Bắc;UPCoM;Nguyên vật liệu;Hóa chất;Hóa chất;Sản phẩm hóa dầu, Nông dược & Hóa chất khác;Hóa chất hàng hóa khác;53
+868;APP;Phụ gia và SP Dầu mỏ;UPCoM;Nguyên vật liệu;Hóa chất;Hóa chất;Sản phẩm hóa dầu, Nông dược & Hóa chất khác;Hóa chất hàng hóa khác;33
+869;GER;Thể thao Ngôi sao Geru;UPCoM;Nguyên vật liệu;Hóa chất;Hóa chất;Nhựa, cao su & sợi;Cao su;20
+870;HSI;Phân bón Hóa sinh;UPCoM;Nguyên vật liệu;Hóa chất;Hóa chất;Sản phẩm hóa dầu, Nông dược & Hóa chất khác;Phân bón;12
+871;VKP;Nhựa Tân Hóa;UPCoM;Nguyên vật liệu;Hóa chất;Hóa chất;Nhựa, cao su & sợi;Nhựa;4
+872;VCB;Vietcombank;HOSE;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng thương mại truyền thống;513.079
+873;BID;BIDV;HOSE;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng thương mại truyền thống;270.771
+874;CTG;VietinBank;HOSE;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng thương mại truyền thống;185.802
+875;TCB;Techcombank;HOSE;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng thương mại truyền thống;165.558
+876;VPB;VPBank;HOSE;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng thương mại truyền thống;159.472
+877;MBB;MBBank;HOSE;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng thương mại truyền thống;130.801
+878;ACB;ACB;HOSE;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng thương mại truyền thống;111.220
+879;LPB;LPBank;HOSE;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng thương mại truyền thống;82.099
+880;HDB;HDBank;HOSE;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng thương mại truyền thống;78.348
+881;STB;Sacombank;HOSE;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng thương mại truyền thống;63.060
+882;VIB;VIBBank;HOSE;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng thương mại truyền thống;54.369
+883;SSB;SeABank;HOSE;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng thương mại truyền thống;47.203
+884;TPB;TPBank;HOSE;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng thương mại truyền thống;45.045
+885;EIB;Eximbank;HOSE;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng thương mại truyền thống;38.838
+886;SHB;SHB;HOSE;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng thương mại truyền thống;38.089
+887;MSB;MSB Bank;HOSE;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng thương mại truyền thống;31.850
+888;OCB;Ngân hàng Phương Đông;HOSE;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng thương mại truyền thống;28.110
+889;NAB;Ngân hàng Nam Á;HOSE;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng thương mại truyền thống;20.632
+890;BAB;Ngân hàng Bắc Á;HNX;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng thương mại truyền thống;10.572
+891;ABB;Ngân hàng An Bình;UPCoM;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng thương mại truyền thống;7.966
+892;PGB;PG Bank;UPCoM;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng thương mại truyền thống;6.981
+893;BVB;Ngân hàng Bản Việt - BVBank;UPCoM;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng thương mại truyền thống;6.323
+894;VBB;VietBank;UPCoM;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng thương mại truyền thống;5.688
+895;VAB;Ngân hàng Việt Á;UPCoM;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng thương mại truyền thống;4.963
+896;NVB;Ngân hàng Quốc Dân;HNX;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng thương mại truyền thống;4.956
+897;KLB;KienlongBank;UPCoM;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng thương mại truyền thống;4.482
+898;SGB;Sài Gòn Công thương;UPCoM;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng;Ngân hàng thương mại truyền thống;4.235
+899;HUT;Tasco;HNX;Hàng Tiêu dùng;Ô tô và phụ tùng;Ô tô và phụ tùng;Sản xuất ô tô;Sản xuất ô tô;14.548
+900;DRC;Cao su Đà Nẵng;HOSE;Hàng Tiêu dùng;Ô tô và phụ tùng;Ô tô và phụ tùng;Lốp xe;Lốp xe;3.338
+901;CTF;City Auto;HOSE;Hàng Tiêu dùng;Ô tô và phụ tùng;Ô tô và phụ tùng;Sản xuất ô tô;Sản xuất ô tô;2.736
+902;HHS;Đầu tư DV Hoàng Huy;HOSE;Hàng Tiêu dùng;Ô tô và phụ tùng;Ô tô và phụ tùng;Sản xuất ô tô;Sản xuất ô tô;2.627
+903;HAX;Ô tô Hàng Xanh;HOSE;Hàng Tiêu dùng;Ô tô và phụ tùng;Ô tô và phụ tùng;Sản xuất ô tô;Sản xuất ô tô;1.800
+904;SVC;SAVICO;HOSE;Hàng Tiêu dùng;Ô tô và phụ tùng;Ô tô và phụ tùng;Sản xuất ô tô;Sản xuất ô tô;1.652
+905;CSM;Cao su Miền Nam;HOSE;Hàng Tiêu dùng;Ô tô và phụ tùng;Ô tô và phụ tùng;Lốp xe;Lốp xe;1.176
+906;GMA;G-Automobile;HNX;Hàng Tiêu dùng;Ô tô và phụ tùng;Ô tô và phụ tùng;Sản xuất ô tô;Sản xuất ô tô;1.072
+907;SRC;Cao su Sao Vàng;HOSE;Hàng Tiêu dùng;Ô tô và phụ tùng;Ô tô và phụ tùng;Lốp xe;Lốp xe;704
+908;VVS;Đầu tư Phát triển Máy Việt Nam;UPCoM;Hàng Tiêu dùng;Ô tô và phụ tùng;Ô tô và phụ tùng;Sản xuất ô tô;Sản xuất ô tô;398
+909;HTL;Ô tô Trường Long;HOSE;Hàng Tiêu dùng;Ô tô và phụ tùng;Ô tô và phụ tùng;Sản xuất ô tô;Sản xuất ô tô;330
+910;TMT;Ô tô TMT;HOSE;Hàng Tiêu dùng;Ô tô và phụ tùng;Ô tô và phụ tùng;Sản xuất ô tô;Sản xuất ô tô;256
+911;GGG;Ôtô Giải Phóng;UPCoM;Hàng Tiêu dùng;Ô tô và phụ tùng;Ô tô và phụ tùng;Sản xuất ô tô;Sản xuất ô tô;115
+912;DAS;Thiết bị Dầu khí Đà Nẵng;UPCoM;Hàng Tiêu dùng;Ô tô và phụ tùng;Ô tô và phụ tùng;Sản xuất ô tô;Sản xuất ô tô;26
+913;CMC;Đầu tư CMC;HNX;Hàng Tiêu dùng;Ô tô và phụ tùng;Ô tô và phụ tùng;Sản xuất ô tô;Sản xuất ô tô;26
+914;VKC;VKC Holdings;UPCoM;Hàng Tiêu dùng;Ô tô và phụ tùng;Ô tô và phụ tùng;Lốp xe;Lốp xe;19
+915;FTI;Công nghiệp - Thương mại Hữu Nghị;UPCoM;Hàng Tiêu dùng;Ô tô và phụ tùng;Ô tô và phụ tùng;Phụ tùng ô tô;Phụ tùng ô tô;15
+916;VMA;CN ô tô Vinacomin;UPCoM;Hàng Tiêu dùng;Ô tô và phụ tùng;Ô tô và phụ tùng;Sản xuất ô tô;Sản xuất ô tô;10
+917;HPG;Hòa Phát;HOSE;Nguyên vật liệu;Tài nguyên Cơ bản;Kim loại;Thép và sản phẩm thép;Sản xuất, chế biến thép;169.181
+918;MSR;Masan High-Tech Materials;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Khai khoáng;Khai khoáng;Khai khoáng;13.427
+919;HSG;Tập đoàn Hoa Sen;HOSE;Nguyên vật liệu;Tài nguyên Cơ bản;Kim loại;Thép và sản phẩm thép;Sản xuất, chế biến thép;12.606
+920;KSV;Khoáng sản TKV;HNX;Nguyên vật liệu;Tài nguyên Cơ bản;Khai khoáng;Khai khoáng;Khai khoáng;9.820
+921;ACG;Gỗ An Cường;HOSE;Nguyên vật liệu;Tài nguyên Cơ bản;Lâm nghiệp và Giấy;Lâm sản và Chế biến gỗ;Lâm sản và Chế biến gỗ;6.137
+922;VIF;Lâm nghiệp Việt Nam;HNX;Nguyên vật liệu;Tài nguyên Cơ bản;Lâm nghiệp và Giấy;Lâm sản và Chế biến gỗ;Lâm sản và Chế biến gỗ;5.740
+923;NKG;Thép Nam Kim;HOSE;Nguyên vật liệu;Tài nguyên Cơ bản;Kim loại;Thép và sản phẩm thép;Sản xuất, chế biến thép;5.384
+924;TVN;Thép Việt Nam;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Kim loại;Thép và sản phẩm thép;Sản xuất, chế biến thép;5.122
+925;PTB;Công ty Cổ phần Phú Tài;HOSE;Nguyên vật liệu;Tài nguyên Cơ bản;Lâm nghiệp và Giấy;Lâm sản và Chế biến gỗ;Lâm sản và Chế biến gỗ;3.949
+926;PRT;Sản xuất - XNK Bình Dương;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Lâm nghiệp và Giấy;Sản xuất giấy;Sản xuất giấy;3.180
+927;GDA;Tôn Đông Á;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Kim loại;Thép và sản phẩm thép;Sản xuất, chế biến thép;3.170
+928;DHC;Đông Hải Bến Tre;HOSE;Nguyên vật liệu;Tài nguyên Cơ bản;Lâm nghiệp và Giấy;Sản xuất giấy;Sản xuất giấy;2.773
+929;SHI;Quốc tế Sơn Hà;HOSE;Nguyên vật liệu;Tài nguyên Cơ bản;Kim loại;Thép và sản phẩm thép;Thương mại (Bán buôn) sắt thép;2.371
+930;MVB;Mỏ Việt Bắc - TKV;HNX;Nguyên vật liệu;Tài nguyên Cơ bản;Khai khoáng;Khai khoáng;Khai khoáng;2.079
+931;KSB;Khoáng sản Bình Dương;HOSE;Nguyên vật liệu;Tài nguyên Cơ bản;Khai khoáng;Khai khoáng;Khai khoáng;2.071
+932;VGS;Ống thép Việt Đức;HNX;Nguyên vật liệu;Tài nguyên Cơ bản;Kim loại;Thép và sản phẩm thép;Sản xuất, chế biến thép;1.924
+933;TTF;Gỗ Trường Thành;HOSE;Nguyên vật liệu;Tài nguyên Cơ bản;Lâm nghiệp và Giấy;Lâm sản và Chế biến gỗ;Lâm sản và Chế biến gỗ;1.196
+934;TIS;Gang thép Thái Nguyên;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Kim loại;Thép và sản phẩm thép;Sản xuất, chế biến thép;1.195
+935;VPG;Đầu tư TMại XNK Việt Phát;HOSE;Nguyên vật liệu;Tài nguyên Cơ bản;Khai khoáng;Khai khoáng;Khai khoáng;1.141
+936;HGM;Khoáng sản Hà Giang;HNX;Nguyên vật liệu;Tài nguyên Cơ bản;Khai khoáng;Khai khoáng;Khai khoáng;1.095
+937;BMJ;Khoáng sản Miền Đông AHP;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Khai khoáng;Khai khoáng;Khai khoáng;1.071
+938;TMB;Than Miền Bắc - Vinacomin;HNX;Nguyên vật liệu;Tài nguyên Cơ bản;Khai khoáng;Khai thác Than;Khai thác Than;987
+939;SQC;Khoáng sản SG-Quy Nhơn;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Khai khoáng;Khai khoáng;Khai khoáng;966
+940;CST;Than Cao Sơn - TKV;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Khai khoáng;Khai thác Than;Khai thác Than;945
+941;GVT;Giấy Việt Trì;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Lâm nghiệp và Giấy;Sản xuất giấy;Sản xuất giấy;905
+942;TMG;Kim loại màu Thái Nguyên - Vimico;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Kim loại;Thép và sản phẩm thép;Sản xuất, chế biến thép;900
+943;CLM;Xuất nhập khẩu Than - Vinacomin;HNX;Nguyên vật liệu;Tài nguyên Cơ bản;Khai khoáng;Khai thác Than;Khai thác Than;846
+944;DTL;Đại Thiên Lộc;HOSE;Nguyên vật liệu;Tài nguyên Cơ bản;Kim loại;Thép và sản phẩm thép;Sản xuất, chế biến thép;837
+945;SHN;Đầu tư Tổng hợp Hà Nội;HNX;Nguyên vật liệu;Tài nguyên Cơ bản;Khai khoáng;Khai thác Than;Khai thác Than;817
+946;TKU;Công nghiệp Tung Kuang;HNX;Nguyên vật liệu;Tài nguyên Cơ bản;Kim loại;Nhôm;Nhôm;802
+947;HHP;HHP Global;HOSE;Nguyên vật liệu;Tài nguyên Cơ bản;Lâm nghiệp và Giấy;Sản xuất giấy;Sản xuất giấy;796
+948;POM;Thép Pomina;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Kim loại;Thép và sản phẩm thép;Sản xuất, chế biến thép;751
+949;CAP;Lâm nông sản Yên Bái;HNX;Nguyên vật liệu;Tài nguyên Cơ bản;Lâm nghiệp và Giấy;Sản xuất giấy;Sản xuất giấy;689
+950;TLH;Thép Tiến Lên;HOSE;Nguyên vật liệu;Tài nguyên Cơ bản;Kim loại;Thép và sản phẩm thép;Thương mại (Bán buôn) sắt thép;574
+951;DLG;Đức Long Gia Lai;HOSE;Nguyên vật liệu;Tài nguyên Cơ bản;Lâm nghiệp và Giấy;Lâm sản và Chế biến gỗ;Lâm sản và Chế biến gỗ;569
+952;SAV;Savimex;HOSE;Nguyên vật liệu;Tài nguyên Cơ bản;Lâm nghiệp và Giấy;Lâm sản và Chế biến gỗ;Lâm sản và Chế biến gỗ;506
+953;SMC;Đầu tư Thương mại SMC;HOSE;Nguyên vật liệu;Tài nguyên Cơ bản;Kim loại;Thép và sản phẩm thép;Thương mại (Bán buôn) sắt thép;506
+954;TVD;Than Vàng Danh;HNX;Nguyên vật liệu;Tài nguyên Cơ bản;Khai khoáng;Khai thác Than;Khai thác Than;499
+955;AAH;Than Hợp Nhất;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Khai khoáng;Khai thác Than;Khai thác Than;494
+956;MTA;Khoáng sản và TM Hà Tĩnh;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Khai khoáng;Khai khoáng;Khai khoáng;488
+957;HAP;Tập đoàn Hapaco;HOSE;Nguyên vật liệu;Tài nguyên Cơ bản;Lâm nghiệp và Giấy;Sản xuất giấy;Sản xuất giấy;469
+958;CBI;Gang thép Cao Bằng;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Kim loại;Thép và sản phẩm thép;Sản xuất, chế biến thép;404
+959;KTL;Kim khí Thăng Long;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Kim loại;Thép và sản phẩm thép;Sản xuất, chế biến thép;403
+960;NBC;Than Núi Béo;HNX;Nguyên vật liệu;Tài nguyên Cơ bản;Khai khoáng;Khai thác Than;Khai thác Than;381
+961;MDF;Gỗ MDF VRG - Quảng Trị;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Lâm nghiệp và Giấy;Lâm sản và Chế biến gỗ;Lâm sản và Chế biến gỗ;380
+962;HLC;Than Hà Lầm;HNX;Nguyên vật liệu;Tài nguyên Cơ bản;Khai khoáng;Khai thác Than;Khai thác Than;310
+963;HMC;Kim khí TP.HCM;HOSE;Nguyên vật liệu;Tài nguyên Cơ bản;Kim loại;Thép và sản phẩm thép;Thương mại (Bán buôn) sắt thép;300
+964;THT;Than Hà Tu;HNX;Nguyên vật liệu;Tài nguyên Cơ bản;Khai khoáng;Khai thác Than;Khai thác Than;285
+965;BMC;Khoáng sản Bình Định;HOSE;Nguyên vật liệu;Tài nguyên Cơ bản;Khai khoáng;Khai khoáng;Khai khoáng;271
+966;PIS;Pisico Bình Định;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Lâm nghiệp và Giấy;Lâm sản và Chế biến gỗ;Lâm sản và Chế biến gỗ;267
+967;DHM;Khoáng sản Dương Hiếu;HOSE;Nguyên vật liệu;Tài nguyên Cơ bản;Khai khoáng;Khai khoáng;Khai khoáng;262
+968;TTS;Cán thép Thái Trung;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Kim loại;Thép và sản phẩm thép;Sản xuất, chế biến thép;254
+969;DFC;Xích líp Đông Anh;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Kim loại;Thép và sản phẩm thép;Sản xuất, chế biến thép;226
+970;D17;Khai thác mỏ Đồng Tân;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Khai khoáng;Khai khoáng;Khai khoáng;224
+971;VID;Viễn Đông;HOSE;Nguyên vật liệu;Tài nguyên Cơ bản;Lâm nghiệp và Giấy;Sản xuất giấy;Sản xuất giấy;221
+972;TNT;Tập đoàn TNT;HOSE;Nguyên vật liệu;Tài nguyên Cơ bản;Khai khoáng;Khai khoáng;Khai khoáng;215
+973;MDC;Than Mông Dương;HNX;Nguyên vật liệu;Tài nguyên Cơ bản;Khai khoáng;Khai thác Than;Khai thác Than;214
+974;BCA;Công ty B.C.H;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Kim loại;Thép và sản phẩm thép;Sản xuất, chế biến thép;213
+975;SVT;Công nghệ SG Viễn Đông;HOSE;Nguyên vật liệu;Tài nguyên Cơ bản;Lâm nghiệp và Giấy;Sản xuất giấy;Sản xuất giấy;196
+976;VGL;Mạ kẽm công nghiệp Vingal-Vnsteel;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Kim loại;Thép và sản phẩm thép;Sản xuất, chế biến thép;187
+977;TNA;XNK Thiên Nam;HOSE;Nguyên vật liệu;Tài nguyên Cơ bản;Kim loại;Thép và sản phẩm thép;Thương mại (Bán buôn) sắt thép;186
+978;YBM;Khoáng sản CN Yên Bái;HOSE;Nguyên vật liệu;Tài nguyên Cơ bản;Khai khoáng;Khai khoáng;Khai khoáng;161
+979;TNB;Thép Nhà Bè;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Kim loại;Thép và sản phẩm thép;Sản xuất, chế biến thép;152
+980;SHA;Sơn Hà Sài Gòn;HOSE;Nguyên vật liệu;Tài nguyên Cơ bản;Kim loại;Thép và sản phẩm thép;Sản xuất, chế biến thép;139
+981;TDS;Thép Thủ Đức;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Kim loại;Thép và sản phẩm thép;Sản xuất, chế biến thép;134
+982;VCA;Thép VICASA - VNSTEEL;HOSE;Nguyên vật liệu;Tài nguyên Cơ bản;Kim loại;Thép và sản phẩm thép;Sản xuất, chế biến thép;132
+983;TNI;Tập đoàn Thành Nam;HOSE;Nguyên vật liệu;Tài nguyên Cơ bản;Kim loại;Thép và sản phẩm thép;Sản xuất, chế biến thép;118
+984;BKC;Khoáng sản Bắc Kạn;HNX;Nguyên vật liệu;Tài nguyên Cơ bản;Khai khoáng;Khai khoáng;Khai khoáng;109
+985;TNS;Thép tấm lá Thống Nhất;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Kim loại;Thép và sản phẩm thép;Sản xuất, chế biến thép;105
+986;GLC;Vàng Lào Cai;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Khai khoáng;Khai thác vàng;Khai thác vàng;105
+987;TTH;TM và DV Tiến Thành;HNX;Nguyên vật liệu;Tài nguyên Cơ bản;Kim loại;Thép và sản phẩm thép;Thương mại (Bán buôn) sắt thép;105
+988;HMG;Kim Khí Hà Nội;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Kim loại;Thép và sản phẩm thép;Thương mại (Bán buôn) sắt thép;104
+989;GTA;Gỗ Thuận An;HOSE;Nguyên vật liệu;Tài nguyên Cơ bản;Lâm nghiệp và Giấy;Lâm sản và Chế biến gỗ;Lâm sản và Chế biến gỗ;103
+990;NSH;Nhôm Sông Hồng;HNX;Nguyên vật liệu;Tài nguyên Cơ bản;Kim loại;Nhôm;Nhôm;101
+991;MEL;Thép Mê Lin;HNX;Nguyên vật liệu;Tài nguyên Cơ bản;Kim loại;Thép và sản phẩm thép;Sản xuất, chế biến thép;95
+992;PAS;Quốc tế Phương Anh;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Kim loại;Thép và sản phẩm thép;Sản xuất, chế biến thép;93
+993;TMW;Gỗ Tân Mai;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Lâm nghiệp và Giấy;Lâm sản và Chế biến gỗ;Lâm sản và Chế biến gỗ;91
+994;KMT;Kim khí Miền Trung;HNX;Nguyên vật liệu;Tài nguyên Cơ bản;Kim loại;Thép và sản phẩm thép;Thương mại (Bán buôn) sắt thép;88
+995;ITQ;Tập đoàn Thiên Quang;HNX;Nguyên vật liệu;Tài nguyên Cơ bản;Kim loại;Thép và sản phẩm thép;Sản xuất, chế biến thép;83
+996;MIC;Khoáng sản Quảng Nam;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Khai khoáng;Khai khoáng;Khai khoáng;77
+997;KVC;XNK Inox Kim Vĩ;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Kim loại;Thép và sản phẩm thép;Sản xuất, chế biến thép;75
+998;FRC;Lâm đặc sản xuất khẩu Quảng Nam;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Lâm nghiệp và Giấy;Lâm sản và Chế biến gỗ;Lâm sản và Chế biến gỗ;75
+999;TQN;Thông Quảng Ninh;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Lâm nghiệp và Giấy;Lâm sản và Chế biến gỗ;Lâm sản và Chế biến gỗ;71
+1.000;MGC;Địa chất mỏ - TKV;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Khai khoáng;Khai khoáng;Khai khoáng;63
+1.001;HSV;Gang Thép Hà Nội;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Kim loại;Thép và sản phẩm thép;Thương mại (Bán buôn) sắt thép;61
+1.002;KCB;Khoáng Sản Luyện Kim Cao Bằng;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Khai khoáng;Khai khoáng;Khai khoáng;57
+1.003;SPI;Spiral Galaxy;HNX;Nguyên vật liệu;Tài nguyên Cơ bản;Khai khoáng;Khai khoáng;Khai khoáng;55
+1.004;LMC;Khoáng sản LATCA;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Khai khoáng;Khai khoáng;Khai khoáng;50
+1.005;FRM;Lâm nghiệp Sài Gòn;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Lâm nghiệp và Giấy;Lâm sản và Chế biến gỗ;Lâm sản và Chế biến gỗ;48
+1.006;ATG;An Trường An;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Khai khoáng;Khai khoáng;Khai khoáng;47
+1.007;AMC;Khoáng sản Á Châu;HNX;Nguyên vật liệu;Tài nguyên Cơ bản;Khai khoáng;Khai khoáng;Khai khoáng;45
+1.008;VBG;Địa chất Việt Bắc - TKV;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Khai khoáng;Khai khoáng;Khai khoáng;42
+1.009;VDT;Lưới thép Bình Tây;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Kim loại;Thép và sản phẩm thép;Sản xuất, chế biến thép;39
+1.010;KKC;Tập đoàn Thành Thái;HNX;Nguyên vật liệu;Tài nguyên Cơ bản;Kim loại;Thép và sản phẩm thép;Sản xuất, chế biến thép;34
+1.011;HPM;Khoáng sản Hoàng Phúc;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Khai khoáng;Khai khoáng;Khai khoáng;33
+1.012;ACM;Tập đoàn Khoáng sản Á Cường;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Khai khoáng;Khai khoáng;Khai khoáng;31
+1.013;SSM;Kết cấu Thép VNECO;HNX;Nguyên vật liệu;Tài nguyên Cơ bản;Kim loại;Thép và sản phẩm thép;Sản xuất, chế biến thép;30
+1.014;KHD;Khoáng sản Hải Dương;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Khai khoáng;Khai khoáng;Khai khoáng;30
+1.015;VIM;Khoáng sản Viglacera;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Khai khoáng;Khai khoáng;Khai khoáng;28
+1.016;LCM;Khoáng sản Lào Cai;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Khai khoáng;Khai khoáng;Khai khoáng;25
+1.017;KSH;Damac GLS;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Khai khoáng;Khai khoáng;Khai khoáng;23
+1.018;BVG;Group Bắc Việt;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Kim loại;Thép và sản phẩm thép;Sản xuất, chế biến thép;21
+1.019;MHL;Minh Hữu Liên;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Kim loại;Thép và sản phẩm thép;Sản xuất, chế biến thép;17
+1.020;TKG;SX và T.Mại Tùng Khánh;HNX;Nguyên vật liệu;Tài nguyên Cơ bản;Kim loại;Thép và sản phẩm thép;Sản xuất, chế biến thép;15
+1.021;MIM;Khoáng sản và Cơ khí;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Khai khoáng;Khai khoáng;Khai khoáng;14
+1.022;HLA;Hữu Liên Á Châu;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Kim loại;Thép và sản phẩm thép;Sản xuất, chế biến thép;14
+1.023;DPS;Đầu tư Phát triển Sóc Sơn;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Kim loại;Thép và sản phẩm thép;Thương mại (Bán buôn) sắt thép;9
+1.024;VDB;Vận tải và CB Than Đông Bắc;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Khai khoáng;Khai thác Than;Khai thác Than;8
+1.025;NHV;Đầu tư NHV;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Kim loại;Kim Loại màu;Kim Loại màu;4
+1.026;BCB;Công ty 397;UPCoM;Nguyên vật liệu;Tài nguyên Cơ bản;Khai khoáng;Khai thác Than;Khai thác Than;4
+1.027;MCH;Hàng Tiêu Dùng MaSan;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Thực phẩm;Nguyên liệu chế biến, dầu ăn, gia vị (bột nở, hương liệu, etc);151.439
+1.028;VNM;VINAMILK;HOSE;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Thực phẩm;Sản phẩm từ sữa;142.117
+1.029;MSN;Tập đoàn Masan;HOSE;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Thực phẩm;Thực phẩm chế biến;111.041
+1.030;SAB;SABECO;HOSE;Hàng Tiêu dùng;Thực phẩm và đồ uống;Bia và đồ uống;Sản xuất bia;Sản xuất bia;71.182
+1.031;QNS;Đường Quảng Ngãi;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Thực phẩm;Đường;17.944
+1.032;VHC;Thủy sản Vĩnh Hoàn;HOSE;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Nuôi trồng nông & hải sản;Nuôi trồng thủy hải sản;15.891
+1.033;IDP;Sữa Quốc tế LOF;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Thực phẩm;Sản phẩm từ sữa;15.457
+1.034;VSF;Vinafood 2;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Thực phẩm;Tinh bột, rau có chất béo;15.224
+1.035;KDC;Tập đoàn KIDO;HOSE;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Thực phẩm;Nguyên liệu chế biến, dầu ăn, gia vị (bột nở, hương liệu, etc);14.838
+1.036;HAG;Hoàng Anh Gia Lai;HOSE;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Nuôi trồng nông & hải sản;Trồng ngũ cốc, rau, trái cây & hạt;10.733
+1.037;SBT;Mía đường Thành Thành Công - Biên Hòa;HOSE;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Thực phẩm;Đường;9.293
+1.038;DBC;Tập đoàn DABACO;HOSE;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Nuôi trồng nông & hải sản;Thức ăn gia súc;9.270
+1.039;BHN;HABECO;HOSE;Hàng Tiêu dùng;Thực phẩm và đồ uống;Bia và đồ uống;Sản xuất bia;Sản xuất bia;8.878
+1.040;MML;Masan MEATLife;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Thực phẩm;Động vật giết mổ và chế biến;8.536
+1.041;MPC;Thủy sản Minh Phú;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Nuôi trồng nông & hải sản;Nuôi trồng thủy hải sản;6.525
+1.042;VCF;VinaCafé Biên Hòa;HOSE;Hàng Tiêu dùng;Thực phẩm và đồ uống;Bia và đồ uống;Đồ uống & giải khát;Cafe;5.887
+1.043;HNG;Nông nghiệp Quốc tế HAGL;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Nuôi trồng nông & hải sản;Trồng ngũ cốc, rau, trái cây & hạt;5.510
+1.044;BAF;Nông nghiệp BAF Việt Nam;HOSE;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Nuôi trồng nông & hải sản;Chăn nuôi gia súc, gia cầm;5.414
+1.045;SEA;SEAPRODEX;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Nuôi trồng nông & hải sản;Nuôi trồng thủy hải sản;5.050
+1.046;PAN;Tập đoàn PAN;HOSE;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Thực phẩm;Thực phẩm chế biến;4.930
+1.047;ANV;Thủy sản Nam Việt;HOSE;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Nuôi trồng nông & hải sản;Nuôi trồng thủy hải sản;4.333
+1.048;MCM;Giống bò sữa Mộc Châu;HOSE;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Thực phẩm;Sản phẩm từ sữa;3.982
+1.049;VLC;Chăn nuôi Việt Nam;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Nuôi trồng nông & hải sản;Chăn nuôi gia súc, gia cầm;3.636
+1.050;ASM;Tập đoàn Sao Mai;HOSE;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Nuôi trồng nông & hải sản;Nuôi trồng thủy hải sản;3.254
+1.051;FMC;Thực phẩm Sao Ta;HOSE;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Nuôi trồng nông & hải sản;Nuôi trồng thủy hải sản;3.001
+1.052;CMF;Thực phẩm Cholimex;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Thực phẩm;Nguyên liệu chế biến, dầu ăn, gia vị (bột nở, hương liệu, etc);2.471
+1.053;IFS;Thực phẩm Quốc tế;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Bia và đồ uống;Đồ uống & giải khát;Nước trái cây;2.370
+1.054;IDI;Đầu tư và PT Đa Quốc Gia;HOSE;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Nuôi trồng nông & hải sản;Nuôi trồng thủy hải sản;2.306
+1.055;VOC;Dầu thực vật Việt Nam;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Thực phẩm;Nguyên liệu chế biến, dầu ăn, gia vị (bột nở, hương liệu, etc);2.132
+1.056;SLS;Mía đường Sơn La;HNX;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Thực phẩm;Đường;1.723
+1.057;APF;Nông sản Quảng Ngãi;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Thực phẩm;Tinh bột, rau có chất béo;1.694
+1.058;HHC;Bánh kẹo Hải Hà;HNX;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Thực phẩm;Sô cô la, Bánh kẹo, bánh mỳ;1.692
+1.059;SBB;Bia Sài Gòn Bình Tây;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Bia và đồ uống;Sản xuất bia;Sản xuất bia;1.556
+1.060;VSN;VN Kỹ Nghệ Súc Sản (VISSAN);UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Thực phẩm;Động vật giết mổ và chế biến;1.476
+1.061;NSC;Tập đoàn Giống cây trồng Việt Nam;HOSE;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Nuôi trồng nông & hải sản;Hạt, cây giống thương mại;1.387
+1.062;BCF;Thực phẩm Bích Chi;HNX;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Thực phẩm;Thực phẩm chế biến;1.356
+1.063;CLX;XNK và Đầu tư Chợ Lớn (CHOLIMEX);UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Thực phẩm;Nguyên liệu chế biến, dầu ăn, gia vị (bột nở, hương liệu, etc);1.312
+1.064;NAF;Nafoods Group;HOSE;Hàng Tiêu dùng;Thực phẩm và đồ uống;Bia và đồ uống;Đồ uống & giải khát;Nước trái cây;1.157
+1.065;SMB;Bia Sài Gòn - Miền Trung;HOSE;Hàng Tiêu dùng;Thực phẩm và đồ uống;Bia và đồ uống;Sản xuất bia;Sản xuất bia;1.134
+1.066;OCH;Khách sạn và Dịch vụ OCH;HNX;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Thực phẩm;Sô cô la, Bánh kẹo, bánh mỳ;1.120
+1.067;NCG;Nova Consumer;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Nuôi trồng nông & hải sản;Thức ăn gia súc;1.026
+1.068;LSS;Mía đường Lam Sơn;HOSE;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Thực phẩm;Đường;946
+1.069;HLB;Bia và NGK Hạ Long;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Bia và đồ uống;Sản xuất bia;Sản xuất bia;942
+1.070;BSQ;Bia Sài Gòn - Quảng Ngãi;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Bia và đồ uống;Sản xuất bia;Sản xuất bia;923
+1.071;BBC;Bánh kẹo BIBICA;HOSE;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Thực phẩm;Sô cô la, Bánh kẹo, bánh mỳ;908
+1.072;CMM;Camimex;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Thực phẩm;Hải sản chế biến và đóng gói;881
+1.073;HNF;Bánh kẹo Hữu Nghị;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Thực phẩm;Sô cô la, Bánh kẹo, bánh mỳ;816
+1.074;SKH;NGK Sanest Khánh Hòa;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Bia và đồ uống;Đồ uống & giải khát;Đồ uống không cồn khác;775
+1.075;CMX;CAMIMEX Group;HOSE;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Nuôi trồng nông & hải sản;Nuôi trồng thủy hải sản;774
+1.076;LTG;Tập đoàn Lộc Trời (BVTV An Giang);UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Nuôi trồng nông & hải sản;Trồng ngũ cốc, rau, trái cây & hạt;755
+1.077;WSB;Bia Sài Gòn - Miền Tây;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Bia và đồ uống;Sản xuất bia;Sản xuất bia;738
+1.078;SGC;Bánh phồng tôm Sa Giang;HNX;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Thực phẩm;Thực phẩm chế biến;732
+1.079;SAF;Thực Phẩm SAFOCO;HNX;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Thực phẩm;Sô cô la, Bánh kẹo, bánh mỳ;716
+1.080;SKV;NGK Yến sào Khánh Hòa;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Bia và đồ uống;Đồ uống & giải khát;Đồ uống không cồn khác;714
+1.081;GCF;Thực phẩm G.C;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Thực phẩm;Thực phẩm chế biến;709
+1.082;ACL;Thủy sản CL An Giang;HOSE;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Nuôi trồng nông & hải sản;Nuôi trồng thủy hải sản;597
+1.083;DAT;ĐT Du lịch và PT Thủy sản;HOSE;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Nuôi trồng nông & hải sản;Nuôi trồng thủy hải sản;519
+1.084;NCS;Suất ăn Hàng không Nội Bài;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Thực phẩm;Sô cô la, Bánh kẹo, bánh mỳ;476
+1.085;SSC;Giống cây trồng Miền Nam;HOSE;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Nuôi trồng nông & hải sản;Hạt, cây giống thương mại;468
+1.086;ABT;Thủy sản Bến Tre;HOSE;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Nuôi trồng nông & hải sản;Nuôi trồng thủy hải sản;468
+1.087;TFC;CTCP Trang;HNX;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Thực phẩm;Hải sản chế biến và đóng gói;433
+1.088;BSL;Bia Sài Gòn - Sông Lam;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Bia và đồ uống;Sản xuất bia;Sản xuất bia;428
+1.089;SJ1;Nông nghiệp Hùng Hậu;HNX;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Nuôi trồng nông & hải sản;Nuôi trồng thủy hải sản;426
+1.090;CTP;Minh Khang Capital Trading Public;HNX;Hàng Tiêu dùng;Thực phẩm và đồ uống;Bia và đồ uống;Đồ uống & giải khát;Cafe;423
+1.091;KTC;Thương mại Kiên Giang;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Thực phẩm;Tinh bột, rau có chất béo;401
+1.092;VHF;Chế biến lương thực Vĩnh Hà;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Thực phẩm;Tinh bột, rau có chất béo;391
+1.093;HNM;HANOIMILK;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Thực phẩm;Sản phẩm từ sữa;389
+1.094;BSH;Bia Sài Gòn - Hà Nội;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Bia và đồ uống;Sản xuất bia;Sản xuất bia;360
+1.095;ANT;Rau quả thực phẩm An Giang;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Thực phẩm;Trái cây và rau quả chế biến;348
+1.096;HVG;Thủy sản Hùng Vương;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Nuôi trồng nông & hải sản;Nuôi trồng thủy hải sản;318
+1.097;CMN;Colusa -  Miliket;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Thực phẩm;Thực phẩm chế biến;312
+1.098;CFV;Cà phê Thắng Lợi;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Bia và đồ uống;Đồ uống & giải khát;Cafe;307
+1.099;TAR;Nông nghiệp CN cao Trung An;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Nuôi trồng nông & hải sản;Trồng ngũ cốc, rau, trái cây & hạt;292
+1.100;BMV;Bột mỳ Vinafood 1;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Thực phẩm;Nguyên liệu chế biến, dầu ăn, gia vị (bột nở, hương liệu, etc);286
+1.101;QHW;Nước khoáng Quảng Ninh;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Bia và đồ uống;Đồ uống & giải khát;Nước đóng chai;284
+1.102;BNA;Tập đoàn Đầu tư Bảo Ngọc;HNX;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Thực phẩm;Sô cô la, Bánh kẹo, bánh mỳ;282
+1.103;LAF;Chế biến Hàng XK Long An;HOSE;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Thực phẩm;Trái cây và rau quả chế biến;265
+1.104;HNR;Cồn Rượu và Nước Giải Khát Hà Nội;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Bia và đồ uống;Vang & Rượu mạnh;Vang & Rượu mạnh;240
+1.105;CCA;XNK Thuỷ sản Cần Thơ;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Nuôi trồng nông & hải sản;Nuôi trồng thủy hải sản;226
+1.106;FCS;Lương thực TP Hồ Chí Minh;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Thực phẩm;Tinh bột, rau có chất béo;217
+1.107;KTS;Đường Kon Tum;HNX;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Thực phẩm;Đường;215
+1.108;HAF;Thực phẩm Hà Nội;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Thực phẩm;Sô cô la, Bánh kẹo, bánh mỳ;192
+1.109;THP;Thủy sản và TMại Thuận Phước;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Nuôi trồng nông & hải sản;Nuôi trồng thủy hải sản;186
+1.110;SPV;Thủy đặc sản;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Nuôi trồng nông & hải sản;Nuôi trồng thủy hải sản;185
+1.111;CAT;Thủy sản Cà Mau;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Nuôi trồng nông & hải sản;Nuôi trồng thủy hải sản;179
+1.112;CAN;Đồ hộp Hạ Long;HNX;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Thực phẩm;Thực phẩm chế biến;178
+1.113;VDL;Thực phẩm Lâm Đồng;HNX;Hàng Tiêu dùng;Thực phẩm và đồ uống;Bia và đồ uống;Vang & Rượu mạnh;Vang & Rượu mạnh;176
+1.114;CPA;Cà phê Phước An;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Bia và đồ uống;Đồ uống & giải khát;Cafe;168
+1.115;TT6;Tien Thinh Group;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Thực phẩm;Trái cây và rau quả chế biến;167
+1.116;HSL;Thực phẩm Hồng Hà;HOSE;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Thực phẩm;Sô cô la, Bánh kẹo, bánh mỳ;166
+1.117;BLT;Lương Thực Bình Định;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Thực phẩm;Tinh bột, rau có chất béo;161
+1.118;FGL;Cà Phê Gia Lai;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Bia và đồ uống;Đồ uống & giải khát;Cafe;148
+1.119;KHS;Thủy sản Kiên Hùng;HNX;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Nuôi trồng nông & hải sản;Nuôi trồng thủy hải sản;148
+1.120;PSL;Chăn nuôi Phú Sơn;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Nuôi trồng nông & hải sản;Chăn nuôi gia súc, gia cầm;139
+1.121;HAT;TM Bia Hà Nội;HNX;Hàng Tiêu dùng;Thực phẩm và đồ uống;Bia và đồ uống;Sản xuất bia;Sản xuất bia;137
+1.122;THB;Bia Hà Nội - Thanh Hóa;HNX;Hàng Tiêu dùng;Thực phẩm và đồ uống;Bia và đồ uống;Sản xuất bia;Sản xuất bia;131
+1.123;SCD;Giải khát Chương Dương;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Bia và đồ uống;Đồ uống & giải khát;Nước trái cây;127
+1.124;BSP;Bia Sài Gòn - Phú Thọ;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Bia và đồ uống;Sản xuất bia;Sản xuất bia;126
+1.125;SNC;Thủy sản Năm Căn;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Nuôi trồng nông & hải sản;Nuôi trồng thủy hải sản;115
+1.126;EPC;Cà Phê Ea Pốk;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Bia và đồ uống;Đồ uống & giải khát;Cafe;105
+1.127;BHG;Chè Biển Hồ;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Bia và đồ uống;Đồ uống & giải khát;Trà;98
+1.128;SPD;Thủy sản Miền Trung;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Nuôi trồng nông & hải sản;Nuôi trồng thủy hải sản;96
+1.129;MCF;Cơ khí và Lương thực Thực phẩm;HNX;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Thực phẩm;Tinh bột, rau có chất béo;94
+1.130;HBH;HABECO Hải Phòng;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Bia và đồ uống;Sản xuất bia;Sản xuất bia;88
+1.131;BHK;Bia Hà Nội - Kim Bài;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Bia và đồ uống;Sản xuất bia;Sản xuất bia;87
+1.132;HVA;Đầu tư HVA;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Nuôi trồng nông & hải sản;Chăn nuôi gia súc, gia cầm;82
+1.133;AGF;Thủy sản An Giang;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Nuôi trồng nông & hải sản;Nuôi trồng thủy hải sản;82
+1.134;SPH;XNK Thủy sản Hà Nội;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Nuôi trồng nông & hải sản;Nuôi trồng thủy hải sản;80
+1.135;ILA;Công ty ILA;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Nuôi trồng nông & hải sản;Trồng Cà phê, trà, ca cao;78
+1.136;SBL;Bia Sài Gòn - Bạc Liêu;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Bia và đồ uống;Sản xuất bia;Sản xuất bia;78
+1.137;AAM;Thủy sản Mekong;HOSE;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Nuôi trồng nông & hải sản;Nuôi trồng thủy hải sản;73
+1.138;VTL;Vang Thăng Long;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Bia và đồ uống;Vang & Rượu mạnh;Vang & Rượu mạnh;68
+1.139;AGM;XNK An Giang;HOSE;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Thực phẩm;Tinh bột, rau có chất béo;67
+1.140;HAD;Bia Hà Nội - Hải Dương;HNX;Hàng Tiêu dùng;Thực phẩm và đồ uống;Bia và đồ uống;Sản xuất bia;Sản xuất bia;66
+1.141;DMN;Domenal;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Nuôi trồng nông & hải sản;Thức ăn gia súc;65
+1.142;TAN;Cà phê Thuận An;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Bia và đồ uống;Đồ uống & giải khát;Cafe;64
+1.143;SB1;Bia Sài Gòn - Nghệ Tĩnh;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Bia và đồ uống;Sản xuất bia;Sản xuất bia;63
+1.144;FCC;Liên hợp Thực phẩm;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Bia và đồ uống;Sản xuất bia;Sản xuất bia;60
+1.145;BHP;Bia Hà Nội - Hải Phòng;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Bia và đồ uống;Sản xuất bia;Sản xuất bia;60
+1.146;MLS;Chăn nuôi Mitraco;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Nuôi trồng nông & hải sản;Chăn nuôi gia súc, gia cầm;57
+1.147;SSN;Thủy sản Sài Gòn;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Nuôi trồng nông & hải sản;Nuôi trồng thủy hải sản;55
+1.148;HKT;Đầu tư Ego Việt Nam;HNX;Hàng Tiêu dùng;Thực phẩm và đồ uống;Bia và đồ uống;Đồ uống & giải khát;Trà;53
+1.149;C22;Công ty 22;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Thực phẩm;Sô cô la, Bánh kẹo, bánh mỳ;52
+1.150;BTB;Bia Hà Nội - Thái Bình;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Bia và đồ uống;Sản xuất bia;Sản xuất bia;51
+1.151;BLF;Thủy sản Bạc Liêu;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Nuôi trồng nông & hải sản;Nuôi trồng thủy hải sản;46
+1.152;ICF;ĐT TM Thủy sản;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Nuôi trồng nông & hải sản;Nuôi trồng thủy hải sản;43
+1.153;TCJ;Tô Châu;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Nuôi trồng nông & hải sản;Nuôi trồng thủy hải sản;40
+1.154;SKN;NGK Sanna Khánh Hòa;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Bia và đồ uống;Đồ uống & giải khát;Đồ uống không cồn khác;39
+1.155;BSD;Bia, rượu Sài Gòn - Đồng Xuân;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Bia và đồ uống;Sản xuất bia;Sản xuất bia;38
+1.156;NSS;Nông súc sản Đồng Nai;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Nuôi trồng nông & hải sản;Chăn nuôi gia súc, gia cầm;38
+1.157;CNA;Tổng công ty Chè Nghệ An - CTCP;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Nuôi trồng nông & hải sản;Trồng Cà phê, trà, ca cao;35
+1.158;HKB;Thực phẩm Hà Nội - Kinh Bắc;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Thực phẩm;Trái cây và rau quả chế biến;31
+1.159;BQB;Bia Hà Nội - Quảng Bình;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Bia và đồ uống;Sản xuất bia;Sản xuất bia;23
+1.160;APT;Thủy hải sản Sài Gòn;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Nuôi trồng nông & hải sản;Nuôi trồng thủy hải sản;20
+1.161;TS4;Thủy sản số 4;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Nuôi trồng nông & hải sản;Nuôi trồng thủy hải sản;19
+1.162;AVF;Thủy sản Việt An;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Nuôi trồng nông & hải sản;Nuôi trồng thủy hải sản;17
+1.163;VLF;Lương thực Vĩnh Long;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Thực phẩm;Tinh bột, rau có chất béo;16
+1.164;PRO;Procimex Việt Nam;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Thực phẩm;Hải sản chế biến và đóng gói;14
+1.165;PCF;Cà phê PETEC;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Bia và đồ uống;Đồ uống & giải khát;Cafe;14
+1.166;BBM;Bia Hà Nội - Nam Định;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Bia và đồ uống;Sản xuất bia;Sản xuất bia;14
+1.167;JOS;Thủy sản Minh Hải;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Nuôi trồng nông & hải sản;Nuôi trồng thủy hải sản;12
+1.168;CAD;Thủy sản Cadovimex;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Nuôi trồng nông & hải sản;Nuôi trồng thủy hải sản;10
+1.169;VNH;Đầu tư Việt Việt Nhật;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Nuôi trồng nông & hải sản;Nuôi trồng thủy hải sản;10
+1.170;NDF;Nông sản XK Nam Định;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Thực phẩm;Động vật giết mổ và chế biến;7
+1.171;ATA;NTACO;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Nuôi trồng nông & hải sản;Nuôi trồng thủy hải sản;6
+1.172;NGC;Thủy sản Ngô Quyền;UPCoM;Hàng Tiêu dùng;Thực phẩm và đồ uống;Sản xuất thực phẩm;Nuôi trồng nông & hải sản;Nuôi trồng thủy hải sản;4
+1.173;VEF;Hội chợ Triển lãm Việt Nam;UPCoM;Dịch vụ Tiêu dùng;Truyền thông;Truyền thông;Dịch vụ truyền thông;Dịch vụ truyền thông;34.838
+1.174;VNZ;CTCP VNG;UPCoM;Dịch vụ Tiêu dùng;Truyền thông;Truyền thông;Giải trí & Truyền thông;Giải trí & Truyền thông;11.690
+1.175;FOC;FPT Online;UPCoM;Dịch vụ Tiêu dùng;Truyền thông;Truyền thông;Dịch vụ truyền thông;Dịch vụ truyền thông;1.487
+1.176;YEG;Tập đoàn Yeah1;HOSE;Dịch vụ Tiêu dùng;Truyền thông;Truyền thông;Giải trí & Truyền thông;Giải trí & Truyền thông;1.329
+1.177;VNB;Sách Việt Nam;UPCoM;Dịch vụ Tiêu dùng;Truyền thông;Truyền thông;Sách, ấn bản & sản phẩm văn hóa;Sách, ấn bản & sản phẩm văn hóa;738
+1.178;CAB;Truyền hình Cáp Việt Nam;UPCoM;Dịch vụ Tiêu dùng;Truyền thông;Truyền thông;Giải trí & Truyền thông;Giải trí & Truyền thông;499
+1.179;ODE;Tập đoàn Truyền thông và Giải trí ODE;UPCoM;Dịch vụ Tiêu dùng;Truyền thông;Truyền thông;Giải trí & Truyền thông;Giải trí & Truyền thông;443
+1.180;EID;Phát triển GD Hà Nội;HNX;Dịch vụ Tiêu dùng;Truyền thông;Truyền thông;Sách, ấn bản & sản phẩm văn hóa;Sách, ấn bản & sản phẩm văn hóa;416
+1.181;FHS;Phát hành sách TP HCM - FAHASA;UPCoM;Dịch vụ Tiêu dùng;Truyền thông;Truyền thông;Sách, ấn bản & sản phẩm văn hóa;Sách, ấn bản & sản phẩm văn hóa;398
+1.182;HTP;In SGK Hòa Phát;UPCoM;Dịch vụ Tiêu dùng;Truyền thông;Truyền thông;Sách, ấn bản & sản phẩm văn hóa;Sách, ấn bản & sản phẩm văn hóa;274
+1.183;ADG;Clever Group;HOSE;Dịch vụ Tiêu dùng;Truyền thông;Truyền thông;Dịch vụ truyền thông;Dịch vụ truyền thông;242
+1.184;SED;Phát triển GD Phương Nam;HNX;Dịch vụ Tiêu dùng;Truyền thông;Truyền thông;Sách, ấn bản & sản phẩm văn hóa;Sách, ấn bản & sản phẩm văn hóa;196
+1.185;PNC;Văn hóa Phương Nam;HOSE;Dịch vụ Tiêu dùng;Truyền thông;Truyền thông;Sách, ấn bản & sản phẩm văn hóa;Sách, ấn bản & sản phẩm văn hóa;159
+1.186;EBS;Sách Giáo dục Hà Nội;HNX;Dịch vụ Tiêu dùng;Truyền thông;Truyền thông;Sách, ấn bản & sản phẩm văn hóa;Sách, ấn bản & sản phẩm văn hóa;116
+1.187;IBD;In Tổng hợp Bình Dương;UPCoM;Dịch vụ Tiêu dùng;Truyền thông;Truyền thông;Sách, ấn bản & sản phẩm văn hóa;Sách, ấn bản & sản phẩm văn hóa;104
+1.188;STH;Phát hành sách Thái Nguyên;UPCoM;Dịch vụ Tiêu dùng;Truyền thông;Truyền thông;Sách, ấn bản & sản phẩm văn hóa;Sách, ấn bản & sản phẩm văn hóa;103
+1.189;DST;Đầu tư Sao Thăng Long;HNX;Dịch vụ Tiêu dùng;Truyền thông;Truyền thông;Sách, ấn bản & sản phẩm văn hóa;Sách, ấn bản & sản phẩm văn hóa;100
+1.190;DAD;Phát triển GD Đà Nẵng;HNX;Dịch vụ Tiêu dùng;Truyền thông;Truyền thông;Sách, ấn bản & sản phẩm văn hóa;Sách, ấn bản & sản phẩm văn hóa;96
+1.191;STC;Sách và TB Trường học TP HCM;HNX;Dịch vụ Tiêu dùng;Truyền thông;Truyền thông;Sách, ấn bản & sản phẩm văn hóa;Sách, ấn bản & sản phẩm văn hóa;96
+1.192;BED;Sách Đà Nẵng;HNX;Dịch vụ Tiêu dùng;Truyền thông;Truyền thông;Sách, ấn bản & sản phẩm văn hóa;Sách, ấn bản & sản phẩm văn hóa;92
+1.193;VPR;VINAPRINT;UPCoM;Dịch vụ Tiêu dùng;Truyền thông;Truyền thông;Sách, ấn bản & sản phẩm văn hóa;Sách, ấn bản & sản phẩm văn hóa;82
+1.194;ADC;Mĩ thuật và Truyền thông;HNX;Dịch vụ Tiêu dùng;Truyền thông;Truyền thông;Sách, ấn bản & sản phẩm văn hóa;Sách, ấn bản & sản phẩm văn hóa;80
+1.195;ALT;Văn hóa Tân Bình;HNX;Dịch vụ Tiêu dùng;Truyền thông;Truyền thông;Sách, ấn bản & sản phẩm văn hóa;Sách, ấn bản & sản phẩm văn hóa;77
+1.196;QST;Sách Quảng Ninh;HNX;Dịch vụ Tiêu dùng;Truyền thông;Truyền thông;Sách, ấn bản & sản phẩm văn hóa;Sách, ấn bản & sản phẩm văn hóa;66
+1.197;NBE;Sách và Thiết bị GD Miền Bắc;UPCoM;Dịch vụ Tiêu dùng;Truyền thông;Truyền thông;Sách, ấn bản & sản phẩm văn hóa;Sách, ấn bản & sản phẩm văn hóa;62
+1.198;SMN;Sách và thiết bị GD miền Nam;HNX;Dịch vụ Tiêu dùng;Truyền thông;Truyền thông;Sách, ấn bản & sản phẩm văn hóa;Sách, ấn bản & sản phẩm văn hóa;59
+1.199;SGD;Sách GD TP.HCM;HNX;Dịch vụ Tiêu dùng;Truyền thông;Truyền thông;Sách, ấn bản & sản phẩm văn hóa;Sách, ấn bản & sản phẩm văn hóa;54
+1.200;EPH;Xuất bản giáo dục Hà Nội;UPCoM;Dịch vụ Tiêu dùng;Truyền thông;Truyền thông;Sách, ấn bản & sản phẩm văn hóa;Sách, ấn bản & sản phẩm văn hóa;46
+1.201;LBE;ĐT & TM LABECO;HNX;Dịch vụ Tiêu dùng;Truyền thông;Truyền thông;Sách, ấn bản & sản phẩm văn hóa;Sách, ấn bản & sản phẩm văn hóa;44
+1.202;ECI;Bản đồ và tranh ảnh GD;HNX;Dịch vụ Tiêu dùng;Truyền thông;Truyền thông;Sách, ấn bản & sản phẩm văn hóa;Sách, ấn bản & sản phẩm văn hóa;43
+1.203;IN4;In số 4;UPCoM;Dịch vụ Tiêu dùng;Truyền thông;Truyền thông;Sách, ấn bản & sản phẩm văn hóa;Sách, ấn bản & sản phẩm văn hóa;39
+1.204;HEV;Sách Đại học - Dạy nghề;HNX;Dịch vụ Tiêu dùng;Truyền thông;Truyền thông;Sách, ấn bản & sản phẩm văn hóa;Sách, ấn bản & sản phẩm văn hóa;30
+1.205;DAE;Sách Giáo dục Đà Nẵng;HNX;Dịch vụ Tiêu dùng;Truyền thông;Truyền thông;Sách, ấn bản & sản phẩm văn hóa;Sách, ấn bản & sản phẩm văn hóa;30
+1.206;IHK;In Hàng Không;UPCoM;Dịch vụ Tiêu dùng;Truyền thông;Truyền thông;Sách, ấn bản & sản phẩm văn hóa;Sách, ấn bản & sản phẩm văn hóa;30
+1.207;SAP;In Sách TP.HCM;UPCoM;Dịch vụ Tiêu dùng;Truyền thông;Truyền thông;Sách, ấn bản & sản phẩm văn hóa;Sách, ấn bản & sản phẩm văn hóa;25
+1.208;TPH;In Sách giáo khoa TP.Hà Nội;HNX;Dịch vụ Tiêu dùng;Truyền thông;Truyền thông;Sách, ấn bản & sản phẩm văn hóa;Sách, ấn bản & sản phẩm văn hóa;24
+1.209;VNX;QC và Hội chợ Thương mại;UPCoM;Dịch vụ Tiêu dùng;Truyền thông;Truyền thông;Dịch vụ truyền thông;Dịch vụ truyền thông;21
+1.210;BST;Sách và Thiết bị Bình Thuận;HNX;Dịch vụ Tiêu dùng;Truyền thông;Truyền thông;Sách, ấn bản & sản phẩm văn hóa;Sách, ấn bản & sản phẩm văn hóa;18
+1.211;BDB;Sách Bình Định;HNX;Dịch vụ Tiêu dùng;Truyền thông;Truyền thông;Sách, ấn bản & sản phẩm văn hóa;Sách, ấn bản & sản phẩm văn hóa;10
+1.212;VGI;Đầu tư Quốc tế Viettel;UPCoM;Viễn thông;Viễn thông;Viễn thông di động;Viễn thông di động;Viễn thông di động;201.056
+1.213;FOX;FPT Telecom;UPCoM;Viễn thông;Viễn thông;Viễn thông cố định;Viễn thông cố định;Viễn thông cố định;43.790
+1.214;TTN;Công nghệ và Truyền thông VN;UPCoM;Viễn thông;Viễn thông;Viễn thông cố định;Viễn thông cố định;Viễn thông cố định;527
+1.215;ABC;Truyền thông VMG;UPCoM;Viễn thông;Viễn thông;Viễn thông di động;Viễn thông di động;Viễn thông di động;211
+1.216;MFS;Mobifone Service;UPCoM;Viễn thông;Viễn thông;Viễn thông di động;Viễn thông di động;Viễn thông di động;204
+1.217;PIA;Tin học Viễn thông Petrolimex;HNX;Viễn thông;Viễn thông;Viễn thông cố định;Viễn thông cố định;Viễn thông cố định;109
+1.218;PTP;Viễn Thông và In Bưu điện;UPCoM;Viễn thông;Viễn thông;Viễn thông cố định;Viễn thông cố định;Viễn thông cố định;70
+1.219;PAI;CNTT, VT và Tự động hóa Dầu khí - PAIC;UPCoM;Viễn thông;Viễn thông;Viễn thông cố định;Viễn thông cố định;Viễn thông cố định;56
+1.220;VGC;Tổng Công ty Viglacera;HOSE;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Sản xuất gạch ốp lát & Vật liệu lát;18.158
+1.221;CTR;Công trình Viettel;HOSE;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;14.481
+1.222;SNZ;SONADEZI;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;12.876
+1.223;LGC;Đầu tư Cầu đường CII;HOSE;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;11.571
+1.224;BMP;Nhựa Bình Minh;HOSE;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Vật liệu xây dựng khác;10.871
+1.225;VCG;VINACONEX;HOSE;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;10.595
+1.226;VCS;VICOSTONE;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Sản xuất gạch ốp lát & Vật liệu lát;10.016
+1.227;NTP;Nhựa Tiền Phong;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Vật liệu xây dựng khác;8.409
+1.228;PC1;Tập đoàn PC1;HOSE;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;8.304
+1.229;SJG;Tổng Công ty Sông Đà;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;7.710
+1.230;CTD;Xây dựng Coteccons;HOSE;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;6.755
+1.231;SCG;Xây dựng SCG;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;5.559
+1.232;CC1;TCT Xây dựng số 1;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;5.014
+1.233;HHV;Đầu tư Hạ tầng Giao thông Đèo Cả;HOSE;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;5.014
+1.234;CII;Hạ tầng Kỹ thuật TP.HCM;HOSE;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;4.909
+1.235;HT1;VICEM Hà Tiên;HOSE;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Xi măng;4.388
+1.236;DPG;Tập đoàn Đạt Phương;HOSE;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;3.610
+1.237;C4G;Tập Đoàn Cienco4;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;2.996
+1.238;DNP;Nhựa Đồng Nai;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Vật liệu xây dựng khác;2.960
+1.239;GAB;ĐT Khai khoáng và QL Tài sản FLC;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Sản xuất gạch;2.927
+1.240;LIC;LICOGI;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;2.700
+1.241;BCR;BCG Land;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;2.612
+1.242;DCF;XD và Thiết kế số 1;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;2.166
+1.243;FCN;FECON CORP;HOSE;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;2.094
+1.244;LCG;LIZEN;HOSE;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;2.027
+1.245;VLB;VLXD Biên Hòa;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Khai thác đá;1.866
+1.246;FIC;VLXD số 1;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Vật liệu xây dựng khác;1.842
+1.247;HBC;Tập đoàn Xây dựng Hòa Bình;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;1.703
+1.248;TCD;Tập đoàn Xây dựng Tracodi;HOSE;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;1.605
+1.249;HAN;Xây dựng Hà Nội;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;1.474
+1.250;EVG;Tập đoàn Everland;HOSE;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;1.429
+1.251;SBM;Đầu tư PT Bắc Minh;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;1.396
+1.252;ACC;Đầu tư và XD Bình Dương ACC;HOSE;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Sản xuất bê tông;1.386
+1.253;L18;LICOGI - 18;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;1.361
+1.254;THG;XD Tiền Giang;HOSE;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;1.145
+1.255;NHA;PT Nhà và Đô thị Nam HN;HOSE;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;1.140
+1.256;LBM;Khoáng sản Lâm Đồng;HOSE;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Vật liệu xây dựng khác;1.088
+1.257;LHC;XD Thủy lợi Lâm Đồng;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;1.068
+1.258;CSC;Tập đoàn COTANA;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;1.040
+1.259;VIT;Viglacera Tiên Sơn;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Sản xuất gạch ốp lát & Vật liệu lát;975
+1.260;CVT;CMC JSC;HOSE;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Sản xuất gạch ốp lát & Vật liệu lát;974
+1.261;BCC;Xi măng Bỉm Sơn;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Xi măng;961
+1.262;ICN;XD Dầu Khí IDICO;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;932
+1.263;L14;Licogi 14;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;867
+1.264;CTI;Cường Thuận IDICO;HOSE;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;844
+1.265;VC7;BGI Group;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;826
+1.266;EIC;EVN Quốc Tế;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;807
+1.267;S99;Sông Đà 9.09 (SCI);HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;793
+1.268;MVC;VL và XD Bình Dương;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Sản xuất gạch;787
+1.269;CC4;ĐT và XD số 4;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;768
+1.270;PVX;Xây lắp Dầu khí Việt Nam;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;749
+1.271;CNT;Tập đoàn CNT;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;721
+1.272;G36;Tổng Công ty 36;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;700
+1.273;TED;Thiết kế GTVT;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;661
+1.274;ADP;Sơn Á Đông;HOSE;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Sơn và chất phủ;654
+1.275;BTS;Xi măng Bút Sơn;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Xi măng;643
+1.276;DC4;Xây dựng DIC Holdings;HOSE;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;618
+1.277;VIW;Đầu tư nước và môi trường VN - Viwaseen;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;609
+1.278;DHA;Hóa An;HOSE;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Khai thác đá;604
+1.279;CTX;CONSTREXIM;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;600
+1.280;VC2;Đầu tư và Xây dựng VINA2;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;591
+1.281;HPP;Sơn Hải Phòng;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Sơn và chất phủ;586
+1.282;S55;Sông Đà 505;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;574
+1.283;SJE;Sông Đà 11;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;563
+1.284;HC3;Xây dựng số 3 Hải Phòng;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;559
+1.285;LAI;XD Long An IDICO;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;557
+1.286;RCC;Công trình Đường sắt;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;513
+1.287;NNC;Đá Núi Nhỏ;HOSE;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Khai thác đá;491
+1.288;XMC;Bê tông Xuân Mai;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Sản xuất bê tông;487
+1.289;SCL;Sông Đà Cao Cường;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Sản xuất gạch;485
+1.290;DGT;Công trình GT Đồng Nai;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;477
+1.291;HUB;Xây lắp Huế;HOSE;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;469
+1.292;C69;Xây dựng 1369;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;457
+1.293;TSA;Đầu Tư Và Xây Lắp Trường Sơn;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;442
+1.294;MST;Đầu tư MST;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;418
+1.295;CNN;Xây dựng Coninco;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;414
+1.296;SD9;Sông Đà 9;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;407
+1.297;CRC;Create Capital Việt Nam;HOSE;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Sản xuất gạch;405
+1.298;QNC;Xi măng Quảng Ninh;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Xi măng;402
+1.299;HTI;PT Hạ tầng IDICO;HOSE;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;400
+1.300;TDF;Xây dựng Trung Đô;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Sản xuất gạch ốp lát & Vật liệu lát;384
+1.301;CDC;Chương Dương Corp;HOSE;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;378
+1.302;SDU;Đô thị Sông Đà;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;376
+1.303;MBG;Tập đoàn MBG;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Vật liệu xây dựng bán buôn;361
+1.304;HVH;Đầu tư và Công nghệ HVC;HOSE;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;343
+1.305;HMS;XD Bảo tàng Hồ Chí Minh;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;328
+1.306;VNE;Xây dựng điện Việt Nam;HOSE;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;313
+1.307;BAX;Công ty Thống Nhất;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;312
+1.308;PSB;Sao Mai Bến Đình;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;310
+1.309;TTL;TCT Thăng Long;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;310
+1.310;CCM;Xi măng Cần Thơ;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Xi măng;298
+1.311;PCC;Xây lắp 1- Petrolimex;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;294
+1.312;BDT;VLXD Đồng Tháp;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Vật liệu xây dựng khác;286
+1.313;GTS;Công trình Giao thông Sài Gòn;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;285
+1.314;SC5;Xây dựng Số 5;HOSE;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;285
+1.315;PHC;Xây dựng Phục Hưng Holdings;HOSE;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;283
+1.316;LIG;Licogi 13;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;283
+1.317;NED;Phát triển Điện Tây Bắc;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;282
+1.318;HOM;Xi măng VICEM Hoàng Mai;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Xi măng;281
+1.319;HAM;Vật tư Hậu Giang;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Vật liệu xây dựng bán buôn;276
+1.320;CLH;Xi măng La Hiên;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Xi măng;270
+1.321;C32;CIC39;HOSE;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Sản xuất bê tông;268
+1.322;VE4;Xây dựng điện VNECO4;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;267
+1.323;VHL;Viglacera Hạ Long;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Sản xuất gạch;265
+1.324;CMS;Tập đoàn CMH Việt Nam;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;262
+1.325;SCI;SCI E&C;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;259
+1.326;VCC;Vinaconex 25;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;250
+1.327;CMD;VLXD và Nội thất TP.HCM;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Vật liệu xây dựng bán buôn;244
+1.328;VCX;Xi măng Yên Bình;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Xi măng;241
+1.329;GND;Gạch ngói Đồng Nai;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Sản xuất gạch;240
+1.330;GKM;Khang Minh Group;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Sản xuất gạch;239
+1.331;VVN;XD Công nghiệp Việt Nam;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;231
+1.332;CQT;Xi măng Quán Triều VVMI;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Xi măng;230
+1.333;C47;Xây dựng 47;HOSE;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;226
+1.334;HID;Halcom Vietnam;HOSE;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;211
+1.335;CIG;Xây dựng COMA 18;HOSE;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;204
+1.336;SD5;Sông Đà 5;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;203
+1.337;SCJ;Xi măng Sài Sơn;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Xi măng;200
+1.338;VC6;Visicons;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;197
+1.339;BCE;XD và GT Bình Dương;HOSE;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;197
+1.340;SDT;Sông Đà 10;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;195
+1.341;MES;Cơ điện Công trình;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;186
+1.342;TTB;Tập đoàn Tiến Bộ;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Vật liệu xây dựng khác;183
+1.343;HU4;Đầu tư và Xây dựng HUD4;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;172
+1.344;GMX;Gạch ngói Mỹ Xuân;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Sản xuất gạch;172
+1.345;ING;Đầu Tư Và Pt Xây Dựng;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;169
+1.346;VMC;VIMECO;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;165
+1.347;DFF;Tập đoàn Đua Fat;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;163
+1.348;DSG;Kính Đáp Cầu;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Vật liệu xây dựng khác;162
+1.349;PXS;Lắp máy Dầu khí;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;157
+1.350;PVY;Chế tạo Giàn khoan Dầu khí;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;153
+1.351;PHH;Hồng Hà Việt Nam;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;152
+1.352;FCM;Khoáng sản FECON;HOSE;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Sản xuất bê tông;152
+1.353;PTC;Đầu tư ICAPITAL;HOSE;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;150
+1.354;HSP;Sơn Tổng hợp Hà Nội;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Sơn và chất phủ;149
+1.355;DND;XD và Vật liệu Đồng Nai;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Khai thác đá;147
+1.356;TCR;Gốm sứ TAICERA;HOSE;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Sản xuất gạch ốp lát & Vật liệu lát;146
+1.357;UDJ;Becamex UDJ;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;144
+1.358;BOT;BOT Cầu Thái Hà;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;142
+1.359;NAV;Tấm lợp và gỗ Nam Việt;HOSE;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Vật liệu xây dựng khác;141
+1.360;V12;VINACONEX 12;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;140
+1.361;LM8;LILAMA 18;HOSE;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;139
+1.362;TA9;Xây lắp Thành An 96;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;139
+1.363;GMH;Minh Hưng Quảng Trị;HOSE;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Sản xuất gạch;137
+1.364;VXB;VLXD Bến Tre;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Vật liệu xây dựng bán buôn;134
+1.365;TRT;CTCP RedstarCera;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Sản xuất gạch ốp lát & Vật liệu lát;132
+1.366;VTV;Năng lượng và Môi trường VICEM;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Vật liệu xây dựng khác;131
+1.367;UDC;XD&PT Đô thị Bà Rịa - Vũng Tàu;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;129
+1.368;BTD;Bê tông ly tâm Thủ Đức;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Sản xuất bê tông;126
+1.369;VC1;Xây dựng số 1;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;126
+1.370;ICG;Xây dựng Sông Hồng;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;121
+1.371;KDM;Tập đoàn GCL;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;121
+1.372;MDG;Xây dựng Miền Đông;HOSE;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Khai thác đá;116
+1.373;YBC;Xi măng và Khoáng sản Yên Bái;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Xi măng;115
+1.374;DIH;PT Xây dựng Hội An;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;114
+1.375;TV3;Tư vấn XD điện 3;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;113
+1.376;BT6;Bê tông 6;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Sản xuất bê tông;112
+1.377;TL4;XD Thủy lợi 4;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;111
+1.378;ACE;Bê tông An Giang;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Sản xuất bê tông;110
+1.379;PFL;Dầu khí Đông Đô;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;109
+1.380;L40;Đầu tư và Xây dựng 40;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;108
+1.381;KPF;Đầu tư Tài sản KOJI;HOSE;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Vật liệu xây dựng khác;108
+1.382;HC1;Xây dựng số 1 Hà Nội;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;107
+1.383;HVX;Xi măng Vicem Hải Vân;HOSE;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Xi măng;106
+1.384;HDA;Hãng sơn Đông Á;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Sơn và chất phủ;105
+1.385;S74;Sông Đà 7.04;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;104
+1.386;SD6;Sông Đà 6;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;104
+1.387;ICC;Xây dựng công nghiệp;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;103
+1.388;NHC;Gạch ngói Nhị Hiệp;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Sản xuất gạch;100
+1.389;SDN;Sơn Đồng Nai;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Sơn và chất phủ;97
+1.390;CCV;XD CN và đô thị Việt Nam;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;96
+1.391;MCG;Năng lượng và Bất động sản MCG;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;95
+1.392;TCK;COMA;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;93
+1.393;KSQ;CNC Capital Việt Nam;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Vật liệu xây dựng bán buôn;93
+1.394;TLT;Viglacera Thăng long;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Sản xuất gạch ốp lát & Vật liệu lát;91
+1.395;SD3;Sông Đà 3;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;90
+1.396;HFB;Công trình Cầu phà TP HCM;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;80
+1.397;HCC;Bê tông Hòa Cầm;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Sản xuất bê tông;80
+1.398;PDB;DIN Capital;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Sản xuất bê tông;78
+1.399;GH3;Công trình giao thông Hà Nội;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;76
+1.400;VC9;Xây dựng số 9;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;75
+1.401;S72;Sông Đà 7.02;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;74
+1.402;INC;Tư vấn Đầu tư IDICO;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;74
+1.403;TVA;Sứ Viglacera Thanh Trì;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Vật liệu xây dựng khác;71
+1.404;DLR;Địa ốc Đà Lạt;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;68
+1.405;SD2;Sông Đà 2;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;68
+1.406;SIG;Đầu tư và Thương mại Sông Đà;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;67
+1.407;HMR;Đá Hoàng Mai;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Khai thác đá;66
+1.408;TVH;Tư vấn XD công trình Hàng hải;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;65
+1.409;PNT;Kỹ thuật XD Phú Nhuận;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;65
+1.410;CT3;Xây dựng công trình 3;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;64
+1.411;HAS;Hacisco;HOSE;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;64
+1.412;TTC;Gạch men Thanh Thanh;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Sản xuất gạch ốp lát & Vật liệu lát;64
+1.413;TGG;The Golden Group;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;63
+1.414;DID;DIC - Đồng Tiến;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Sản xuất bê tông;62
+1.415;BCO;Xây dựng Bình Phước;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;62
+1.416;SHG;Tổng Công ty Sông Hồng;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;62
+1.417;SVN;Tập đoàn Vexilla Việt Nam;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;61
+1.418;PXI;XL CN và dân dụng Dầu khí;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;60
+1.419;CT6;Công trình 6;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;60
+1.420;MCC;Gạch ngói cao cấp;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Sản xuất gạch;60
+1.421;DC2;DIC Số 2;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;60
+1.422;TA6;Đầu tư và Xây lắp Thành An 665;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;59
+1.423;TMX;Thương mại Xi măng;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Xi măng;59
+1.424;CDO;Tư vấn Thiết kế và PT Đô thị;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;59
+1.425;HU1;Xây dựng HUD1;HOSE;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;58
+1.426;HCI;Đầu tư - XD Hà Nội;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;58
+1.427;TEL;Phát triển công trình viễn thông;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;58
+1.428;CH5;Xây dựng số 5 Hà Nội;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;57
+1.429;NDX;Phát triển Nhà Đà Nẵng;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Sản xuất bê tông;55
+1.430;USC;Khảo sát và Xây dựng - USCO;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;54
+1.431;PXT;Xây lắp Đường ống Dầu khí;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;54
+1.432;CHC;Nội thất Cẩm Hà;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Vật liệu xây dựng khác;51
+1.433;DVW;DV và XD cấp nước Đồng Nai;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;48
+1.434;DTC;Viglacera Đông Triều;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Sản xuất gạch;47
+1.435;PCM;VLXD Bưu điện;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Vật liệu xây dựng khác;46
+1.436;DC1;Phát triển Xây dựng số 1 (DIC1);UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;45
+1.437;MCO;BDC Việt Nam;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;45
+1.438;VIH;Viglacera Hà Nội;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Sản xuất gạch ốp lát & Vật liệu lát;45
+1.439;HEJ;Tư vấn Xây dựng Thủy Lợi VN;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;44
+1.440;MEC;Lắp máy Sông Đà;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;43
+1.441;PVV;Vinaconex 39;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;43
+1.442;PTD;Thiết kế-XD-TM Phúc Thịnh;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;40
+1.443;DCR;Gạch men COSEVCO;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Sản xuất gạch ốp lát & Vật liệu lát;40
+1.444;VCE;Xây lắp Môi trường;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;40
+1.445;LG9;Cơ giới và XL số 9 (Licogi 9);UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;39
+1.446;QTC;GTVT Quảng Nam;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;38
+1.447;CEG;XD và Thiết bị Công nghiệp;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;37
+1.448;DXV;Vật liệu Xây dựng Đà Nẵng;HOSE;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Vật liệu xây dựng bán buôn;37
+1.449;HU3;Xây dựng HUD3;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;36
+1.450;E29;Đầu tư XD và Kỹ thuật 29;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;35
+1.451;PEN;Xây lắp III Petrolimex;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;34
+1.452;SD7;Sông Đà 7;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;34
+1.453;TBX;Xi măng Thái Bình;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Xi măng;34
+1.454;ALV;Xây dựng ALVICO;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;34
+1.455;LCD;Thí nghiệm cơ điện;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;33
+1.456;SJM;Sông Đà 19;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;33
+1.457;NXT;SX và Cung ứng VLXD Kon Tum;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Vật liệu xây dựng khác;32
+1.458;DVG;Tập đoàn Sơn Đại Việt;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Sơn và chất phủ;32
+1.459;TXM;Thạch cao Xi măng;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Xi măng;31
+1.460;CYC;Gạch men Chang YIH;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Sản xuất gạch ốp lát & Vật liệu lát;31
+1.461;CID;Xây dựng và Phát triển Cơ sở Hạ tầng;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;30
+1.462;XLV;XL và DV Sông Đà;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;29
+1.463;SD4;Sông Đà 4;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;29
+1.464;SJC;Sông Đà 1.01;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;28
+1.465;VTA;Gạch men VITALY;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Sản xuất gạch ốp lát & Vật liệu lát;28
+1.466;VHH;Kinh doanh nhà Thành Đạt;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Sản xuất bê tông;28
+1.467;CGV;Vinaceglass JSC;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Vật liệu xây dựng khác;28
+1.468;ACS;Xây lắp Thương mại 2;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;27
+1.469;L12;LICOGI 12;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;26
+1.470;ICI;Đầu tư và XD Công nghiệp;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;26
+1.471;VE9;VNECO 9;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;26
+1.472;CDR;Xây dựng Cao su Đồng Nai;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;26
+1.473;PTE;Xi măng Phú Thọ;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Xi măng;25
+1.474;VTS;Gạch Ngói Từ Sơn;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Sản xuất gạch;25
+1.475;SDD;Xây lắp Sông Đà;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;24
+1.476;BMN;Công ty 715;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;24
+1.477;DIC;ĐT và TM DIC;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;24
+1.478;L45;Lilama 45.1;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;23
+1.479;TS3;Trường Sơn 532;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;22
+1.480;PTO;Xây dựng Công trình Bưu điện;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;21
+1.481;VE2;Xây dựng Điện VNECO 2;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;21
+1.482;VW3;VIWASEEN.3;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;20
+1.483;XMD;Xuân Mai - Đạo Tú;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Sản xuất bê tông;20
+1.484;TVG;XD Giao thông Vận tải;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;20
+1.485;VE1;VNECO 1;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;20
+1.486;C92;Xây dựng và Đầu tư 492;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;19
+1.487;CI5;Đầu tư Xây dựng số 5;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;19
+1.488;CX8;Constrexim số 8;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;19
+1.489;TKC;Địa ốc Tân Kỷ;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;18
+1.490;LM3;Lilama 3;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;18
+1.491;PSG;XL Dầu khí Sài Gòn;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;18
+1.492;UMC;Công trình đô thị Nam Định;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;17
+1.493;S12;Sông Đà 12;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;17
+1.494;HLY;Gốm Xây Dựng Yên Hưng;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Sản xuất gạch;16
+1.495;QNT;Tư vấn và Đầu tư Phát triển Quảng Nam;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;16
+1.496;PLE;Tư vấn Xây dựng Petrolimex;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;16
+1.497;CMI;CMISTONE Việt Nam;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Khai thác đá;16
+1.498;KCE;Bê tông Ly tâm ĐL Khánh Hòa;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Sản xuất bê tông;16
+1.499;C12;Cầu 12;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;16
+1.500;CIP;XL và SX công nghiệp;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;15
+1.501;DCT;Tấm lợp VLXD Đồng Nai;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Vật liệu xây dựng khác;15
+1.502;TTZ;Xây dựng Tiến Trung;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Xi măng;14
+1.503;SDJ;Sông Đà 25;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Sản xuất gạch;13
+1.504;CTA;Xây dựng Vinavico;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;13
+1.505;PVH;Xây lắp Dầu khí Thanh Hóa;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;13
+1.506;BTN;Gạch Tuy Nen Bình Định;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Sản xuất gạch;11
+1.507;PID;Trang trí nội thất Dầu khí;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Vật liệu xây dựng bán buôn;11
+1.508;PVA;Xây dựng dầu khí Nghệ An;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;11
+1.509;SDP;Công ty Cổ phần SDP;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Vật liệu xây dựng bán buôn;11
+1.510;VPC;V- Power;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;11
+1.511;QCC;Đầu tư Xây dựng và Phát triển Hạ tầng Viễn Thông;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;11
+1.512;LUT;Đầu tư Xây dựng Lương Tài;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;10
+1.513;VE3;Xây dựng điện VNECO 3;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;10
+1.514;BHC;Bê tông Biên Hòa;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Sản xuất bê tông;10
+1.515;VE8;Xây dựng Điện Vneco 8;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;10
+1.516;SCC;Thương mại Đầu tư SHB;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Xi măng;10
+1.517;ATB;Công ty An Thịnh;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;9
+1.518;RCD;XD - Địa ốc Cao su;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;8
+1.519;SDY;Xi măng Sông Đà Yaly;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Xi măng;8
+1.520;CDG;VLXD Cầu Đuống;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Sản xuất gạch;8
+1.521;PXM;Xây lắp Dầu khí Miền Trung;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;8
+1.522;E12;XD Điện VNECO 12;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;7
+1.523;LCS;Licogi 16.6;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;7
+1.524;KTT;Tập đoàn Đầu tư KTT;HNX;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;7
+1.525;LCC;Xi măng Hồng Phong;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Xi măng;6
+1.526;TBT;XD Công trình GT Bến Tre;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;6
+1.527;H11;Xây dựng HUD101;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;6
+1.528;DAC;CTCP 382 Đông Anh;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Sản xuất gạch;5
+1.529;S96;Sông Đà 9.06;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;4
+1.530;SD8;Sông Đà 8;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;4
+1.531;SDX;PCCC và Đầu tư XD Sông Đà;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;4
+1.532;V15;Vinaconex 15;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;4
+1.533;VC5;Xây dựng Số 5;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;4
+1.534;NAC;Tư vấn xây dựng Tổng hợp;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;2
+1.535;S27;Sông Đà 27;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Xây dựng;Xây dựng;1
+1.536;X77;Thành An 77;UPCoM;Công nghiệp;Xây dựng và Vật liệu;Xây dựng và Vật liệu;Vật liệu xây dựng & Nội thất;Xi măng;0
+1.537;DHG;Dược Hậu Giang;HOSE;Dược phẩm và Y tế;Y tế;Dược phẩm;Dược phẩm;Dược phẩm;13.663
+1.538;IMP;IMEXPHARM;HOSE;Dược phẩm và Y tế;Y tế;Dược phẩm;Dược phẩm;Dược phẩm;6.892
+1.539;DVN;Tổng Công ty Dược Việt Nam;UPCoM;Dược phẩm và Y tế;Y tế;Dược phẩm;Dược phẩm;Dược phẩm;5.129
+1.540;DBD;Dược - TB Y tế Bình Định;HOSE;Dược phẩm và Y tế;Y tế;Dược phẩm;Dược phẩm;Dược phẩm;4.696
+1.541;TRA;Traphaco;HOSE;Dược phẩm và Y tế;Y tế;Dược phẩm;Dược phẩm;Dược phẩm;3.138
+1.542;TNH;Tập đoàn Bệnh viện TNH;HOSE;Dược phẩm và Y tế;Y tế;Thiết bị và Dịch vụ Y tế;Chăm sóc y tế;Chăm sóc y tế;2.708
+1.543;DTP;Dược phẩm CPC1 Hà Nội;UPCoM;Dược phẩm và Y tế;Y tế;Dược phẩm;Dược phẩm;Dược phẩm;2.543
+1.544;DMC;Dược phẩm DOMESCO;HOSE;Dược phẩm và Y tế;Y tế;Dược phẩm;Dược phẩm;Dược phẩm;2.240
+1.545;DCL;Dược phẩm Cửu Long;HOSE;Dược phẩm và Y tế;Y tế;Dược phẩm;Dược phẩm;Dược phẩm;1.957
+1.546;OPC;Dược phẩm OPC;HOSE;Dược phẩm và Y tế;Y tế;Dược phẩm;Dược phẩm;Dược phẩm;1.512
+1.547;DP3;Dược Phẩm TW3;HNX;Dược phẩm và Y tế;Y tế;Dược phẩm;Dược phẩm;Dược phẩm;1.286
+1.548;TTD;Bệnh viện Tim Tâm Đức;UPCoM;Dược phẩm và Y tế;Y tế;Thiết bị và Dịch vụ Y tế;Chăm sóc y tế;Chăm sóc y tế;978
+1.549;PMC;Pharmedic;HNX;Dược phẩm và Y tế;Y tế;Dược phẩm;Dược phẩm;Dược phẩm;951
+1.550;AGP;Dược phẩm AGIMEXPHARM;UPCoM;Dược phẩm và Y tế;Y tế;Dược phẩm;Dược phẩm;Dược phẩm;912
+1.551;DP1;Dược phẩm Trung ương CPC1;UPCoM;Dược phẩm và Y tế;Y tế;Dược phẩm;Dược phẩm;Dược phẩm;793
+1.552;NDC;Dược phẩm Nam Dược;UPCoM;Dược phẩm và Y tế;Y tế;Dược phẩm;Dược phẩm;Dược phẩm;787
+1.553;PBC;Dược Phẩm TW 1- Pharbaco;UPCoM;Dược phẩm và Y tế;Y tế;Dược phẩm;Dược phẩm;Dược phẩm;755
+1.554;MKP;Dược phẩm Mekophar;UPCoM;Dược phẩm và Y tế;Y tế;Dược phẩm;Dược phẩm;Dược phẩm;746
+1.555;DHD;Dược Vật Tư Y Tế Hải Dương;UPCoM;Dược phẩm và Y tế;Y tế;Dược phẩm;Dược phẩm;Dược phẩm;743
+1.556;VDP;Dược phẩm VIDIPHA;HOSE;Dược phẩm và Y tế;Y tế;Dược phẩm;Dược phẩm;Dược phẩm;729
+1.557;DAN;Dược Danapha;UPCoM;Dược phẩm và Y tế;Y tế;Dược phẩm;Dược phẩm;Dược phẩm;611
+1.558;YTC;XNK Y tế TP.HCM;UPCoM;Dược phẩm và Y tế;Y tế;Thiết bị và Dịch vụ Y tế;Dụng cụ y tế;Dụng cụ y tế;559
+1.559;DVM;Dược liệu Việt Nam;HNX;Dược phẩm và Y tế;Y tế;Dược phẩm;Dược phẩm;Dược phẩm;376
+1.560;JVC;Đầu tư và Phát triển Y tế Việt Nhật;HOSE;Dược phẩm và Y tế;Y tế;Thiết bị và Dịch vụ Y tế;Thiết bị y tế;Thiết bị y tế;372
+1.561;CNC;Công nghệ cao Traphaco;UPCoM;Dược phẩm và Y tế;Y tế;Dược phẩm;Dược phẩm;Dược phẩm;356
+1.562;MED;Dược Mediplantex;HNX;Dược phẩm và Y tế;Y tế;Dược phẩm;Dược phẩm;Dược phẩm;324
+1.563;NDP;Dược phẩm 2/9;UPCoM;Dược phẩm và Y tế;Y tế;Dược phẩm;Dược phẩm;Dược phẩm;284
+1.564;VMD;Y Dược phẩm Vimedimex;HOSE;Dược phẩm và Y tế;Y tế;Dược phẩm;Dược phẩm;Dược phẩm;284
+1.565;AMV;Dược-TB Y tế Việt Mỹ;HNX;Dược phẩm và Y tế;Y tế;Thiết bị và Dịch vụ Y tế;Thiết bị y tế;Thiết bị y tế;275
+1.566;DBT;Dược phẩm Bến Tre;HOSE;Dược phẩm và Y tế;Y tế;Dược phẩm;Dược phẩm;Dược phẩm;233
+1.567;MRF;Cao su y tế MERUFA;UPCoM;Dược phẩm và Y tế;Y tế;Thiết bị và Dịch vụ Y tế;Thiết bị y tế;Thiết bị y tế;212
+1.568;DTG;Dược phẩm Tipharco;HNX;Dược phẩm và Y tế;Y tế;Dược phẩm;Dược phẩm;Dược phẩm;200
+1.569;LDP;Dược Lâm Đồng - Ladophar;HNX;Dược phẩm và Y tế;Y tế;Dược phẩm;Dược phẩm;Dược phẩm;194
+1.570;CDP;Dược phẩm TW Codupha;UPCoM;Dược phẩm và Y tế;Y tế;Dược phẩm;Dược phẩm;Dược phẩm;193
+1.571;GPC;Tập đoàn Green+;UPCoM;Dược phẩm và Y tế;Y tế;Dược phẩm;Dược phẩm;Dược phẩm;178
+1.572;HDP;Dược Hà Tĩnh;UPCoM;Dược phẩm và Y tế;Y tế;Dược phẩm;Dược phẩm;Dược phẩm;176
+1.573;BIO;Vắc xin và Sinh phẩm Nha Trang;UPCoM;Dược phẩm và Y tế;Y tế;Dược phẩm;Dược phẩm;Dược phẩm;154
+1.574;SPM;S.P.M CORP;HOSE;Dược phẩm và Y tế;Y tế;Dược phẩm;Dược phẩm;Dược phẩm;153
+1.575;DHN;Dược Hà Nội;UPCoM;Dược phẩm và Y tế;Y tế;Dược phẩm;Dược phẩm;Dược phẩm;151
+1.576;PPP;PP.Pharco;HNX;Dược phẩm và Y tế;Y tế;Dược phẩm;Dược phẩm;Dược phẩm;150
+1.577;DPH;Dược phẩm Hải Phòng;UPCoM;Dược phẩm và Y tế;Y tế;Dược phẩm;Dược phẩm;Dược phẩm;147
+1.578;AMP;Armephaco;UPCoM;Dược phẩm và Y tế;Y tế;Dược phẩm;Dược phẩm;Dược phẩm;134
+1.579;DDN;Dược - TB Y tế Đà Nẵng;UPCoM;Dược phẩm và Y tế;Y tế;Dược phẩm;Dược phẩm;Dược phẩm;130
+1.580;APC;Chiếu xạ An Phú;UPCoM;Dược phẩm và Y tế;Y tế;Dược phẩm;Công nghệ sinh học;Công nghệ sinh học;127
+1.581;NTF;Dược Nghệ An;UPCoM;Dược phẩm và Y tế;Y tế;Dược phẩm;Dược phẩm;Dược phẩm;121
+1.582;UPH;Dược phẩm TW25;UPCoM;Dược phẩm và Y tế;Y tế;Dược phẩm;Dược phẩm;Dược phẩm;112
+1.583;VHE;Dược liệu và Thực phẩm VN;HNX;Dược phẩm và Y tế;Y tế;Dược phẩm;Dược phẩm;Dược phẩm;103
+1.584;DTH;Vật tư Y tế Thanh Hóa;UPCoM;Dược phẩm và Y tế;Y tế;Thiết bị và Dịch vụ Y tế;Thiết bị y tế;Thiết bị y tế;102
+1.585;MTP;Dược Medipharco;UPCoM;Dược phẩm và Y tế;Y tế;Dược phẩm;Dược phẩm;Dược phẩm;89
+1.586;BCP;Dược Enlie;UPCoM;Dược phẩm và Y tế;Y tế;Dược phẩm;Dược phẩm;Dược phẩm;70
+1.587;DNM;Y tế Danameco;UPCoM;Dược phẩm và Y tế;Y tế;Thiết bị và Dịch vụ Y tế;Dụng cụ y tế;Dụng cụ y tế;64
+1.588;DP2;Dược phẩm TW 2;UPCoM;Dược phẩm và Y tế;Y tế;Dược phẩm;Dược phẩm;Dược phẩm;58
+1.589;CVN;Vinam Group;HNX;Dược phẩm và Y tế;Y tế;Thiết bị và Dịch vụ Y tế;Thiết bị y tế;Thiết bị y tế;56
+1.590;DBM;BAMEPHARM;UPCoM;Dược phẩm và Y tế;Y tế;Dược phẩm;Dược phẩm;Dược phẩm;53
+1.591;MKV;Dược Thú Y Cai Lậy;HNX;Dược phẩm và Y tế;Y tế;Dược phẩm;Dược phẩm;Dược phẩm;47
+1.592;DPP;Dược Đồng Nai;UPCoM;Dược phẩm và Y tế;Y tế;Dược phẩm;Dược phẩm;Dược phẩm;38
+1.593;MEF;MEINFA;UPCoM;Dược phẩm và Y tế;Y tế;Thiết bị và Dịch vụ Y tế;Dụng cụ y tế;Dụng cụ y tế;24
+1.594;TW3;Dược TW3;UPCoM;Dược phẩm và Y tế;Y tế;Dược phẩm;Dược phẩm;Dược phẩm;22
