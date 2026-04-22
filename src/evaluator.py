@@ -85,7 +85,7 @@ def compare_results(
   gold_cols = [[row[c] for row in gold_rows] for c in range(n_gold_cols)]
   pred_cols = [[row[c] for row in pred_rows] for c in range(n_pred_cols)]
 
-  # Every gold column must match some pred column
+  # Gold columns must appear somewhere in pred; extra pred columns are accepted so SELECT * does not penalize correct answers
   for gold_col in gold_cols:
     if not any(_vectors_match(gold_col, pred_col, ignore_order=ignore_order) for pred_col in pred_cols):
       return False

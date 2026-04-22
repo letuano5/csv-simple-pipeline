@@ -47,7 +47,7 @@ SQLITE_DIR = ROOT / "output" / "sqlite"
 OUTPUT_DIR = ROOT / "output"
 PROMPT_PATH = ROOT / "prompt.txt"
 
-SUPPORTED_MODELS = ["claude", "gemini", "openai"]
+SUPPORTED_MODELS = ["claude", "gemini", "openai", 'qwen2.5-coder-7b', 'qwen3.5-coder', 'claude-sonnet-4-6']
 
 
 def cmd_run(args: argparse.Namespace) -> None:
@@ -97,6 +97,49 @@ def cmd_convert_only(args: argparse.Namespace) -> None:
       log.error("FAIL: %s — %s", csv_file, e)
 
 
+def _normalize_reparsed_predictions(reparsed: list[dict], questions: list[dict]) -> list[dict]:
+  """Convert .reparsed.json format → standard evaluator format.
+
+  reparsed entries have:  index, db_id, result (JSON string), sql
+  standard format needs:  instance_id, exec_answer (list[list]), sql_answer
+  """
+  index_to_iid: dict[int, str] = {}
+  for i, q in enumerate(questions):
+    q_idx = q.get("index")
+    if q_idx is not None:
+      iid = q.get("instance_id") or f"{q.get('db_id', '')}_{i}"
+      index_to_iid[q_idx] = iid
+
+  result = []
+  for entry in reparsed:
+    idx = entry.get("index")
+    iid = index_to_iid.get(idx) if idx is not None else None
+    if iid is None:
+      iid = f"{entry.get('db_id', 'unknown')}_{idx}"
+
+    raw = entry.get("result", "[]")
+    try:
+      exec_answer = json.loads(raw) if isinstance(raw, str) else raw
+    except (json.JSONDecodeError, TypeError):
+      exec_answer = {"error": "unparseable result"}
+
+    # Wrap flat list (single-column results) into list of single-element lists
+    if isinstance(exec_answer, list) and exec_answer and not isinstance(exec_answer[0], (list, dict)):
+      exec_answer = [[item] for item in exec_answer]
+
+    # Pad ragged rows to uniform width
+    if isinstance(exec_answer, list) and exec_answer and isinstance(exec_answer[0], list):
+      max_cols = max(len(row) for row in exec_answer)
+      exec_answer = [row + [None] * (max_cols - len(row)) for row in exec_answer]
+
+    result.append({
+      "instance_id": iid,
+      "sql_answer": entry.get("sql", ""),
+      "exec_answer": exec_answer,
+    })
+  return result
+
+
 def cmd_eval(args: argparse.Namespace) -> None:
   from src.evaluator import execution_accuracy
   from src.executor import execute_sql
@@ -140,11 +183,19 @@ def cmd_eval(args: argparse.Namespace) -> None:
 
   for model in models:
     pred_path = OUTPUT_DIR / f"{model}.json"
-    if not pred_path.exists():
+    reparsed_path = OUTPUT_DIR / f"{model}.reparsed.json"
+
+    if pred_path.exists():
+      predictions = json.loads(pred_path.read_text(encoding="utf-8"))
+      log.info("[%s] Loaded %d predictions", model, len(predictions))
+    elif reparsed_path.exists():
+      log.info("[%s] Using reparsed format: %s", model, reparsed_path)
+      raw = json.loads(reparsed_path.read_text(encoding="utf-8"))
+      predictions = _normalize_reparsed_predictions(raw, questions)
+      log.info("[%s] Loaded %d reparsed predictions", model, len(predictions))
+    else:
       log.warning("No predictions found for %s: %s", model, pred_path)
       continue
-    predictions = json.loads(pred_path.read_text(encoding="utf-8"))
-    log.info("[%s] Loaded %d predictions", model, len(predictions))
 
     # Check instance_id overlap
     gold_ids = {g["instance_id"] for g in gold_list}
@@ -184,8 +235,8 @@ def cmd_eval(args: argparse.Namespace) -> None:
         log.info("  [%s]", iid)
         log.info("    SQL   : %s", pred_entry.get("sql_answer", "<missing>"))
         log.info("    SQLG  : %s", pred_entry.get("sql", "<missing>"))
-        # log.info("    Pred  : %s", pred_entry.get("exec_answer"))
-        # log.info("    Gold  : %s", gold_entry.get("exec_answer"))
+        log.info("    Pred  : %s", pred_entry.get("exec_answer"))
+        log.info("    Gold  : %s", gold_entry.get("exec_answer"))
 
     print(
       f"[{model}] Execution Accuracy: {result['score']:.4f} "

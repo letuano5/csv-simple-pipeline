@@ -115,7 +115,7 @@ def _parse_number_auto(s: str) -> float | int | None:
   val = _parse_plain_number(s)
   if val is not None:
     return val
-  # Ưu tiên comma = decimal (VN) hơn comma = nghìn (US) khi không rõ format
+  # Prefer VN comma-as-decimal over US comma-as-thousands when format cannot be determined from column context
   val = _parse_vn_simple_decimal(s)
   if val is not None:
     return val
@@ -335,9 +335,11 @@ def _detect_column_type(
       best_count = counts[t]
       best_type = t
 
+  # Below-threshold columns stay as text; a mixed column that is only partially parseable should not be coerced
   if best_count / total < threshold:
     best_type = "text"
 
+  # Integer values are accumulated inside the float bucket; downgrade only when every parsed value is a whole number
   if best_type == "float":
     all_int = all(
       isinstance(v, float) and v == int(v) and abs(v) < 2**53

@@ -69,7 +69,8 @@ def _load_checkpoint(checkpoint_path: Path) -> tuple[set[str], list[dict], dict 
     data = json.loads(checkpoint_path.read_text(encoding="utf-8"))
     done = set(data.get("done", []))
     results = data.get("results", [])
-    pending_batch = data.get("pending_batch")  # {"batch_id": ..., "instance_ids": [...]}
+    # pending_batch holds the in-flight batch_id so the run can be resumed after a crash or SIGINT
+  pending_batch = data.get("pending_batch")  # {"batch_id": ..., "instance_ids": [...]}
     return done, results, pending_batch
   except Exception:
     return set(), [], None
